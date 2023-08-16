@@ -1,21 +1,42 @@
-name: Deploy to GitHub Pages
+name: 部署文档
 on:
   push:
     branches:
       - main
+
+permissions:
+  contents: write
+
 jobs:
-  deploy:
+  deploy-gh-pages:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
-      - name: Install Dependencies
-        run: yarn install
-      - name: Build
-        run: yarn docs:build
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@4.1.0
+        uses: actions/checkout@v3
         with:
+          fetch-depth: 0
+
+
+      - name: 设置 Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: yarn
+
+      - name: 安装依赖
+        run: yarn install --frozen-lockfile
+
+      - name: 构建文档
+        env:
+          NODE_OPTIONS: --max_old_space_size=8192
+        run: |-
+          yarn run docs:build
+          > docs/.vuepress/dist/.nojekyll
+
+      - name: 部署文档
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          # 这是文档部署到的分支名称
           branch: main
           folder: docs/.vuepress/dist
           token: ${{ secrets.ACCESS_TOKEN }}
