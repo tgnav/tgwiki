@@ -33,6 +33,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@vuepress/plugin-google-analytics", "npm:2.0.0-beta.66"],\
             ["@vuepress/plugin-pwa", "npm:2.0.0-beta.66"],\
             ["node-sass", "npm:9.0.0"],\
+            ["pnpm", "npm:8.6.12"],\
             ["sass", "npm:1.64.1"],\
             ["sass-loader", "virtual:9cbd545bc70e3b0728ecd90a286078ed7040f2c2b1efcbbe806e89e6ba786b9f71c145db1002cddab9642f3453cb6a0681e4d3ba38882f6e68ad85b05b22e237#npm:13.3.2"],\
             ["vue", "npm:3.3.4"],\
@@ -7343,6 +7344,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
+      ["pnpm", [\
+        ["npm:8.6.12", {\
+          "packageLocation": "./.yarn/unplugged/pnpm-npm-8.6.12-39c3b78392/node_modules/pnpm/",\
+          "packageDependencies": [\
+            ["pnpm", "npm:8.6.12"],\
+            ["node-gyp", "npm:9.4.0"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
       ["postcss", [\
         ["npm:8.4.27", {\
           "packageLocation": "./.yarn/cache/postcss-npm-8.4.27-2a9f5f8f40-1cdd0c2988.zip/node_modules/postcss/",\
@@ -8938,6 +8949,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@vuepress/plugin-google-analytics", "npm:2.0.0-beta.66"],\
             ["@vuepress/plugin-pwa", "npm:2.0.0-beta.66"],\
             ["node-sass", "npm:9.0.0"],\
+            ["pnpm", "npm:8.6.12"],\
             ["sass", "npm:1.64.1"],\
             ["sass-loader", "virtual:9cbd545bc70e3b0728ecd90a286078ed7040f2c2b1efcbbe806e89e6ba786b9f71c145db1002cddab9642f3453cb6a0681e4d3ba38882f6e68ad85b05b22e237#npm:13.3.2"],\
             ["vue", "npm:3.3.4"],\

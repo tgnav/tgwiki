@@ -1,7 +1,13 @@
 {
   "name": "vuepress-starter",
   "packageManager": "yarn@3.6.1",
-  "devDependencies": {
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "@vuepress/client": "^2.0.0-beta.66",
+    "pnpm": "^8.6.12",
     "@vuepress/plugin-docsearch": "next",
     "@vuepress/plugin-google-analytics": "next",
     "@vuepress/plugin-pwa": "next",
@@ -10,12 +16,5 @@
     "sass-loader": "^13.3.2",
     "vue": "latest",
     "vuepress": "next"
-  },
-  "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
-  },
-  "dependencies": {
-    "@vuepress/client": "^2.0.0-beta.66"
   }
 }
