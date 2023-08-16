@@ -1,0 +1,5 @@
+'node_modules' 
+'.temp' 
+'.cache'
+'.dist'
+.yarn/*
