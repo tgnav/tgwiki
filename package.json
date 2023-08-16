@@ -7,11 +7,11 @@
   },
   "dependencies": {
     "@vuepress/client": "^2.0.0-beta.66",
-    "pnpm": "^8.6.12",
     "@vuepress/plugin-docsearch": "next",
     "@vuepress/plugin-google-analytics": "next",
     "@vuepress/plugin-pwa": "next",
     "node-sass": "^9.0.0",
+    "pnpm": "^8.6.12",
     "sass": "^1.64.1",
     "sass-loader": "^13.3.2",
     "vue": "latest",
