@@ -31,7 +31,7 @@ jobs:
           node-version: 18
 
       - name: 安装依赖
-        run: yarn install --frozen-lockfile
+        run: yarn install
 
       - name: 构建文档
         env:
