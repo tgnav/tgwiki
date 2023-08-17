@@ -19,6 +19,12 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: clear cache
+        run: npm cache clean --force
+
+      - name: install yarn
+        run: npm install -g yarn
+
       - name: 设置 Node.js
         uses: actions/setup-node@v3
         with:
@@ -30,7 +36,7 @@ jobs:
 
       - name: 构建文档
         env:
-          NODE_OPTIONS: --max_old_space_size=8192
+          NODE_OPTIONS:npm cache clean --force --max_old_space_size=8192
         run: |-
           yarn run docs:build
 
