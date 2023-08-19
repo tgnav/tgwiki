@@ -1,17 +1,15 @@
 {
-  "name": "vuepress-starter",
-  "packageManager": "yarn@3.6.1",
+  "name": "tgwiki",
+  "version": "1.0.0",
+  "repository": "https://github.com/Dclef/tgwiki.git",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.66"
+  },
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
   },
   "dependencies": {
-    "@vuepress/client": "^2.0.0-beta.66",
-    "@vuepress/plugin-docsearch": "next",
-    "@vuepress/plugin-google-analytics": "next",
-    "@vuepress/plugin-pwa": "next",
-    "@vuepress/bundler-webpack": "next",
-    "vue": "latest",
-    "vuepress": "next"
+    "@vuepress/plugin-docsearch": "^2.0.0-alpha.1"
   }
 }
