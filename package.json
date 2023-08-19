@@ -1,15 +1,15 @@
 {
   "name": "tgwiki",
   "version": "1.0.0",
+  "license": "GPL",
   "repository": "https://github.com/Dclef/tgwiki.git",
   "devDependencies": {
-    "vuepress": "^2.0.0-beta.66"
+    "vuepress": "^2.0.0-beta.66",
+    "@vuepress/plugin-docsearch": "^2.0.0-alpha.1"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
-  },
-  "dependencies": {
-    "@vuepress/plugin-docsearch": "^2.0.0-alpha.1"
   }
+
 }
