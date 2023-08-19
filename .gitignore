@@ -3,3 +3,4 @@
 '.cache'
 '.dist'
 .yarn/*
+*.xml
