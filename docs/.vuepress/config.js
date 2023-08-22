@@ -2,7 +2,7 @@ import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from 'vuepress'
 import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 import {sitemapPlugin} from "vuepress-plugin-sitemap2";
-
+import { pwaPlugin } from '@vuepress/plugin-pwa'
 export default defineUserConfig({
     base: "/tgwiki/",
     lang: 'zh-CN',
@@ -12,6 +12,8 @@ export default defineUserConfig({
       lineNumbers: true,
     },
     head: [
+      ['link', { rel: 'manifest', href: '/manifest.json' }],
+      ['meta', { name: 'theme-color', content: '#3eaf7c' }],
       ['link', {rel: 'icon', href: '/assets/logo.png'}],
       ['script', {async: true, src: 'https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'}],
       ['script', {async: true, src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7353728415772033', crossorigin: 'anonymous'}],
@@ -92,6 +94,9 @@ export default defineUserConfig({
         danger: '警告',
       }),
     plugins: [
+        pwaPlugin({
+            skipWaiting: true,
+        }),
         sitemapPlugin({
             hostname: "https://tgnav.github.io/tgwiki/",
         }),
