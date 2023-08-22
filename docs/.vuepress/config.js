@@ -12,9 +12,9 @@ export default defineUserConfig({
       lineNumbers: true,
     },
     head: [
-      ['link', { rel: 'manifest', href: '/manifest.json' }],
+      ['link', { rel: 'manifest', href: '/tgwiki/manifest.json' }],
       ['meta', { name: 'theme-color', content: '#3eaf7c' }],
-      ['link', {rel: 'icon', href: '/assets/logo.png'}],
+      ['link', {rel: 'icon', href: '/tgwiki/assets/logo.png'}],
       ['script', {async: true, src: 'https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'}],
       ['script', {async: true, src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7353728415772033', crossorigin: 'anonymous'}],
       ['script', {async: true, src: 'https://www.googletagmanager.com/gtag/js?id=G-M50CZY3LGQ'}],
