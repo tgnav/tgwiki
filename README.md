@@ -5,6 +5,7 @@
 **内容完善中……**
 
 TODO：
-- [ ] sitemap
+
+- [x] sitemap
+- [x] pwa支持
 - [ ] 文档搜索
-- [ ] pwa支持
