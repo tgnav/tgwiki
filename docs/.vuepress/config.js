@@ -1,6 +1,7 @@
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from 'vuepress'
 import { docsearchPlugin } from '@vuepress/plugin-docsearch'
+import {sitemapPlugin} from "vuepress-plugin-sitemap2";
 
 export default defineUserConfig({
     base: "/tgwiki/",
@@ -91,6 +92,9 @@ export default defineUserConfig({
         danger: '警告',
       }),
     plugins: [
+        sitemapPlugin({
+            hostname: "https://tgnav.github.io/tgwiki/",
+        }),
         docsearchPlugin({
           // 配置项
           //new Crawler({
