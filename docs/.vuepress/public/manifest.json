@@ -2,7 +2,7 @@
   "name": "tgwiki",
   "short_name": "tgwiki",
   "description": "tgwiki",
-  "start_url": "/index.html",
+  "start_url": "/tgwiki/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#3eaf7c",
