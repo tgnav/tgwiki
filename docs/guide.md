@@ -1,4 +1,4 @@
-8---
+---
 title: 文档指南
 lang: zh-CN
 description: TGwiki指南, Telegram介绍, Telegram入门, TGwiki, Telegram知识库
