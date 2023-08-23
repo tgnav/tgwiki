@@ -1,4 +1,4 @@
----
+8---
 title: 文档指南
 lang: zh-CN
 description: TGwiki指南, Telegram介绍, Telegram入门, TGwiki, Telegram知识库
@@ -64,3 +64,18 @@ Telegram官方不会主动联系你！
 - Fork储存库，编辑文件
 - 提交Pull Request
 - 管理员审核后将推送更新
+
+## 参考资料
+
+本文档内容搜集自以下来源，并在其基础上重新整理：
+
+- [Telegram官方博客](https://telegram.org/blog)
+- [Telegram Tips](https://t.me/TelegramTips)
+- [Telegram中文频道](https://t.me/tgcnz)
+- [TG极客](https://t.me/TGgeek)
+- [Telegram新手指南、使用教程及频道推荐](https://tingtalk.me/telegram)
+
+Telegram中文社群：[@tgcnx](https://t.me/tgcnx)
+::: tips
+查找更多Telegram优质频道请访问 [TGNAV - Telegram频道导航](https://tgnav.github.io/)
+:::
