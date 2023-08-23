@@ -76,6 +76,9 @@ Telegram官方不会主动联系你！
 - [Telegram新手指南、使用教程及频道推荐](https://tingtalk.me/telegram)
 
 Telegram中文社群：[@tgcnx](https://t.me/tgcnx)
-::: tips
+
+::: tip
+
 查找更多Telegram优质频道请访问 [TGNAV - Telegram频道导航](https://tgnav.github.io/)
+
 :::
