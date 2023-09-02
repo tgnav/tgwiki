@@ -11,5 +11,8 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vuepress-plugin-full-text-search2": "^0.4.0"
   }
 }

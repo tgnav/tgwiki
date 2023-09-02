@@ -2,6 +2,8 @@ import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from 'vuepress'
 import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 import {sitemapPlugin} from "vuepress-plugin-sitemap2";
+
+
 import { pwaPlugin } from '@vuepress/plugin-pwa'
 export default defineUserConfig({
     base: "/tgwiki/",
@@ -97,14 +99,15 @@ export default defineUserConfig({
         pwaPlugin({
             skipWaiting: true,
         }),
-        sitemapPlugin({
+        sitemapPlugin({ 
             hostname: "https://tgnav.github.io/tgwiki/",
         }),
         docsearchPlugin({
           // 配置项
           //new Crawler({
-            appId: 'YOUR_APP_ID',
-            apiKey: 'YOUR_API_KEY',
+            appId: 'FLBJDNSJ4H',
+            apiKey: '4f79f1c7c76126cc9cbf510cb3f6661d',
+            indexName: tgwiki,
             rateLimit: 8,
             startUrls: [
               // 这是 Algolia 开始抓取网站的初始地址
@@ -222,7 +225,7 @@ export default defineUserConfig({
                 removeWordsIfNoResults: 'allOptional',
               },
             },
-          //}),
-        }),
+          }),
+        // }),
       ],
   })
