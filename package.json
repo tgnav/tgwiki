@@ -1,7 +1,6 @@
 {
   "name": "tgwiki",
   "version": "1.0.0",
-  "license": "GPL",
   "devDependencies": {
     "@vuepress/plugin-docsearch": "^2.0.0-alpha.1",
     "@vuepress/plugin-pwa": "^2.0.0-beta.66",
@@ -11,8 +10,5 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
-  },
-  "dependencies": {
-    "vuepress-plugin-full-text-search2": "^0.4.0"
   }
 }
