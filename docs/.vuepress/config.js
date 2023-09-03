@@ -105,8 +105,10 @@ export default defineUserConfig({
         docsearchPlugin({
           appId: "FLBJDNSJ4H",
           apiKey: "4f79f1c7c76126cc9cbf510cb3f6661d",
-          indexName: tgwiki,
-          indexBase: "/tgwiki/"
+          indexName: 'tgwiki',
+          placeholder: '搜索文档',
+          
+          // indexBase: "/tgwiki/"
         })
         
       ],
