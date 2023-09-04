@@ -1,8 +1,4 @@
-node_modules
-'.temp' 
-'.cache'
-'.dist'
-.yarn/*
-*.xml
-*.iml
-.idea
+/node_modules
+.temp/
+.cache/
+.vscode/

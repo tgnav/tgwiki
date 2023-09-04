@@ -8,4 +8,5 @@ TODO：
 
 - [x] sitemap
 - [x] pwa支持
-- [ ] 文档搜索
+
+- [x] 文档搜索
