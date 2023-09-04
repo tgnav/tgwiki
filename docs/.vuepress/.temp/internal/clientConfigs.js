@@ -5,7 +5,6 @@ import clientConfig3 from 'E:/github project/tgwiki/node_modules/@vuepress/plugi
 import clientConfig4 from 'E:/github project/tgwiki/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
 import clientConfig5 from 'E:/github project/tgwiki/node_modules/@vuepress/plugin-theme-data/lib/client/config.js'
 import clientConfig6 from 'E:/github project/tgwiki/node_modules/@vuepress/theme-default/lib/client/config.js'
-import clientConfig7 from 'E:/github project/tgwiki/node_modules/vuepress-plugin-full-text-search2/lib/client/clientConfig.js'
 
 export const clientConfigs = [
   clientConfig0,
@@ -15,5 +14,4 @@ export const clientConfigs = [
   clientConfig4,
   clientConfig5,
   clientConfig6,
-  clientConfig7,
 ]
