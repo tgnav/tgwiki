@@ -96,7 +96,7 @@ export default defineUserConfig({
     plugins: [
       docsearchPlugin({
         appId: 'FLBJDNSJ4H',
-        apiKey: '4f79f1c7c76126cc9cbf510cb3f6661d',
+        apiKey: 'f0fde104fdda0ec7d000a2b7e2234200',
         indexName: 'tgwiki',
         locales: {
           '/': {
