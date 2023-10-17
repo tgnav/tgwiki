@@ -82,3 +82,7 @@ Telegram中文社群：[@tgcnx](https://t.me/tgcnx)
 查找更多Telegram优质频道请访问 [TGNAV - Telegram频道导航](https://tgnav.github.io/)
 
 :::
+
+## 友情链接
+- [TGNAV - Telegram频道导航](https://tgnav.github.io/)
+- [一个东方玄学的指南](https://xuanxue.dclef.icu/)
