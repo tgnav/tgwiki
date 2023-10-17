@@ -1,7 +1,7 @@
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from 'vuepress'
 import { docsearchPlugin } from '@vuepress/plugin-docsearch'
-import {sitemapPlugin} from "vuepress-plugin-sitemap2";
+import {sitemapPlugin} from "vuepress-plugin-sitemap2"
 import { pwaPlugin } from '@vuepress/plugin-pwa'
 export default defineUserConfig({
     base: "/tgwiki/",
@@ -99,6 +99,9 @@ export default defineUserConfig({
         // apiKey: '4f79f1c7c76126cc9cbf510cb3f6661d',
         apiKey: 'f0fde104fdda0ec7d000a2b7e2234200',
         indexName: 'tgwiki_',
+        searchParameters: {
+          facetFilters: ['tags:v2'],
+        },
         locales: {
           '/': {
             placeholder: '搜索文档',
@@ -149,7 +152,6 @@ export default defineUserConfig({
         sitemapPlugin({ 
             hostname: "https://tgnav.github.io/tgwiki/",
         }),
-       
 
       ],
   })
