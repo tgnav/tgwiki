@@ -8,7 +8,7 @@ description: Telegram第三方客户端, Telegram第三方客户端推荐, TGwik
 
 第三方客户端是指使用Telegram API编写的客户端。本文介绍常见的Telegram第三方客户端，下载官方客户端请[点击此处](https://telegram.org/apps)。
 
-::: tips
+::: tip
 
 由于官方的一些限制，第三方客户端无法发送短信验证码。
 
