@@ -62,7 +62,9 @@ export default defineUserConfig({
         repoLabel: '开源地址',
         navbar: [
             { text: '文档指南', link: '/guide' },
+            { text: '名词解释', link: '/term'},
             { text: '隐私设置', link: '/privacy'},
+            { text: '语言包', link: '/language'},
             { text: '常见问题与解答', link: '/faq' },
           ],
         sidebar: [
