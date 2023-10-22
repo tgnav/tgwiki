@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,b as e,d as o}from"./app-b1e20744.js";const r={},n=e("h1",{id:"telegram官方联系方式",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#telegram官方联系方式","aria-hidden":"true"},"#"),o(" Telegram官方联系方式")],-1),s=e("p",null,"页面编写中……",-1),_=[n,s];function d(l,i){return a(),c("div",null,_)}const m=t(r,[["render",d],["__file","contact.html.vue"]]);export{m as default};
