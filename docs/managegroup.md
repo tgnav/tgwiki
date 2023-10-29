@@ -8,10 +8,20 @@ description: Telegram管理群组, Telegram群管理员, Telegram功能, TGwiki,
 
 ## 说明
 
- - 群组人数最高 20 万。转换为广播群组（Broadcast Group）之后，人数将不受限制，但只有管理员可以说话，但是成员仍然可以加入语音聊天。注意，**切换之后，将不能回退到普通群组**。[点击查看官方说明](https://telegram.org/blog/autodelete-inv2#groups-with-unlimited-members)。
+ - 群组人数最高 20 万。转换为广播群组（Broadcast Group）之后，人数将不受限制，但只有管理员可以说话，但是成员仍然可以加入语音聊天。[点击查看官方说明](https://telegram.org/blog/autodelete-inv2#groups-with-unlimited-members)。
+
+   ::: warning
+
+   请注意，切换为广播群组之后，将不能回退到普通群组。
+
+   :::
+
  - 静音群组只有在提到你（@）、回复你（Reply）和管理员置顶消息（Pin）时才会收到通知。
+
  - 新加入的成员可以看到全部的群聊历史记录（**私密群组可以设置为`隐藏`**）。 
+
  - 加入群组之前，可看到（单向）好友是否在列。如果不想让好友知道你加入了某个群组，注册一个小号吧。
+
  - 支持在任何设备上发起语音聊天。
 
 ## 成员权限

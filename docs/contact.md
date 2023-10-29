@@ -15,9 +15,9 @@ description: Telegram官方联系方式, 联系Telegram官方, TGwiki, Telegram�
 
 - 官方Twitter：[https://twitter.com/telegram](https://twitter.com/telegram)
 
-- 登陆问题，找Twitter：https://twitter.com/smstelegram
+- 登陆问题，找Twitter：[https://twitter.com/smstelegram](https://twitter.com/smstelegram)
 
-- 登录常见问题：https://telegra.ph/Common-Login-Problems-03-12
+- 登录常见问题：[https://telegra.ph/Common-Login-Problems-03-12](https://telegra.ph/Common-Login-Problems-03-12)
 
 - 发邮件给官方：
 
