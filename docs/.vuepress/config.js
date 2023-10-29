@@ -76,7 +76,7 @@ export default defineUserConfig({
             {
               text: '功能',
               collapsible: true,
-              children: ['/creategroup.md', '/managegroup.md', '/createchannel.md', '/comment.md', '/archive.md', '/favourite.md', '/createsticker.md', '/createrobot.md', '/slowmode.md', '/poll.md', '/scan.md', '/nearby.md', '/adddescription.md', '/translate.md', '/telegraph.md', '/search.md', '/encrypt.md', '/findadmin.md', '/speakaschannel.md'],
+              children: ['/creategroup.md', '/managegroup.md', '/createchannel.md', '/comment.md', '/archive.md', '/favourite.md', '/createsticker.md', '/createrobot.md', '/slowmode.md', '/poll.md', '/scan.md', '/nearby.md', '/adddescription.md', '/translate.md', '/telegraph.md', '/search.md', '/stories.md', '/encrypt.md', '/findadmin.md', '/speakaschannel.md'],
             },
             {
               text: '设置',
