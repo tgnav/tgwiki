@@ -7,7 +7,7 @@ description: Telegram解除敏感内容限制, Telegram无法加群, Telegram iO
 # Telegram解除敏感内容限制
 
 Telegram 如果你进入某个群或频道遇到如下提示：
-```This channel can't displayed because it was used to spread pornographic content.```
+```This channel can't be displayed because it was used to spread pornographic content.```
 
 ## 具体原因
 
