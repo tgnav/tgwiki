@@ -1,7 +1,7 @@
 ---
-title：消息翻译
-lang：zh-CN
-description：Telegram翻译, Telegram消息翻译, Telegram功能, TGwiki, Telegram知识库
+title: 消息翻译
+lang: zh-CN
+description: Telegram翻译, Telegram消息翻译, Telegram功能, TGwiki, Telegram知识库
 ---
 
 # Telegram消息翻译

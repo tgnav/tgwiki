@@ -77,6 +77,8 @@ Telegram官方不会主动联系你！
 
 Telegram中文社群：[@tgcnx](https://t.me/tgcnx)
 
+Telegram 中文圈2：[@tgzhcn](https://t.me/tgzhcn)
+
 ::: tip
 
 查找更多Telegram优质频道请访问 [TGNAV - Telegram频道导航](https://tgnav.github.io/)

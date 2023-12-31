@@ -1,7 +1,7 @@
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from 'vuepress'
 import { docsearchPlugin } from '@vuepress/plugin-docsearch'
-import {sitemapPlugin} from "vuepress-plugin-sitemap2"
+import {sitemapPlugin} from 'vuepress-plugin-sitemap2'
 import { pwaPlugin } from '@vuepress/plugin-pwa'
 export default defineUserConfig({
     base: "/tgwiki/",
@@ -86,7 +86,7 @@ export default defineUserConfig({
             {
               text: '其他',
               collapsible: true,
-              children: ['/contact.md', '/spam.md', '/banned', '/premium.md', '/thirdparty.md', '/robot.md', '/faq.md'],
+              children: ['/contact.md', '/spam.md', '/banned', '/premium.md', '/boost.md', '/thirdparty.md', '/robot.md', '/faq.md'],
             }
           ],
         lastUpdated: '最近更新',
