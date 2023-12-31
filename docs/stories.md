@@ -1,5 +1,5 @@
 ---
-title: 动态
+title: 动态功能
 lang: zh-CN
 description: Telegram动态, Telegram发布动态, Telegram频道动态, Telegram功能, TGwiki, Telegram知识库
 ---
@@ -46,13 +46,13 @@ description: Telegram动态, Telegram发布动态, Telegram频道动态, Telegra
 
 在新版的Telegram中，Telegram已经支持频道发布动态。开启条件如下：
 
-- 需要助力，助力链接的格式是`你的频道链接`+`?boost`
-- 仅订阅Telegram Premium的用户可以助力频道
-- 频道主可以在`频道`->`更多`->`统计数据`->`助力`中查看频道的助力详情
+- 需要助推，助推链接的格式是`你的频道链接`+`?boost`
+- 仅订阅Telegram Premium的用户可以助推频道
+- 频道主可以在`频道`->`更多`->`统计数据`->`助推`中查看频道的助推详情
 
 ::: tip
 
-有关频道助力，请参阅 [此处](/tgwiki/boost) 。
+有关频道助推，请参阅 [此处](/tgwiki/boost) 。
 
 :::
 
