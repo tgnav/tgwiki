@@ -10,15 +10,12 @@ description: Telegram第三方客户端, Telegram第三方客户端推荐, TGwik
 
 ::: tip
 
-由于官方的一些限制，第三方客户端无法发送短信验证码。
-
-也就是说，您只能通过已登录设备接收验证码来登录第三方客户端。
+由于官方的一些限制，第三方客户端无法发送短信验证码。也就是说，您只能通过已登录设备接收验证码来登录第三方客户端。
 
 :::
 
 |     名称     |                             简介                             |      适用系统       |                           下载地址                           |
 | :----------: | :----------------------------------------------------------: | :-----------------: | :----------------------------------------------------------: |
-|  Telegram X  | 由Telegram官方出品的（是的，你没有读错）客户端，给用户提供一种比先驱者更快速，更加流畅的浏览体验 |     Android/iOS     | [Telegram Channel](https://t.me/tgx_log) / [Google Play](https://play.google.com/store/apps/details?id=org.thunderdog.challegram) / [App Store](https://itunes.apple.com/us/app/telegram-x/id898228810) |
 |   Nekogram   |  Nekogram是一个修改不多但都很有用的开源第三方Telegram客户端  |       Android       | [GitHub](https://github.com/Nekogram/Nekogram/releases) / [Telegram Channel](https://t.me/NekogramAPKs) / [Google Play](https://play.google.com/store/apps/details?id=tw.nekomimi.nekogram) |
 |    Neko X    | Neko X是一款免费开源的第三方 Telegram 客户端，基于Telegram-FOSS并添加了功能 |       Android       | [GitHub](https://github.com/NekoX-Dev/NekoX/releases) / [Telegram Channel](https://t.me/NekoXAPKs) / [F-Droid](https://f-droid.org/packages/nekox.messenger/) |
 |    Nagram    | Nagram 是一个基于 NekoX 并进行了一些修改的第三方 Telegram 客户端 |       Android       | [GitHub](https://github.com/NextAlone/Nagram/releases) / [Telegram Channel](https://t.me/nagram_channel) |
@@ -30,6 +27,6 @@ description: Telegram第三方客户端, Telegram第三方客户端推荐, TGwik
 
 ::: warning
 
-不建议使用未开源、未经验证的第三方客户端，以免数据泄露！
+不建议使用未开源、未经验证的第三方客户端，防止盗号或发生数据泄露！
 
 :::
