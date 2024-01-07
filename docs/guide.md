@@ -76,6 +76,8 @@ Telegram官方不会主动联系你！
 |            TDLib             | *cross-platform client* | [官方介绍](https://telegram.org/blog/tdlib) / [GitHub](https://github.com/tdlib/td) |
 |          Telegram X          |         Android         | [官方频道](https://t.me/tgx_log) / [Google Play](https://play.google.com/store/apps/details?id=org.thunderdog.challegram) |
 
+:::
+
 ## 开始阅读
 
 - 初识Telegram？从[Telegram名词解释](/tgwiki/term)开始吧！
