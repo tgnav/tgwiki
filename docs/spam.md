@@ -40,9 +40,9 @@ Telegram私聊限制通常分为以下几种，请先判断限制类型，然后
 
 ## 垃圾号码
 
-向 Telegram 官方机器人 [@SpamBot](https://t.me/spambot) 发送消息，如果Bot回复是：`Unfortunately, some phone numbers may trigger a harsh response from our anti-spam systems. If you think this is the case with you, you can submit a complaint to our moderators or subscribe to Telegram Premium to get less strict limits.`
+向 Telegram 官方机器人 [@SpamBot](https://t.me/spambot) 发送消息，如果Bot回复是：```Unfortunately, some phone numbers may trigger a harsh response from our anti-spam systems. If you think this is the case with you, you can submit a complaint to our moderators or subscribe to Telegram Premium to get less strict limits.```
 
-**原因：**您注册的手机号码可能被Telegram反垃圾系统识别为垃圾号码，需要提交申诉。
+**原因**：您注册的手机号码可能被Telegram反垃圾系统识别为垃圾号码，需要提交申诉。
 
 **解决**：向Telegram申诉，说明情况，保证不会进行违规操作。申诉后等待24小时即可。
 

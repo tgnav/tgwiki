@@ -11,11 +11,34 @@ description: TGwiki指南, Telegram介绍, Telegram入门, TGwiki, Telegram知�
 ## 关于Telegram
 
 - 高度加密：使用独有的网络传输协议MTProto，无惧被黑客攻击。
+
 - 没有审查：不用担心被封号，除非执法调查单位能证明用户是恐怖分子。
+
 - 不占内存：聊天记录保存在云端，任何设备，无缝同步，随取随用。
+
+  ::: tip
+
+  有关Telegram缓存和下载，请参阅 [此处](/tgwiki/download) 。
+
+  :::
+
 - 超大群聊：封顶 20 万人，配合各种管理工具（例如限制发言间隔），让大型社群的交流也能井井有条。
+
 - 表情贴纸：采用高清的矢量图格式，并且支持自制表情包。
+
+  ::: tip
+
+  有关创建自己的贴纸包，请参阅 [此处](/tgwiki/createsticker) 。
+
+  :::
+
 - 机器人：开放的api接口，允许开发者制作自己的机器人。
+
+  ::: tip
+
+  有关创建机器人，请参阅 [此处](/tgwiki/createrobot) 。
+
+  :::
 
 ## 谨防盗号
 
@@ -35,7 +58,23 @@ Telegram官方不会主动联系你！
 
 您需要在设备上安装Telegram客户端并注册一个Telegram账号。
 
-[Telegram官方客户端下载地址](https://telegram.org/apps)
+::: tip
+
+桌面版/网页版Telegram不能用于注册，您需要使用移动设备上的Telegram客户端注册账号。
+
+:::
+
+::: details 附：Telegram官方应用程序下载地址
+
+|             名称             |        适用系统         |                             地址                             |
+| :--------------------------: | :---------------------: | :----------------------------------------------------------: |
+|     Telegram for Android     |         Android         | [官网直装版](https://telegram.org/dl/android/apk) / [Google Play](https://play.google.com/store/apps/details?id=org.telegram.messenger) |
+| Telegram for iPhone and iPad |           iOS           | [App Store](https://apps.apple.com/us/app/telegram-messenger/id686449807) |
+|       Telegram Desktop       |   Windows/macOS/Linux   |          [官网下载](https://desktop.telegram.org/)           |
+|      Telegram for macOS      |          macOS          | [官网直装版](https://telegram.org/dl/macos) / [App Store](https://apps.apple.com/us/app/telegram/id747648890) |
+|         Telegram Web         |     *All platforms*     | [旧版（K）](https://telegram.org/dl/webk) / [新版（A）](https://telegram.org/dl/weba) |
+|            TDLib             | *cross-platform client* | [官方介绍](https://telegram.org/blog/tdlib) / [GitHub](https://github.com/tdlib/td) |
+|          Telegram X          |         Android         | [官方频道](https://t.me/tgx_log) / [Google Play](https://play.google.com/store/apps/details?id=org.thunderdog.challegram) |
 
 ## 开始阅读
 
