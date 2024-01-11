@@ -65,7 +65,7 @@ export default defineUserConfig({
             { text: '名词解释', link: '/term'},
             { text: '隐私设置', link: '/privacy'},
             { text: '语言包', link: '/language'},
-            { text: '常见问题与解答', link: '/faq' },
+            { text: 'FAQ', link: '/faq' },
           ],
         sidebar: [
             {
