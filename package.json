@@ -11,8 +11,5 @@
     "@vuepress/plugin-pwa": "^v2.0.0-rc.0",
     "vuepress": "^v2.0.0-rc.0",
     "vuepress-plugin-sitemap2": "^v2.0.0-rc.9"
-  },
-  "dependencies": {
-    "social-share.js": "^1.0.16"
   }
 }
