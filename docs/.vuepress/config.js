@@ -89,8 +89,9 @@ export default defineUserConfig({
               children: ['/notcomesms.md', '/contact.md', '/spam.md', '/banned', '/premium.md', '/boost.md', '/emaillogin.md', '/thirdparty.md', '/robot.md', '/faq.md'],
             }
           ],
-        lastUpdated: '最近更新',
-        editLinkText: '帮助我们改善此文档',
+        lastUpdatedText: '最近更新',
+        editLinkText: '编辑此页',
+        contributors: false,
         tip: '提示',
         warning: '注意',
         danger: '警告',
