@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-23c95f2e","path":"/theme.html","title":"Telegram主题","lang":"zh-CN","frontmatter":{"title":"Telegram主题","lang":"zh-CN","description":"Telegram主题, Telegram自定义主题, Telegram创建主题, Telegram设置, TGwiki, Telegram知识库"},"headers":[],"git":{"updatedTime":1705843004000},"filePathRelative":"theme.md"}');export{e as data};
