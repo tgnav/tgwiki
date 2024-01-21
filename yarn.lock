@@ -5758,13 +5758,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"social-share.js@npm:^1.0.16":
-  version: 1.0.16
-  resolution: "social-share.js@npm:1.0.16"
-  checksum: 9f8de76aab149d85810368a253458c60ec8ba2c4f6b691c354d22757827a01a4186c3ecfdf2f3fcbde65add861f9cda76d40eb6e735f95ace795c69defcf8c15
-  languageName: node
-  linkType: hard
-
 "socks-proxy-agent@npm:^8.0.1":
   version: 8.0.2
   resolution: "socks-proxy-agent@npm:8.0.2"
@@ -6077,7 +6070,6 @@ __metadata:
   dependencies:
     "@vuepress/plugin-docsearch": ^v2.0.0-rc.0
     "@vuepress/plugin-pwa": ^v2.0.0-rc.0
-    social-share.js: ^1.0.16
     vuepress: ^v2.0.0-rc.0
     vuepress-plugin-sitemap2: ^v2.0.0-rc.9
   languageName: unknown
