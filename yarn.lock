@@ -6071,7 +6071,7 @@ __metadata:
     "@vuepress/plugin-docsearch": ^v2.0.0-rc.0
     "@vuepress/plugin-pwa": ^v2.0.0-rc.0
     vuepress: ^v2.0.0-rc.0
-    vuepress-plugin-sitemap2: ^v2.0.0-rc.9
+    vuepress-plugin-sitemap2: ^2.0.0-beta.236
   languageName: unknown
   linkType: soft
 
@@ -6395,7 +6395,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vuepress-plugin-sitemap2@npm:^v2.0.0-rc.9":
+"vuepress-plugin-sitemap2@npm:^2.0.0-beta.236":
   version: 2.0.0-rc.11
   resolution: "vuepress-plugin-sitemap2@npm:2.0.0-rc.11"
   dependencies:
