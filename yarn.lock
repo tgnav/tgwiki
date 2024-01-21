@@ -2508,7 +2508,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vuepress/plugin-docsearch@npm:^v2.0.0-rc.0":
+"@vuepress/plugin-docsearch@npm:^2.0.0-beta.67":
   version: 2.0.0-rc.0
   resolution: "@vuepress/plugin-docsearch@npm:2.0.0-rc.0"
   dependencies:
@@ -2599,7 +2599,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vuepress/plugin-pwa@npm:^v2.0.0-rc.0":
+"@vuepress/plugin-pwa@npm:^2.0.0-beta.67":
   version: 2.0.0-rc.0
   resolution: "@vuepress/plugin-pwa@npm:2.0.0-rc.0"
   dependencies:
@@ -6068,9 +6068,9 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "tgwiki@workspace:."
   dependencies:
-    "@vuepress/plugin-docsearch": ^v2.0.0-rc.0
-    "@vuepress/plugin-pwa": ^v2.0.0-rc.0
-    vuepress: ^v2.0.0-rc.0
+    "@vuepress/plugin-docsearch": ^2.0.0-beta.67
+    "@vuepress/plugin-pwa": ^2.0.0-beta.67
+    vuepress: ^2.0.0-beta.67
     vuepress-plugin-sitemap2: ^2.0.0-beta.236
   languageName: unknown
   linkType: soft
@@ -6469,7 +6469,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vuepress@npm:^v2.0.0-rc.0":
+"vuepress@npm:^2.0.0-beta.67":
   version: 2.0.0-rc.0
   resolution: "vuepress@npm:2.0.0-rc.0"
   dependencies:
