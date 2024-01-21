@@ -7,9 +7,9 @@
     "docs:build": "vuepress build docs"
   },
   "devDependencies": {
-    "@vuepress/plugin-docsearch": "^v2.0.0-rc.0",
-    "@vuepress/plugin-pwa": "^v2.0.0-rc.0",
-    "vuepress": "^v2.0.0-rc.0",
-    "vuepress-plugin-sitemap2": "^v2.0.0-rc.9"
+    "@vuepress/plugin-docsearch": "^2.0.0-beta.67",
+    "@vuepress/plugin-pwa": "^2.0.0-beta.67",
+    "vuepress": "^2.0.0-beta.67",
+    "vuepress-plugin-sitemap2": "^2.0.0-beta.236"
   }
 }
