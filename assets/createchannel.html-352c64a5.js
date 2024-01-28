@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-032dfb6b","path":"/createchannel.html","title":"新建频道","lang":"zh-CN","frontmatter":{"title":"新建频道","lang":"zh-CN","description":"Telegram新建频道, Telegram创建频道, Telegram功能, TGwiki, Telegram知识库"},"headers":[],"git":{"updatedTime":1705843004000},"filePathRelative":"createchannel.md"}');export{e as data};

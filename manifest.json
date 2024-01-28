@@ -1,10 +1,10 @@
 {
-  "name": "tgwiki",
-  "short_name": "tgwiki",
-  "description": "tgwiki",
-  "start_url": "/tgwiki/index.html",
+  "name": "TGwiki - Telegram知识库",
+  "short_name": "TGwiki",
+  "description": "TGwiki - Telegram知识库，由TGNAV打造的高质量Telegram知识库，帮助用户更全面地了解Telegram的各种功能。",
+  "start_url": "/tgwiki/",
   "display": "standalone",
-  "background_color": "#fff",
+  "background_color": "transparent",
   "theme_color": "#3eaf7c",
   "icons": [
     {

@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-6d34f632","path":"/contact.html","title":"联系官方","lang":"zh-CN","frontmatter":{"title":"联系官方","lang":"zh-CN","description":"Telegram官方联系方式, 联系Telegram官方, TGwiki, Telegram知识库"},"headers":[],"git":{"updatedTime":1705843004000},"filePathRelative":"contact.md"}');export{t as data};

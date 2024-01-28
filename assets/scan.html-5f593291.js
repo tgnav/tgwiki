@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e21d54ba","path":"/scan.html","title":"扫一扫","lang":"zh-CN","frontmatter":{"title":"扫一扫","lang":"zh-CN","description":"Telegram扫一扫, Telegram扫描二维码, Telegram功能, TGwiki, Telegram知识库"},"headers":[],"git":{"updatedTime":1706449031000},"filePathRelative":"scan.md"}');export{e as data};
