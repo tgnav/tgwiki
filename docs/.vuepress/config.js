@@ -8,14 +8,15 @@ export default defineUserConfig({
     lang: 'zh-CN',
     title: 'TGwiki - Telegram知识库',
     description: 'TGwiki - Telegram知识库，由TGNAV打造的高质量Telegram知识库，帮助用户更全面地了解Telegram的各种功能。',
+    keywords: 'TGwiki,Telegram知识库,Telegram使用说明,Telegram教程,Telegram功能介绍,Telegram设置,Telegram使用技巧,TG知识库,TG使用说明,TG教程,TG功能介绍,TG设置,TG使用技巧,电报知识库,电报使用说明,电报教程,电报功能介绍,电报设置,电报使用技巧',
     markdown: {
       lineNumbers: true,
     },
     head: [
       ['link', { rel: 'manifest', href: '/tgwiki/manifest.json' }],
       ['meta', { name: 'theme-color', content: '#3eaf7c' }],
-      ['meta', { name: 'image', content: '/tgwiki/assets/logo.png' }],
-      ['link', {rel: 'icon', href: '/tgwiki/assets/logo.png'}],
+      ['meta', { name: 'image', content: '/tgwiki/assets/tgwiki.png' }],
+      ['link', { rel: 'icon', href: '/tgwiki/assets/logo.png' }],
       ['script', {async: true, src: 'https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'}],
       ['script', {async: true, src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7353728415772033', crossorigin: 'anonymous'}],
       ['script', {async: true, src: 'https://www.googletagmanager.com/gtag/js?id=G-M50CZY3LGQ'}],

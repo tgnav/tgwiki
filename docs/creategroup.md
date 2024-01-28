@@ -1,7 +1,8 @@
 ---
 title: 新建群组
 lang: zh-CN
-description: Telegram新建群组, Telegram创建群组, Telegram功能, TGwiki, Telegram知识库
+description: 群组是一种常用的聊天方式，Telegram支持至多20万人的群组。本文介绍了如何创建Telegram群组。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+keywords: Telegram新建群组,Telegram创建群组,TG新建群组,TG创建群组,电报新建群组,电报创建群组,Telegram功能,TGwiki,Telegram知识库
 ---
 
 # Telegram新建群组
@@ -14,4 +15,10 @@ description: Telegram新建群组, Telegram创建群组, Telegram功能, TGwiki,
 - iOS客户端：`对话`->`右上角最右边一个图标`->`新建群组`
 - Android客户端：`左上角三短线`->`新建群组`
 - Desktop客户端：`左上角三短线`->`新建群组`
-- macOS客户端：`主界面搜索框后面图标-`>`新建群组`
+- macOS客户端：`主界面搜索框后面图标`->`新建群组`
+
+::: details 界面截图
+
+![menu.jpg](https://s2.loli.net/2024/01/27/esy158owaicYdIr.jpg)
+
+:::

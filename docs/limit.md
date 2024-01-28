@@ -1,12 +1,13 @@
 ---
 title: Telegram限制
 lang: zh-CN
-description: Telegram限制, Telegram规则, Telegram入门, TGwiki, Telegram知识库
+description: Telegram虽然以各种口号宣传自己，但它依然有很多的规则和限制。本文详细介绍了Telegram账号、频道、群组、机器人、贴纸等限制。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+keywords: Telegram限制,Telegram规则,Telegram频道限制,Telegram群组限制,Telegram机器人限制,Telegram贴纸限制,TG限制,TG规则,TG频道限制,TG群组限制,TG机器人限制,TG贴纸限制,电报限制,电报规则,电报频道限制,电报群组限制,电报机器人限制,电报贴纸限制,Telegram入门,TGwiki,Telegram知识库
 ---
 
 # Telelgram限制
 
-Telegram 虽然以各种口号宣传自己，但它依然有很多的规则和限制，下面提供详细信息。
+Telegram虽然以各种口号宣传自己，但它依然有很多的规则和限制，下面提供详细信息。
 
 ## 账号
 

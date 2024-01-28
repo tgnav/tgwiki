@@ -1,14 +1,15 @@
 ---
 title: 邮箱登录
 lang: zh-CN
-description: Telegram邮箱登录, Telegram绑定邮箱, TG邮箱登录, TGwiki, Telegram知识库
+description: 邮箱登录就是通过电子邮件获取验证码来登录Telegram账户，此功能可以在把验证码发送到Telegram客户端的情况下同时向邮箱发送一份验证码，而不是通过短信发送验证码。本文介绍了如何开启Telegram邮箱登录，以及Telegram邮箱登录的有关注意事项。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+keywords: Telegram邮箱登录,Telegram绑定邮箱,Telegram开启邮箱登录,Telegram设置登录邮箱,TG邮箱登录,TG绑定邮箱,TG开启邮箱登录,TG设置登录邮箱,电报邮箱登录,电报绑定邮箱,电报开源邮箱登录,电报设置登录邮箱,TGwiki,Telegram知识库
 ---
 
 # Telegram邮箱登录
 
 ## 简介
 
-顾名思义，邮箱登录就是通过电子邮件获取验证码来登录Telegram账户，此功能可以在把验证码发送到Telegram客户端的情况下同时向邮箱发送一份验证码，而不是通过短信发送验证码. 极大减少了Telegram官方的短信费用支出. 对于使用接码的用户来说，再也不怕没客户端也没手机号的情况下收不到验证码了！
+顾名思义，邮箱登录就是通过电子邮件获取验证码来登录Telegram账户，此功能可以在把验证码发送到Telegram客户端的情况下同时向邮箱发送一份验证码，而不是通过短信发送验证码，极大减少了Telegram官方的短信费用支出。对于使用接码的用户来说，再也不怕没客户端也没手机号的情况下收不到验证码了！
 
 ## 开启邮箱登录
 
@@ -38,7 +39,19 @@ description: Telegram邮箱登录, Telegram绑定邮箱, TG邮箱登录, TGwiki,
 
    :::
 
+   ::: details 操作演示
+
+   ![emaillogin1.jpg](https://s2.loli.net/2024/01/28/1dbItKPDlwXB9TL.jpg)
+
+   :::
+
 6. 开启邮箱登录后，在`隐私设置`中会新增一个`登录邮箱`字段。
+
+   ::: details 界面截图
+
+   ![emaillogin2.jpg](https://s2.loli.net/2024/01/28/Dx4nktmlVPgZ8ao.jpg)
+
+   :::
 
 ## 注意
 

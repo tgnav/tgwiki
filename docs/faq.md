@@ -1,7 +1,8 @@
 ---
 title: 常见问题与解答
 lang: zh-CN
-description: Telegram常见问题, Telegram常见问题与解答, TGwiki, Telegram知识库
+description: 本文介绍了Telegram常见问题与解答，您可以在此处找到提问频率较高的问题，希望对您有所帮助。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+keywords: Telegram常见问题,Telegram常见问题与解答,Telegram FAQ,TG常见问题,TG常见问题与解答,TG FAQ,电报常见问题,电报常见问题与解答,电报FAQ,TGwiki,Telegram知识库
 ---
 
 # Telegram常见问题与解答
@@ -52,6 +53,6 @@ Telegram 给某人发送私聊消息时遇到如下提示： `Sorry, you can onl
 
 ::: tip
 
-本页内容仍需要更多补充，欢迎点击下面的”帮助我们维护此文档“完善内容！
+点击下面的”编辑此页“按钮，协助我们完善内容！
 
 :::

@@ -1,14 +1,23 @@
 ---
 title: 文档指南
 lang: zh-CN
-description: TGwiki指南, Telegram介绍, Telegram入门, TGwiki, Telegram知识库
+description: 欢迎使用TGwiki！TGwiki汇集了Telegram的使用说明，旨在帮助用户更全面地了解Telegram的各种功能。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+keywords: Telegram使用说明,TGwiki指南,Telegram介绍,Telegram入门,TG使用说明,TG介绍,TG入门,电报使用说明,电报介绍,电报入门,TGwiki,Telegram知识库
 ---
 
 # TGwiki文档指南
 
 欢迎使用TGwiki！TGwiki汇集了Telegram的使用说明，旨在帮助用户更全面地了解Telegram的各种功能。本页是TGwiki的文档指南，向你介绍一些文档的使用技巧。
 
+::: tip
+
+文档中的所有`操作演示`和`界面截图`选取的版本为：Telegram For Android `v10.6.2`，Telegram Desktop `4.14.9`，随着时间推移，最新版界面可能会有细节差异。
+
+:::
+
 ## 关于Telegram
+
+Telegram（非正式简称TG、电报、纸飞机）是跨平台的即时通信软件，其客户端是自由及开放源代码软件，但服务端是专有软件。用户可以相互交换加密与自毁消息，发送照片、影片等所有类型文件。
 
 - 高度加密：使用独有的网络传输协议MTProto，无惧被黑客攻击。
 
@@ -80,16 +89,16 @@ Telegram官方不会主动联系你！
 
 ## 开始阅读
 
-- 初识Telegram？从[Telegram名词解释](/tgwiki/term)开始吧！
-- 想知道如何保护隐私？[Telegram隐私设置](/tgwiki/privacy)可能帮助到你。
-- 界面全是英文，看不懂？安装[Telegram语言包](/tgwiki/language)，将界面切换为中文。
-- 无法查看敏感内容？请阅读[Telegram解除敏感内容限制](/tgwiki/pornios)。
+- 初识Telegram？从 [Telegram名词解释](/tgwiki/term) 开始吧！
+- 想知道如何保护隐私？ [Telegram隐私设置](/tgwiki/privacy) 可能帮助到你。
+- 界面全是英文，看不懂？安装 [Telegram语言包](/tgwiki/language) ，将界面切换为中文。
+- 无法查看敏感内容？请阅读 [Telegram解除敏感内容限制](/tgwiki/pornios) 。
 
 ::: tip
 
 侧边栏有文档目录，您可以快速定位到目标内容。
 
-您可以查看[Telegram常见问题与解答](/tgwiki/faq)，希望能帮助到您。
+您可以查看 [Telegram常见问题与解答](/tgwiki/faq) ，希望能帮助到您。
 
 除此之外，您还可以通过文档的关键词搜索功能查找相关内容。
 
@@ -97,11 +106,12 @@ Telegram官方不会主动联系你！
 
 ## 文档维护
 
-本文档在[GitHub](https://github.com/tgnav/tgwiki)上开源，由诸多志愿者共同维护。
+本文档在 [GitHub](https://github.com/tgnav/tgwiki) 上开源，由诸多志愿者共同维护。
 
-如何参与维护文档？
+**如何参与维护文档？**
 
-- 点击对应页面下方的“帮助我们完善此文档“
+- 点击对应页面下方的“编辑此页“
+- 登录GitHub账号
 - Fork储存库，编辑文件
 - 提交Pull Request
 - 管理员审核后将推送更新
@@ -116,13 +126,13 @@ Telegram官方不会主动联系你！
 - [TG极客](https://t.me/TGgeek)
 - [Telegram新手指南、使用教程及频道推荐](https://tingtalk.me/telegram)
 
-Telegram中文社群：[@tgcnx](https://t.me/tgcnx)
+Telegram中文社群（已满）：[@tgcnx](https://t.me/tgcnx)
 
 Telegram 中文圈2：[@tgzhcn](https://t.me/tgzhcn)
 
 ::: tip
 
-查找更多Telegram优质频道请访问 [TGNAV - Telegram频道导航](https://tgnav.github.io/)
+查找更多Telegram优质频道请访问 [TGNAV - Telegram频道导航](https://tgnav.github.io/) 。
 
 :::
 

@@ -1,7 +1,8 @@
 ---
 title: 加密对话
 lang: zh-CN
-description: Telegram加密对话, Telegram加密对话, Telegram功能, TGwiki, Telegram知识库
+description: 加密对话适用于那些比普通人更想要保密的人。加密对话中的所有消息都使用端到端加密。本文介绍了如何开启加密对话进行端到端加密聊天，以及设置消息自毁计时器。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+keywords: Telegram加密对话,Telegram开启加密对话,Telegram端到端加密,TG加密对话,TG开启加密对话,TG端到端加密,Telegram加密秘钥,电报加密对话,电报开启加密对话,电报端到端加密,电报加密密钥,Telegram功能,TGwiki,Telegram知识库
 ---
 
 # Telegram加密对话
@@ -20,6 +21,12 @@ description: Telegram加密对话, Telegram加密对话, Telegram功能, TGwiki,
 ::: tip
 
 请记住，Telegram加密对话是特定于设备的。如果您在其中一台设备上与朋友开始加密对话，则该聊天将仅在该设备上可用。如果您退出，您将丢失所有加密对话记录。您可以根据需要与同一联系人创建任意多个不同的加密对话。
+
+:::
+
+::: details 操作演示
+
+![encrypt.jpg](https://s2.loli.net/2024/01/27/6bE3VuNpnXwC715.jpg)
 
 :::
 

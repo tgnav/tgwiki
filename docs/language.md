@@ -1,7 +1,8 @@
 ---
 title: 语言包
 lang: zh-CN
-description: Telegram语言包, Telegram中文, Telegram汉化, Telegram设置, TGwiki, Telegram知识库
+description: 本文分类整理了Telegram中文语言包，支持Telegram官方客户端（不包含网页版）和部分第三方客户端。点击相应链接即可安装语言包，将界面汉化为中文。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+keywords: Telegram中文语言包,Telegram语言包,Telegram中文,Telegram汉化,TG中文语言包,TG语言包,TG中文,TG汉化,电报中文语言包,电报语言包,电报中文,电报汉化,Telegram设置,TGwiki,Telegram知识库
 ---
 
 # Telegram语言包
@@ -10,6 +11,8 @@ Telegram语言包分类整理
 
 - 支持 Telegram for iOS/Android/macOS/Desktop, Telegram X for iOS/Android 官方客户端
 - 支持 Nicegram/Plus Messager/Unigram 第三方客户端
+
+点击相应链接即可安装语言包，将界面汉化为中文。
 
 ::: warning
 
@@ -61,5 +64,11 @@ Telegram官方只开放了语言包翻译接口，并没有提供中文语言包
 ::: tip
 
 如果遇到不能汉化的，请先把Telegram客户端升级新版。
+
+:::
+
+::: tip
+
+想要将其他语言的消息内容翻译为中文？请参阅 [Telegram消息翻译](/tgwiki/translate) 。
 
 :::

@@ -1,7 +1,8 @@
 ---
 title: 创建贴纸
 lang: zh-CN
-description: Telegram创建贴纸, Telegram贴纸包, Telegram功能, TGwiki, Telegram知识库
+description: 贴纸类似于微信中的表情包，Telegram支持多种多样的贴纸。本文介绍了Telegram如何创建贴纸（包括静态贴纸、动态贴纸），以及贴纸的大小限制和要求。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+keywords: Telegram创建贴纸,Telegram贴纸,Telegram贴纸包,如何创建Telegram贴纸,TG创建贴纸,TG贴纸,TG贴纸包,如何创建TG贴纸,电报创建贴纸,电报贴纸,电报贴纸包,如何创建电报贴纸,Telegram功能,TGwiki,Telegram知识库
 ---
 
 # Telegram创建贴纸

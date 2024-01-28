@@ -1,7 +1,8 @@
 ---
 title: 管理群组
 lang: zh-CN
-description: Telegram管理群组, Telegram群管理员, Telegram功能, TGwiki, Telegram知识库
+description: 群组是一种常用的聊天方式，Telegram支持至多20万人的群组。本文介绍了Telegram管理群组的方法，查看近期操作，以及设置成员权限。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+keywords: Telegram管理群组,Telegram群管理员,Telegram设置成员权限,Telegram群组近期操作,TG管理群组,TG群管理员,TG设置成员权限,TG群组近期操作,电报管理群组,电报群管理员,电报设置成员权限,电报群组近期操作,Telegram功能, TGwiki, Telegram知识库
 ---
 
 # Telegram管理群组
@@ -24,6 +25,12 @@ description: Telegram管理群组, Telegram群管理员, Telegram功能, TGwiki,
 
  - 支持在任何设备上发起语音聊天。
 
+::: details 操作演示
+
+![managegroup1.jpg](https://s2.loli.net/2024/01/27/5b1Bt4p2hRVaeQj.jpg)
+
+:::
+
 ## 成员权限
 
 管理员可以限制所有成员或单个成员只能发送特定类型的内容。
@@ -31,6 +38,12 @@ description: Telegram管理群组, Telegram群管理员, Telegram功能, TGwiki,
 如此一来，你便可建立一个没有表情贴纸或者GIF的高质量交流社区。或者甚至完全限制成员发送信息，让管理员彼此交谈，而群成员则默默地旁观。
 
 - 慢速模式（Slow Mode）：在10 秒/30 秒/1分钟/5分钟/15 分钟/1个小时内，成员只能发送一条消息，这样可以使小组中的对话更加有序，也可以提高每条信息的价值。详情请参阅[慢速模式](/tgwiki/slowmode)。
+
+::: details 操作演示
+
+![managegroup2.jpg](https://s2.loli.net/2024/01/27/qUsKQahViznoxSY.jpg)
+
+:::
 
 ## 邀请链接
 
@@ -48,7 +61,7 @@ description: Telegram管理群组, Telegram群管理员, Telegram功能, TGwiki,
 
 ## 近期操作
 
-当多个管理员在一起工作时，很容易搞不清楚哪个管理员或管理机器人，在什么时候做了什么。所以 Telegram 的管理员页面增加了`近期操作`功能。用于存储过去48小时内在组中执行的所有服务操作的日志，仅对管理员可见。
+当多个管理员在一起工作时，很容易搞不清楚哪个管理员或管理机器人，在什么时候做了什么。所以 Telegram 的`管理员`页面增加了`近期操作`功能。用于存储过去48小时内在组中执行的所有服务操作的日志，仅对管理员可见。
 
 ## 隐藏成员列表
 
