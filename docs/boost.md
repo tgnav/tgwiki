@@ -1,8 +1,10 @@
 ---
 title: 频道助推
-lang: zh-CN
 description: 新版Telegram中，大会员可以为频道助推，帮助频道开启频道动态、自定义频道颜色和消息样式、自定义表情回应、自定义频道背景等更多功能。本文介绍了如何为频道助推，以及频道助推的规则。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
-keywords: Telegram频道助推,Telegram助推,Telegram Boost,Telegram频道动态,Telegram频道解锁新功能,TG频道助推,TG助推,TG频道动态,TG频道解锁新功能,电报频道助推,电报助推,电报频道动态,电报频道解锁新功能,TGwiki,Telegram知识库
+head:
+  - - meta
+    - name: keywords
+      content: Telegram频道助推,Telegram助推,Telegram Boost,Telegram频道动态,Telegram频道解锁新功能,TG频道助推,TG助推,TG频道动态,TG频道解锁新功能,电报频道助推,电报助推,电报频道动态,电报频道解锁新功能,TGwiki,Telegram知识库
 ---
 
 # Telegram频道助推

@@ -1,14 +1,15 @@
 import { defineUserConfig } from 'vuepress'
-import { defaultTheme } from 'vuepress'
+import { defaultTheme } from '@vuepress/theme-default'
+import { viteBundler } from '@vuepress/bundler-vite'
+import { webpackBundler } from '@vuepress/bundler-webpack'
 import { docsearchPlugin } from '@vuepress/plugin-docsearch'
-import {sitemapPlugin} from 'vuepress-plugin-sitemap2'
+import { sitemapPlugin } from 'vuepress-plugin-sitemap2'
 import { pwaPlugin } from '@vuepress/plugin-pwa'
 export default defineUserConfig({
     base: "/tgwiki/",
     lang: 'zh-CN',
     title: 'TGwiki - Telegram知识库',
     description: 'TGwiki - Telegram知识库，由TGNAV打造的高质量Telegram知识库，帮助用户更全面地了解Telegram的各种功能。',
-    keywords: 'TGwiki,Telegram知识库,Telegram使用说明,Telegram教程,Telegram功能介绍,Telegram设置,Telegram使用技巧,TG知识库,TG使用说明,TG教程,TG功能介绍,TG设置,TG使用技巧,电报知识库,电报使用说明,电报教程,电报功能介绍,电报设置,电报使用技巧',
     markdown: {
       lineNumbers: true,
     },
@@ -56,7 +57,10 @@ export default defineUserConfig({
         `
       ],
     ],
-    theme: defaultTheme( {
+    // specify bundler via environment variable
+    bundler:
+        process.env.DOCS_BUNDLER === 'webpack' ? webpackBundler() : viteBundler(),
+    theme: defaultTheme({
         logo: 'https://tgnav.github.io/assets/images/logo.png',
         logoDark: 'https://tgnav.github.io/assets/images/logo2.png',
         repo: 'https://github.com/tgnav/tgwiki',
@@ -153,7 +157,6 @@ export default defineUserConfig({
         }),
         sitemapPlugin({ 
             hostname: "https://tgnav.github.io/tgwiki/",
-        }),
-
+        })
       ],
   })

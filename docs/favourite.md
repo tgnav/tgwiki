@@ -1,8 +1,10 @@
 ---
 title: 收藏夹
-lang: zh-CN
 description: Telegram有一个多平台同步，内容格式不限的收藏夹。本文介绍了如何开启Telegram收藏夹。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
-keywords: Telegram收藏夹,Telegram保存消息,TG收藏夹,TG保存消息,电报收藏夹,电报保存消息,Telegram功能,TGwiki,Telegram知识库
+head:
+  - - meta
+    - name: keywords
+      content: Telegram收藏夹,Telegram保存消息,TG收藏夹,TG保存消息,电报收藏夹,电报保存消息,Telegram功能,TGwiki,Telegram知识库
 ---
 
 # Telegram收藏夹

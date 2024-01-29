@@ -1,7 +1,10 @@
 ---
 title: Premium
-lang: zh-CN
-description: Telegram Premium, Telegram会员, TGwiki, Telegram知识库
+description: 由于运营成本需要，Telegram推出了大会员（Telegram Premium）。本文介绍了Telegram大会员的专属功能，以及Telegram大会员开通方法和价格。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+head:
+  - - meta
+    - name: keywords
+      content: Telegram Premium,Telegram会员,Telegram大会员,TG Premium,TG会员,TG大会员,电报Premium,电报会员,电报大会员,TGwiki,Telegram知识库
 ---
 
 # Telegram Premium
@@ -31,6 +34,7 @@ Premium许多功能比较鸡肋，若无特别需求，不建议开通Premium。
 - 可以助力频道开启动态功能
 - 自定义名称颜色和消息样式
 - 查看全部相似频道
+- 仅接收来自联系人和Premium用户的消息
 
 ## 上限翻倍
 
@@ -63,9 +67,9 @@ Premium许多功能比较鸡肋，若无特别需求，不建议开通Premium。
 - 美国：$4.99/月≈¥33.38/月
 - 香港：HK$39.90/月≈¥34.00/月
 - 土耳其：₺69.99/月≈¥25.18/月
-- 商店版App在 设置->Telegram Premium 订阅
+- 商店版App在 `设置`->`Telegram Premium` 订阅
 
-### 机器人：`@PremiumBot`
+### 机器人：[@PremiumBot](https://t.me/PremiumBot)
 
 - 人民币：¥25.00/月，¥250.00/年（17%折扣）
 - 美元：\$3.99/月，\$28.99/年（39%折扣）

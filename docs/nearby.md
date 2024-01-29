@@ -1,8 +1,10 @@
 ---
 title: 附近的人和群组
-lang: zh-CN
 description: Telegram也有附近的人和附近的群功能（不过现在都是已经被广告占领了）。本文介绍了如何开启Telegram附近的人和群组。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
-keywords: Telegram附近的人和群组,Telegram附近的人,Telegram附近的群组,TG附近的人和群组,TG附近的人,TG附近的群组,电报附近的人和群组,电报附近的人,电报附近的群组,Telegram功能,TGwiki,Telegram知识库
+head:
+  - - meta
+    - name: keywords
+      content: Telegram附近的人和群组,Telegram附近的人,Telegram附近的群组,TG附近的人和群组,TG附近的人,TG附近的群组,电报附近的人和群组,电报附近的人,电报附近的群组,Telegram功能,TGwiki,Telegram知识库
 ---
 
 # Telegram附近的人和群组

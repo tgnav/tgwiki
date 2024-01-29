@@ -1,8 +1,10 @@
 ---
 title: 管理群组
-lang: zh-CN
 description: 群组是一种常用的聊天方式，Telegram支持至多20万人的群组。本文介绍了Telegram管理群组的方法，查看近期操作，以及设置成员权限。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
-keywords: Telegram管理群组,Telegram群管理员,Telegram设置成员权限,Telegram群组近期操作,TG管理群组,TG群管理员,TG设置成员权限,TG群组近期操作,电报管理群组,电报群管理员,电报设置成员权限,电报群组近期操作,Telegram功能, TGwiki, Telegram知识库
+head:
+  - - meta
+    - name: keywords
+      content: Telegram管理群组,Telegram群管理员,Telegram设置成员权限,Telegram群组近期操作,TG管理群组,TG群管理员,TG设置成员权限,TG群组近期操作,电报管理群组,电报群管理员,电报设置成员权限,电报群组近期操作,Telegram功能, TGwiki, Telegram知识库
 ---
 
 # Telegram管理群组

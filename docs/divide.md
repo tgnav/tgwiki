@@ -1,8 +1,10 @@
 ---
 title: 对话分组
-lang: zh-CN
 description: Telegram支持将对话分组，帮助用户更高效的管理对话列表。本文介绍了Telegram如何设置对话分组，以及对话分组的一些操作技巧.访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
-keywords: Telegram对话分组,Telegram分组,Telegram创建分组,TG对话分组,TG分组,TG创建分组,电报对话分组,电报分组,电报创建分组,Telegram设置,TGwiki,Telegram知识库
+head:
+  - - meta
+    - name: keywords
+      content: Telegram对话分组,Telegram分组,Telegram创建分组,TG对话分组,TG分组,TG创建分组,电报对话分组,电报分组,电报创建分组,Telegram设置,TGwiki,Telegram知识库
 ---
 
 # 对话分组

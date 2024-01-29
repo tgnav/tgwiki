@@ -1,12 +1,21 @@
 ---
 title: 隐私设置
-lang: zh-CN
-description: Telegram隐私设置, Telegram保护隐私, Telegram两步验证, Telegram设置, TGwiki, Telegram知识库
+description: 想知道如何保护隐私，防止信息泄露？本文详细介绍了Telegram隐私设置的各项内容，帮助您有效的保护隐私。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+head:
+  - - meta
+    - name: keywords
+      content: Telegram隐私,Telegram隐私设置,Telegram保护隐私,Telegram两步验证,Telegram隐藏手机号码,Telegram隐藏上线时间,TG隐私,TG隐私设置,TG保护隐私,TG两步验证,TG隐藏手机号码,TG隐藏上线时间,电报隐私,电报隐私设置,电报保护隐私,电报两步验证,电报隐藏手机号码,电报隐藏上线时间,Telegram设置,TGwiki,Telegram知识库
 ---
 
 # 隐私设置
 
-```设置```->```隐私```:
+```设置```->```隐私```：
+
+::: details 界面截图
+
+![privacy.jpg](https://s2.loli.net/2024/01/27/PpyzJbw1CojQ6rX.jpg)
+
+:::
 
 ## 拉黑用户
 
@@ -62,7 +71,7 @@ description: Telegram隐私设置, Telegram保护隐私, Telegram两步验证, T
 
 ## 上线状态
 
-设置哪些用户可以看到您的上线状态。
+设置哪些用户可以看到您的上线状态。当上线状态设置为`联系人`或`没有人`时，您可以隐藏私聊消息的已读时间。
 
 ::: tip
 
@@ -125,3 +134,7 @@ description: Telegram隐私设置, Telegram保护隐私, Telegram两步验证, T
 建议将此项设置为```一年```。
 
 :::
+
+## 其他 
+
+仅Telegram Premium用户可以修改`语音消息`和`私聊消息`的设置。

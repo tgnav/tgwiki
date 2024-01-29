@@ -1,8 +1,10 @@
 ---
 title: 解除敏感内容限制
-lang: zh-CN
-description: Telegram如果你进入某个群或频道遇到如下提示：This channel can't be displayed because it was used to spread pornographic content.有人在群里发了色情内容，被人举报后，被Telegram官方限制了。本文介绍了Telegram如何解除敏感内容限制，加入被限制的频道/群组。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
-keywords: Telegram解除敏感内容限制,Telegram无法加群,Telegram无法加频道,Telegram敏感内容,Telegram进入限制群,TG解除敏感内容限制,TG无法加群,TG无法加频道,TG敏感内容,TG进入限制群,电报解除敏感内容限制,电报无法加群,电报无法加频道,电报敏感内容,电报进入限制群,Telegram设置,TGwiki,Telegram知识库
+description: Telegram如果你进入某个群或频道遇到如下提示：This channel can't be displayed because it was used to spread pornographic content.本文介绍了Telegram如何解除敏感内容限制，加入被限制的频道/群组。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+head:
+  - - meta
+    - name: keywords
+      content: Telegram解除敏感内容限制,Telegram无法加群,Telegram无法加频道,Telegram敏感内容,Telegram进入限制群,TG解除敏感内容限制,TG无法加群,TG无法加频道,TG敏感内容,TG进入限制群,电报解除敏感内容限制,电报无法加群,电报无法加频道,电报敏感内容,电报进入限制群,Telegram设置,TGwiki,Telegram知识库
 ---
 
 # Telegram解除敏感内容限制

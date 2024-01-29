@@ -1,8 +1,10 @@
 ---
 title: 创建机器人
-lang: zh-CN
 description: 机器人是Telegram的特色功能之一。Telegram提供开放的api接口，允许开发者制作自己的机器人。本文介绍了如何创建自己的机器人，以及管理机器人的各项功能说明。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
-keywords: Telegram创建机器人,Telegram机器人,Telegram管理机器人,Telegram编辑机器人,TG创建机器人,TG机器人,TG管理机器人,TG编辑机器人,电报创建机器人,电报机器人,电报管理机器人,电报编辑机器人,Telegram功能,TGwiki,Telegram知识库
+head:
+  - - meta
+    - name: keywords
+      content: Telegram创建机器人,Telegram机器人,Telegram管理机器人,Telegram编辑机器人,TG创建机器人,TG机器人,TG管理机器人,TG编辑机器人,电报创建机器人,电报机器人,电报管理机器人,电报编辑机器人,Telegram功能,TGwiki,Telegram知识库
 ---
 
 # Telegram创建机器人

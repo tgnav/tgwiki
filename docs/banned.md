@@ -1,8 +1,10 @@
 ---
 title: 号码被封禁
-lang: zh-CN
 description: 登录时候提示“此手机号码已被封禁”，说明账号被Telegram官方封了，不能登录也不能注销。本文介绍了如何向官方申诉进行解封，以及如何防止被封号。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
-keywords: Telegram封禁,Telegram号码被封禁,Telegram申请解封,Telegram登录时提示号码被封禁,Telegram防止被封号,TG号码被封禁,TG申请解封,TG防止被封号,电报号码被封禁,电报申请解封,电报防止被号,TGwiki,Telegram知识库
+head:
+  - - meta
+    - name: keywords
+      content: Telegram封禁,Telegram号码被封禁,Telegram申请解封,Telegram登录时提示号码被封禁,Telegram防止被封号,TG号码被封禁,TG申请解封,TG防止被封号,电报号码被封禁,电报申请解封,电报防止被号,TGwiki,Telegram知识库
 ---
 
 # Telegram登录时提示号码被封禁

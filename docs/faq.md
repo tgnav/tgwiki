@@ -1,8 +1,10 @@
 ---
 title: 常见问题与解答
-lang: zh-CN
 description: 本文介绍了Telegram常见问题与解答，您可以在此处找到提问频率较高的问题，希望对您有所帮助。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
-keywords: Telegram常见问题,Telegram常见问题与解答,Telegram FAQ,TG常见问题,TG常见问题与解答,TG FAQ,电报常见问题,电报常见问题与解答,电报FAQ,TGwiki,Telegram知识库
+head:
+  - - meta
+    - name: keywords
+      content: Telegram常见问题,Telegram常见问题与解答,Telegram FAQ,TG常见问题,TG常见问题与解答,TG FAQ,电报常见问题,电报常见问题与解答,电报FAQ,TGwiki,Telegram知识库
 ---
 
 # Telegram常见问题与解答

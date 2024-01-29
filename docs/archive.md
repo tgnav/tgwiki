@@ -1,8 +1,10 @@
 ---
 title: 对话归档
-lang: zh-CN
 description: 归档对话的功能允许您隐藏目前在"对话"页上的对话，不常用的群组和频道就可以放入归档中，并可以在以后有需要时访问这些对话。本文介绍了如何归档对话，以及如何查看已归档的对话。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
-keywords: Telegram归档,Telegram对话归档,Telegram查看已归档的对话,TG归档,TG对话归档,TG查看已归档的对话,电报归档,电报对话归档,电报查看已归档的对话,Telegram功能,TGwiki,Telegram知识库
+head:
+  - - meta
+    - name: keywords
+      content: Telegram归档,Telegram对话归档,Telegram查看已归档的对话,TG归档,TG对话归档,TG查看已归档的对话,电报归档,电报对话归档,电报查看已归档的对话,Telegram功能,TGwiki,Telegram知识库
 ---
 
 # Telegram对话归档

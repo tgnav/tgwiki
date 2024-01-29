@@ -1,8 +1,10 @@
 ---
 title: 文档指南
-lang: zh-CN
 description: 欢迎使用TGwiki！TGwiki汇集了Telegram的使用说明，旨在帮助用户更全面地了解Telegram的各种功能。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
-keywords: Telegram使用说明,TGwiki指南,Telegram介绍,Telegram入门,TG使用说明,TG介绍,TG入门,电报使用说明,电报介绍,电报入门,TGwiki,Telegram知识库
+head:
+  - - meta
+    - name: keywords
+      content: Telegram使用说明,TGwiki指南,Telegram介绍,Telegram入门,TG使用说明,TG介绍,TG入门,电报使用说明,电报介绍,电报入门,TGwiki,Telegram知识库
 ---
 
 # TGwiki文档指南

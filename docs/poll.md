@@ -1,8 +1,10 @@
 ---
 title: 创建投票
-lang: zh-CN
 description: Telegram客户端官方已添加"投票"功能，可以实时显示投票人数和比例。本文介绍了Telegram如何创建投票，以及投票有关功能说明。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
-keywords: Telegram投票,Telegram创建投票,Telegram发起投票,TG投票,TG创建投票,TG发起投票,电报投票,电报创建投票,电报发起投票,Telegram功能,TGwiki,Telegram知识库
+head:
+  - - meta
+    - name: keywords
+      content: Telegram投票,Telegram创建投票,Telegram发起投票,TG投票,TG创建投票,TG发起投票,电报投票,电报创建投票,电报发起投票,Telegram功能,TGwiki,Telegram知识库
 ---
 
 # Telegram创建投票
