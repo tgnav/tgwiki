@@ -13,9 +13,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: 设置 Node.js
+      - name: 设置Node.js
         uses: actions/setup-node@v3
 
+      - name: 升级yarn
+        run: yarn set version stable
 
       - name: 安装依赖
         run: yarn install

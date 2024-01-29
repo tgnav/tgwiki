@@ -16,7 +16,7 @@
     "vuepress": "2.0.0-rc.1",
     "vuepress-plugin-sitemap2": "^2.0.0-rc.11"
   },
-  "packageManager": "yarn@3.3.1",
+  "packageManager": "yarn@4.0.2",
   "engines": {
     "node": ">=18.16.0"
   }
