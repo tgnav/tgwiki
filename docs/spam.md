@@ -1,7 +1,10 @@
 ---
 title: 解除私聊限制
-lang: zh-CN
-description: Telegram解除私聊限制, Telegram无法私聊, Telegram Spam, TGwiki, Telegram知识库
+description: Telegram 给某人发送私聊消息时遇到如下提示：Sorry, you can only send messages to mutual contacts at the momet.Telegram的私聊限制通常分为+86私聊限制、垃圾号码限制、私聊限制。本文介绍了Telegram如何解除私聊限制。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+head:
+  - - meta
+    - name: keywords
+      content: Telegram解除私聊限制,Telegram无法私聊,Telegram双向限制,Telegram垃圾号码限制,Telegram私聊限制,TG解除私聊限制,TG无法私聊,TG垃圾号码限制,TG私聊限制,电报解除私聊限制,电报无法私聊,电报双向限制,电报垃圾号码限制,电报私聊限制,Telegram Spam,TGwiki,Telegram知识库
 ---
 
 # Telegram解除私聊限制
@@ -15,7 +18,7 @@ Telegram私聊限制通常分为以下几种，请先判断限制类型，然后
 
 ## +86双向限制
 
-向 Telegram 官方机器人 [@SpamBot](https://t.me/spambot) 发送消息，回复是`You're free as a bird!`
+如果您注册时使用的是+86的手机号码，向 Telegram 官方机器人 [@SpamBot](https://t.me/spambot) 发送消息，回复是`You're free as a bird!`
 
 ### 具体原因
 
@@ -38,13 +41,21 @@ Telegram私聊限制通常分为以下几种，请先判断限制类型，然后
 - 通常24小时内即可解除限制，24小时仍然未解除的可以再次提交；
 - Bot不会回复你结果，自己找人私聊测试。
 
-## 垃圾号码
+## 垃圾号码限制
 
 向 Telegram 官方机器人 [@SpamBot](https://t.me/spambot) 发送消息，如果Bot回复是：```Unfortunately, some phone numbers may trigger a harsh response from our anti-spam systems. If you think this is the case with you, you can submit a complaint to our moderators or subscribe to Telegram Premium to get less strict limits.```
 
 **原因**：您注册的手机号码可能被Telegram反垃圾系统识别为垃圾号码，需要提交申诉。
 
 **解决**：向Telegram申诉，说明情况，保证不会进行违规操作。申诉后等待24小时即可。
+
+::: details 操作演示
+
+![spam1.jpg](https://s2.loli.net/2024/01/27/2VpYNwmG4yuZP6J.jpg)
+
+![spam2.jpg](https://s2.loli.net/2024/01/27/R1fXvp2VY8T4s73.jpg)
+
+:::
 
 ## 私聊限制
 
@@ -65,14 +76,14 @@ Telegram私聊限制通常分为以下几种，请先判断限制类型，然后
 
    ::: tip
 
-   注意，是UTC 时间，比北京时间晚8小时，[点击查看UTC时间](https://time.is/zh/UTC)。
+   注意，是UTC 时间，比北京时间晚8小时，[点击查看UTC时间](https://time.is/zh/UTC) 。
    :::
 
 2. 如果Bot回复的消息里没有说明解封时间，则您可能被Telegram群组的强力反垃圾功能误杀了，需要提交申诉，说明情况，通常24小时可解。
 
 ## 其他
 
-开通Telegram Premium可以在一定程度上降低被限制的风险。
+开通Telegram Premium可以在一定程度上降低被限制的风险（但这并不意味着您不会被限制！）。
 
 ::: tip
 

@@ -16,7 +16,7 @@ features:
   - title: 全面
     details: TGwiki汇集了Telegram常用功能介绍和使用说明，旨在打造一个高质量的Telegram知识库。
   - title: 清晰
-    details: 多个来源的内容重新汇集整理，重点突出、清晰明了，更多Telegram使用技巧等你发现！
+    details: 多个来源的内容重新汇集整理，重点突出、清晰明了，为您提供更好的阅读体验。
   - title: 易懂
     details: 内容通俗易懂，并配有图片演示和界面截图，帮助刚接触Telegram的小白快速入门！
   - title: 开源

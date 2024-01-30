@@ -1,14 +1,17 @@
 ---
 title: 机器人推荐
-lang: zh-CN
-description: Telegram机器人, Telegram机器人推荐, Telegram实用机器人, TGwiki, Telegram知识库
+description: Telegram上有许多功能各异的机器人，如贴纸下载机器人、群组管理机器人、消息翻译机器人、验证机器人、搜群机器人等。本文介绍了诸多实用的Telegram机器人，希望对您有所帮助。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+head:
+  - - meta
+    - name: keywords
+      content: Telegram机器人,Telegram机器人推荐,Telegram常用机器人,Telegram实用机器人,Telegram搜群机器人,TG机器人,TG机器人推荐,TG常用机器人,TG实用机器人,TG搜群机器人,电报机器人,电报机器人推荐,电报常用机器人,电报实用机器人,电报搜群机器人,TGwiki,Telegram知识库
 ---
 
 # Telegram机器人推荐
 
 ::: tip
 
-点击username跳转到Telegram。
+点击对应username即可跳转到Telegram。
 
 :::
 
@@ -176,7 +179,7 @@ description: Telegram机器人, Telegram机器人推荐, Telegram实用机器人
 
 ::: tip
 
-查找更多Telegram优质频道请访问 [TGNAV - Telegram频道导航](https://tgnav.github.io/)
+查找更多Telegram优质频道请访问 [TGNAV - Telegram频道导航](https://tgnav.github.io/) 。
 
 :::
 

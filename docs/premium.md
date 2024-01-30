@@ -36,6 +36,12 @@ Premium许多功能比较鸡肋，若无特别需求，不建议开通Premium。
 - 查看全部相似频道
 - 仅接收来自联系人和Premium用户的消息
 
+::: details 界面截图
+
+![premium.jpg](https://s2.loli.net/2024/01/27/dZI34ftoBYbSzgx.jpg)
+
+:::
+
 ## 上限翻倍
 
 - 单个文件大小限制：2000MB->4000MB

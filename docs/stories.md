@@ -1,7 +1,10 @@
 ---
 title: 动态功能
-lang: zh-CN
-description: Telegram动态, Telegram发布动态, Telegram频道动态, Telegram功能, TGwiki, Telegram知识库
+description: 新版Telegram中添加了动态功能，用户可以拍摄或选择一张图或一段视频发布到动态，其他用户可以点赞、评论、转发。本文介绍了Telegram如何发布动态，以及Telegram频道动态如何开启。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+head:
+  - - meta
+    - name: keywords
+      content: Telegram动态功能,Telegram动态,Telegram发布动态,Telegram频道动态,TG动态功能,TG动态,TG发布动态,TG频道动态,电报动态功能,电报动态,电报发布动态,电报频道动态,Telegram功能,TGwiki,Telegram知识库
 ---
 
 # Telegram动态功能
@@ -19,6 +22,12 @@ description: Telegram动态, Telegram发布动态, Telegram频道动态, Telegra
 ::: tip
 
 经过实测，俄罗斯的手机号码需要开通大会员才能发布动态。
+
+:::
+
+::: details 操作演示
+
+![stories.jpg](https://s2.loli.net/2024/01/27/LUCqToHh2FJ5cI8.jpg)
 
 :::
 

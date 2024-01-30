@@ -1,7 +1,10 @@
 ---
 title: 内置搜索
-lang: zh-CN
-description: Telegram内置搜索, Telegram消息搜索, Telegram全局搜索, Telegram功能, TGwiki, Telegram知识库
+description: Telegram的内置搜索是以词组为单位的，以标点符号或空格作为词的间隔。本文介绍了Telegram内置搜索（消息搜索、全局搜索）的使用方法。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+head:
+  - - meta
+    - name: keywords
+      content: Telegram搜索,Telegram内置搜索,Telegram消息搜索,Telegram全局搜索,Telegram关键词搜索,Telegram搜索技巧,TG搜索,TG内置搜索,TG消息搜索,TG全局搜索,TG关键词搜索,TG搜索技巧,电报搜索,电报内置搜索,电报消息搜索,电报全局搜索,电报关键词搜索,电报搜索技巧,Telegram功能,TGwiki,Telegram知识库
 ---
 
 # Telegram内置搜索

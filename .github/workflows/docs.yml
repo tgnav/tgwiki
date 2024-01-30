@@ -16,8 +16,8 @@ jobs:
       - name: 设置Node.js
         uses: actions/setup-node@v3
 
-      - name: 升级yarn
-        run: yarn set version stable
+      - name: 设置yarn
+        run: yarn set version 4.0.2
 
       - name: 安装依赖
         run: yarn install
