@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-5a49c5dc","path":"/slowmode.html","title":"慢速模式","lang":"zh-CN","frontmatter":{"title":"慢速模式","lang":"zh-CN","description":"Telegram慢速模式, Telegram功能, TGwiki, Telegram知识库"},"headers":[],"git":{"updatedTime":1706527761000},"filePathRelative":"slowmode.md"}');export{e as data};
