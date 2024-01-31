@@ -1,7 +1,11 @@
 ---
 title: Telegraph
 lang: zh-CN
-description: Telegraph, Telegraph简介, Telegraph使用方法, Telegram功能, TGwiki, Telegram知识库
+description: Telegraph是由Telegram推出的一个极简的匿名内容发布工具。本文介绍了Telegraph的几种使用方法，希望能够帮助到您。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+head:
+  - - meta
+    - name: keywords
+      content: Telegraph,Telegraph简介,Telegraph发布,Telegraph修改,Telegraph排版,Telegraph发布文章,Telegraph修改文章,Telegraph使用方法,Telegrah使用技巧,Telegram功能, TGwiki, Telegram知识库
 ---
 
 # Telegraph
@@ -30,7 +34,7 @@ Telegraph是一个极简的匿名内容发布工具。
 
 ### 发布流程
 
-1. 在Telegram打开[@telegraph](https://t.me/telegraph)
+1. 在Telegram打开 [@telegraph](https://t.me/telegraph)
 2. 根据提示配置账号
 3. 写文章：作者（Author）可以写频道或者群组的公开链接
 4. 发布（Publish）
@@ -44,6 +48,12 @@ Telegraph是一个极简的匿名内容发布工具。
 
  - 电脑：自动跳转到浏览器打开，然后在右上角找到 `EDIT`
  - 手机：点击界面的右上角 3 个点，选择 `Open in…` 用浏览器打开，滑倒文章底部即可看到 `EDIT`
+
+::: details 操作演示
+
+![telegraph.jpg](https://s2.loli.net/2024/01/27/5K3RqDXf4YhlGS8.jpg)
+
+:::
 
 ## 使用技巧
 

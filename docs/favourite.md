@@ -23,7 +23,7 @@ head:
 - macOS客户端：`点击搜索框`->`收藏夹`；快捷键：Ctrl+0
 - Desktop客户端：`左上角三短线-`>`点击你的头像/收藏夹图标`；快捷键：Ctrl+0
 
-::: 界面截图
+::: details 界面截图
 
 ![favourite.jpg](https://s2.loli.net/2024/01/27/O8G1boXImj7lJaV.jpg)
 

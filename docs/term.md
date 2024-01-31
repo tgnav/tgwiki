@@ -1,7 +1,10 @@
 ---
 title: 名词解释
-lang: zh-CN
-description: Telegram名词解释, Telegram术语, Telegram入门, TGwiki, Telegram知识库
+description: 本文介绍了Telegram上的常用术语，包括：UID、用户名、注册时间；好友、联系人；私聊、群组、频道；封禁、拉黑、禁言等，帮助小白快速入门Telegram。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+head:
+  - - meta
+    - name: keywords
+      content: Telegram名词解释,Telegram术语,Telegram UID,Telegram用户名,Telegram注册时间,Telegram好友,Telegram联系人,Telegram私聊,Telegram群组,Telegram频道,Telegram封禁,Telegram拉黑,Telegram禁言,TG名词解释,TG术语,TG UID,TG用户名,TG注册时间,TG好友,TG联系人,TG私聊,TG群组,TG频道,TG封禁,TG拉黑,TG禁言,电报名词解释,电报术语,电报UID,电报用户名,电报注册时间,电报好友,电报联系人,电报私聊,电报群组,电报频道,电报封禁,电报拉黑,电报禁言,Telegram入门,TGwiki,Telegram知识库
 ---
 
 # Telegram名词解释
@@ -13,8 +16,16 @@ description: Telegram名词解释, Telegram术语, Telegram入门, TGwiki, Teleg
 ### 如何知道自己的UID？
 
 1. TG 官方客户端上是不会显示UID的。
+
 2. 可以使用机器人查看，比如: [@getidsbot](https://t.me/getidsbot) [@Sean_Bot](https://t.me/Sean_Bot) [@userinfobot](https://t.me/userinfobot)[ @username_to_id_bot](https://t.me/username_to_id_bot)
-3. 使用第三方客户端查看。关于第三方客户端的说明请参阅[此处](/tgwiki/thirdparty)
+
+3. 使用第三方客户端查看。
+
+   ::: tip
+
+   关于第三方客户端的说明请参阅 [此处](/tgwiki/thirdparty) 。
+
+   :::
 
 ### UID有何作用？
 
@@ -32,7 +43,7 @@ description: Telegram名词解释, Telegram术语, Telegram入门, TGwiki, Teleg
 TG默认不会显示账号的注册时间，可以通过以下方式查看大致的时间，不一定准确：
 
 - 机器人查看，比如：[@creationdatebot](https://t.me/creationdatebot) [@getidsbot](https://t.me/getidsbot)
-- 第三方客户端查看。关于第三方客户端的说明请参阅[此处](/tgwiki/thirdparty)
+- 第三方客户端查看。关于第三方客户端的说明请参阅 [此处](/tgwiki/thirdparty) 。
 
 ## 好友、联系人
 
@@ -56,7 +67,7 @@ Telegram 有"联系人"，有单向联系人和双向联系人
 
   :::
 
-* 如果已经添加了对方为联系人并且勾选了`分享我的手机号码（Share My Phone Number）`，可以在`设置`->`隐私`->`手机号码`中取消分享手机号码，请参阅[Telegram隐私设置](/tgwiki/privacy)。
+* 如果已经添加了对方为联系人并且勾选了`分享我的手机号码（Share My Phone Number）`，可以在`设置`->`隐私`->`手机号码`中取消分享手机号码，请参阅 [Telegram隐私设置](/tgwiki/privacy) 。
 * 为了方便以后找人，可以添加一些常联系的人为联系人，添加联系人也可以修改对方的名称或加备注。
 * 你添加对方为联系人后, 对方不会有任何提示和通知你已添加了的, 对方也不会知道你已添加对方为联系人了
 
@@ -71,7 +82,7 @@ Telegram有几种方式: 私聊、群组、频道、机器人
    * 如果提示"目前您只能给双向联系人发送消息"，那可能是你被官方限制了
    * 可以直接用别人的链接和搜索用户名发送私聊
 
-   参阅[Telegram加密对话](/tgwiki/encrypt)
+   参阅 [Telegram加密对话](/tgwiki/encrypt) 。
 
 2. 群组：也就是多人同时聊天，群主创建一个群组后，用户可以加进去，大家都可以发言聊天。曾经有"普通群"和"超级群"，不过现在创建的都是超级群，大家加入的绝大部分都是超级群，超级群最多20W人。群组分为：私有群和公开群、群组创建时候可以选择群组的类型（公开群组、私有群组）。
 
@@ -88,15 +99,15 @@ Telegram有几种方式: 私聊、群组、频道、机器人
 
    :::
 
-   参阅[Telegram创建群组](/tgwiki/creategroup)
+   参阅 [Telegram创建群组](/tgwiki/creategroup) 。
 
 3. 频道：相当于微信的公众号，只能关注和取消关注频道，只有频道主和频道管理才能在频道发布内容，成员只能查看和转发频道的内容，频道主也可设置禁止转发和复制频道内容。频道也分为：私有频道和公开频道，和群组类似，但成员无法查看频道的成员列表，只有频道主和管理员才可查看。
 
-   参阅[Telegram创建频道](/tgwiki/createchannel)
+   参阅 [Telegram创建频道](/tgwiki/createchannel) 。
 
 4. 频道的评论功能：是频道关联群组后的功能。
 
-   参阅[Telegram频道消息添加"评论"功能](/tgwiki/comment)
+   参阅 [Telegram频道消息添加"评论"功能](/tgwiki/comment) 。
 
 ## 封禁、拉黑、禁言
 
@@ -128,7 +139,7 @@ Telegram有几种方式: 私聊、群组、频道、机器人
 
 4. 全员禁言
 
-   群组管理员(或有管理员权限的机器人)可以在群组设置中关闭成员的"发送消息"权限，所有成员都不能发送消息，只有群管理员能发消息
+   群组管理员（或有管理员权限的机器人）可以在群组设置中关闭成员的"发送消息"权限，所有成员都不能发送消息，只有群管理员能发消息
 
 ::: tip
 
