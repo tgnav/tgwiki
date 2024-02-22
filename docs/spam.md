@@ -1,6 +1,6 @@
 ---
 title: 解除私聊限制
-description: Telegram 给某人发送私聊消息时遇到如下提示：Sorry, you can only send messages to mutual contacts at the momet.Telegram的私聊限制通常分为+86私聊限制、垃圾号码限制、私聊限制。本文介绍了Telegram如何解除私聊限制。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: Telegram 给某人发送私聊消息时遇到如下提示：Sorry, you can only send messages to mutual contacts at the momet.本文介绍了Telegram如何解除私聊限制。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
 head:
   - - meta
     - name: keywords

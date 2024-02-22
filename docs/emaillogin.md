@@ -1,6 +1,6 @@
 ---
 title: 邮箱登录
-description: 邮箱登录就是通过电子邮件获取验证码来登录Telegram账户，此功能可以在把验证码发送到Telegram客户端的情况下同时向邮箱发送一份验证码，而不是通过短信发送验证码。本文介绍了如何开启Telegram邮箱登录，以及Telegram邮箱登录的有关注意事项。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: 邮箱登录就是通过电子邮件获取验证码来登录Telegram账户，此功能可以在把验证码发送到Telegram客户端的情况下同时向邮箱发送一份验证码。本文介绍了如何开启Telegram邮箱登录，以及有关注意事项。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
 head:
   - - meta
     - name: keywords
