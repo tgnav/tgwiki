@@ -18,7 +18,7 @@ features:
   - title: 清晰
     details: 多个来源的内容重新汇集整理，重点突出、清晰明了，为您提供更好的阅读体验。
   - title: 易懂
-    details: 内容通俗易懂，并配有图片演示和界面截图，帮助刚接触Telegram的小白快速入门！
+    details: 内容通俗易懂，并配有操作演示和界面截图，帮助刚接触Telegram的小白快速入门！
   - title: 开源
     details: 本项目在GitHub上开源，您可以点击导航栏中的“开源地址”访问GitHub仓库找到本站的源代码。
   - title: 自由

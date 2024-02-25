@@ -95,6 +95,8 @@ Telegram官方不会主动联系你！
 - 想知道如何保护隐私？ [Telegram隐私设置](/tgwiki/privacy) 可能帮助到你。
 - 界面全是英文，看不懂？安装 [Telegram语言包](/tgwiki/language) ，将界面切换为中文。
 - 无法查看敏感内容？请阅读 [Telegram解除敏感内容限制](/tgwiki/pornios) 。
+- 无法主动私聊？[Telegram解除私聊限制](/tgwiki/spam) 中有详细的解决方法。
+- 收不到短信验证码？请参阅 [此处](/tgwiki/notcomesms) 。
 
 ::: tip
 
@@ -104,11 +106,61 @@ Telegram官方不会主动联系你！
 
 除此之外，您还可以通过文档的关键词搜索功能查找相关内容。
 
+*若搜索无法加载，请刷新页面重试。*
+
+:::
+
+::: details 附：TGwiki文章列表
+
+- [TGwiki文档指南](/tgwiki/guide)
+- [Telegram名词解释](/tgwiki/term)
+- [Telegram限制](/tgwiki/limit)
+- [Telegram DC说明](/tgwiki/dc)
+- [Telegram新建群组](/tgwiki/creategroup)
+- [Telegram管理群组](/tgwiki/managegroup)
+- [Telegram新建频道](/tgwiki/createchannel)
+- [Telegram评论功能](/tgwiki/comment)
+- [Telegram对话归档](/tgwiki/archive)
+- [Telegram收藏夹](/tgwiki/favourite)
+- [Telegram创建贴纸](/tgwiki/createsticker)
+- [Telegram创建机器人](/tgwiki/createrobot)
+- [Telegram慢速模式](/tgwiki/slowmode)
+- [Telegram创建投票](/tgwiki/createpoll)
+- [Telegram扫一扫](/tgwiki/scan)
+- [Telegram附近的人和群组](/tgwiki/nearby)
+- [Telegram图片添加说明](/tgwiki/adddescription)
+- [Telegram消息翻译](/tgwiki/translate)
+- [Telegraph](/tgwiki/telegraph)
+- [Telegram内置搜索](/tgwiki/search)
+- [Telegram动态功能](/tgwiki/stories)
+- [Telegram加密对话](/tgwiki/encrypt)
+- [Telegram找出群管理员](/tgwiki/findadmin)
+- [Telegram频道身份发言](/tgwiki/speakaschannel)
+- [Telegram隐私设置](/tgwiki/privacy)
+- [Telegram代理设置](/tgwiki/proxy)
+- [Telegram主题](/tgwiki/theme)
+- [Telegram缓存和下载](/tgwiki/download)
+- [Telegram对话分组](/tgwiki/divide)
+- [Telegram语言包](/tgwiki/language)
+- [Telegram解除敏感内容限制](/tgwiki/pornios)
+- [Telegram添加账号](/tgwiki/multiaccount)
+- [Telegram删除账号](/tgwiki/deleteaccount)
+- [没有收到验证码？](/tgwiki/notcomesms)
+- [Telegram官方联系方式](/tgwiki/contact)
+- [Telegram解除私聊限制](/tgwiki/spam)
+- [Telegram号码被封禁](/tgwiki/banned)
+- [Telegram Premium](/tgwiki/premium)
+- [Telegram频道/群组助推](/tgwiki/boost)
+- [Telegram邮箱登录](/tgwiki/emaillogin)
+- [Telegram第三方客户端](/tgwiki/thirdparty)
+- [Telegram机器人推荐](/tgwiki/robot)
+- [Telegram常见问题与解答](/tgwiki/faq)
+
 :::
 
 ## 文档维护
 
-本文档在 [GitHub](https://github.com/tgnav/tgwiki) 上开源，由诸多志愿者共同维护。
+本文档在 [GitHub](https://github.com/tgnav/tgwiki) 上开源，所有人均可以协助维护。
 
 **如何参与维护文档？**
 
