@@ -62,7 +62,7 @@ export default defineUserConfig({
             {
               text: '其他',
               collapsible: true,
-              children: ['/notcomesms.md', '/contact.md', '/spam.md', '/banned', '/premium.md', '/boost.md', '/emaillogin.md', '/thirdparty.md', '/robot.md', '/faq.md'],
+              children: ['/notcomesms.md', '/contact.md', '/spam.md', '/banned', '/premium.md', '/business.md', '/boost.md', '/emaillogin.md', '/thirdparty.md', '/robot.md', '/faq.md'],
             }
           ],
         lastUpdatedText: '最近更新',

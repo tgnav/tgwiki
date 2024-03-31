@@ -13,7 +13,7 @@ head:
 
 ::: tip
 
-文档中的所有`操作演示`和`界面截图`选取的版本为：Telegram For Android `v10.6.2`，Telegram Desktop `4.14.9`，随着时间推移，最新版界面可能会有细节差异。
+除特殊说明外，文档中的`操作演示`和`界面截图`选取的版本为：Telegram For Android `v10.6.2`，Telegram Desktop `v4.14.9`，随着时间推移，最新版界面可能会有细节差异。
 
 :::
 
@@ -150,6 +150,7 @@ Telegram官方不会主动联系你！
 - [Telegram解除私聊限制](/tgwiki/spam)
 - [Telegram号码被封禁](/tgwiki/banned)
 - [Telegram Premium](/tgwiki/premium)
+- [Telegram Business](/tgwiki/business)
 - [Telegram频道/群组助推](/tgwiki/boost)
 - [Telegram邮箱登录](/tgwiki/emaillogin)
 - [Telegram第三方客户端](/tgwiki/thirdparty)

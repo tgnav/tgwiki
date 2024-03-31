@@ -9,11 +9,7 @@ head:
 
 # Telegram Premium
 
-::: tip
-
-Premium许多功能比较鸡肋，若无特别需求，不建议开通Premium。
-
-:::
+由于运营成本需要，Telegram推出了大会员（Telegram Premium）。
 
 ## 专属功能
 

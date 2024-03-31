@@ -22,7 +22,7 @@ features:
   - title: 开源
     details: 本项目在GitHub上开源，您可以点击导航栏中的“开源地址”访问GitHub仓库找到本站的源代码。
   - title: 自由
-    details: 您可以点击知识库文章底部的“编辑”协助修改完善知识库，管理员审核后会推送更新。
+    details: 您可以点击知识库文章底部的“编辑此页”协助修改完善知识库，管理员审核后会推送更新。
   - title: 便捷
     details: TGwiki支持PWA（渐进式网络应用程序），您可以将TGwiki安装到设备桌面上。
 footerHtml: true
