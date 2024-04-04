@@ -134,6 +134,7 @@ Telegram官方不会主动联系你！
 - [Telegram内置搜索](/tgwiki/search)
 - [Telegram动态功能](/tgwiki/stories)
 - [Telegram加密对话](/tgwiki/encrypt)
+- [频道所有者创收计划](/tgwiki/monetization)
 - [Telegram找出群管理员](/tgwiki/findadmin)
 - [Telegram频道身份发言](/tgwiki/speakaschannel)
 - [Telegram隐私设置](/tgwiki/privacy)
@@ -155,6 +156,8 @@ Telegram官方不会主动联系你！
 - [Telegram邮箱登录](/tgwiki/emaillogin)
 - [Telegram第三方客户端](/tgwiki/thirdparty)
 - [Telegram机器人推荐](/tgwiki/robot)
+- [Fragment](/tgwiki/fragment)
+- [Telegram搭建私聊机器人](/tgwiki/livegram)
 - [Telegram常见问题与解答](/tgwiki/faq)
 
 :::

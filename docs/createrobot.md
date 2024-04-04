@@ -86,6 +86,12 @@ head:
 
 ::: tip
 
+如果您想要搭建一个私聊机器人，接下来请阅读 [Telegram搭建私聊机器人](/tgwiki/livegram)
+
+:::
+
+::: tip
+
 在找Telegram机器人推荐？请参阅 [此处](/tgwiki/robot) 。
 
 :::

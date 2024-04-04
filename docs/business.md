@@ -22,16 +22,19 @@ Telegram于10.9.1版本中推出了Telegram商业版（Telegram Business），�
 - 离线自动回复
 - 设置表情状态
 - 显示分组标签
+- 设置聊天机器人
+- 自定义开始页面
+- 创建对话链接
 
-::: details 界面截图（Telegram Desktop v4.15.2）
+::: details 界面截图（Telegram Desktop v4.16.1）
 
-![business.jpg](https://s2.loli.net/2024/03/31/hVNojxR7Bs9I1Kr.jpg)
+![business.jpg](https://s2.loli.net/2024/04/04/gOqFjhm2RIPUGBD.jpg)
 
 :::
 
 ## 开通方式
 
-截至Telegram For Android `v10.9.2`、Telegram Desktop `v4.15.2`，Telegram Premium用户可以暂时体验Telegram Business的全部功能。官方说会单独增加Telegram Business订阅，具体时间未知。
+截至Telegram For Android `v10.10.1`、Telegram Desktop `v4.16.1`，Telegram Premium用户可以暂时体验Telegram Business的全部功能。官方说会单独增加Telegram Business订阅，具体时间未知。
 
 ::: tip
 

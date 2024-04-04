@@ -33,7 +33,8 @@ export default defineUserConfig({
     theme: defaultTheme({
         logo: 'https://tgnav.github.io/assets/images/logo.png',
         logoDark: 'https://tgnav.github.io/assets/images/logo2.png',
-        repo: 'https://github.com/tgnav/tgwiki',
+        repo: 'tgnav/tgwiki',
+        docsRepo: 'tgnav/tgwiki',
         docsDir: 'docs',
         repoLabel: '开源地址',
         navbar: [
@@ -52,7 +53,7 @@ export default defineUserConfig({
             {
               text: '功能',
               collapsible: true,
-              children: ['/creategroup.md', '/managegroup.md', '/createchannel.md', '/comment.md', '/archive.md', '/favourite.md', '/createsticker.md', '/createrobot.md', '/slowmode.md', '/poll.md', '/scan.md', '/nearby.md', '/adddescription.md', '/translate.md', '/telegraph.md', '/search.md', '/stories.md', '/encrypt.md', '/findadmin.md', '/speakaschannel.md'],
+              children: ['/creategroup.md', '/managegroup.md', '/createchannel.md', '/comment.md', '/archive.md', '/favourite.md', '/createsticker.md', '/createrobot.md', '/slowmode.md', '/poll.md', '/scan.md', '/nearby.md', '/adddescription.md', '/translate.md', '/telegraph.md', '/search.md', '/stories.md', '/encrypt.md', '/monetization.md', '/findadmin.md', '/speakaschannel.md'],
             },
             {
               text: '设置',
@@ -62,7 +63,7 @@ export default defineUserConfig({
             {
               text: '其他',
               collapsible: true,
-              children: ['/notcomesms.md', '/contact.md', '/spam.md', '/banned', '/premium.md', '/business.md', '/boost.md', '/emaillogin.md', '/thirdparty.md', '/robot.md', '/faq.md'],
+              children: ['/notcomesms.md', '/contact.md', '/spam.md', '/banned', '/premium.md', '/business.md', '/boost.md', '/emaillogin.md', '/thirdparty.md', '/robot.md', '/fragment.md', '/livegram.md', '/faq.md'],
             }
           ],
         lastUpdatedText: '最近更新',
