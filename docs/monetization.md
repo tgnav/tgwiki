@@ -15,7 +15,7 @@ head:
 
 - 拥有 1000 名以上订阅者的公开频道所有者可以获得其频道中广告收入的`50%`作为奖励。
 - 奖金无需佣金即可提取，或用于支付Telegram中的广告费用、购买收藏用户名或抽送Premium订阅。
-- 您可以在`频道设置`->`统计`->`收益`（`Channel Settings`-> `Statistics`-> `Monetization`）中跟踪广告收入统计数据。
+- 频道主可以在`频道设置`->`统计`->`收益`（`Channel Settings`-> `Statistics`-> `Monetization`）中跟踪广告收入统计数据。
 - 未来几周内，频道所有者将可以在Fragment平台上提取奖励。
   ::: tip
 

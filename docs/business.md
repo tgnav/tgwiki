@@ -34,7 +34,7 @@ Telegram于10.9.1版本中推出了Telegram商业版（Telegram Business），�
 
 ## 开通方式
 
-截至Telegram For Android `v10.10.1`、Telegram Desktop `v4.16.1`，Telegram Premium用户可以暂时体验Telegram Business的全部功能。官方说会单独增加Telegram Business订阅，具体时间未知。
+截至Telegram For Android `v10.12.0`、Telegram Desktop `v5.0.1`，Telegram Premium用户可以暂时体验Telegram Business的全部功能。官方说会单独增加Telegram Business订阅，具体时间未知。
 
 ::: tip
 

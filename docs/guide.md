@@ -128,6 +128,7 @@ Telegram官方不会主动联系你！
 - [Telegram创建投票](/tgwiki/createpoll)
 - [Telegram扫一扫](/tgwiki/scan)
 - [Telegram附近的人和群组](/tgwiki/nearby)
+- [Telegram消息格式](/tgwiki/format)
 - [Telegram图片添加说明](/tgwiki/adddescription)
 - [Telegram消息翻译](/tgwiki/translate)
 - [Telegraph](/tgwiki/telegraph)
