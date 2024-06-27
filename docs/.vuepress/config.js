@@ -3,7 +3,7 @@ import { defaultTheme } from '@vuepress/theme-default'
 import { viteBundler } from '@vuepress/bundler-vite'
 import { webpackBundler } from '@vuepress/bundler-webpack'
 import { docsearchPlugin } from '@vuepress/plugin-docsearch'
-import { sitemapPlugin } from 'vuepress-plugin-sitemap2'
+import { sitemapPlugin } from '@vuepress/plugin-sitemap'
 import { pwaPlugin } from '@vuepress/plugin-pwa'
 export default defineUserConfig({
     base: "/tgwiki/",
