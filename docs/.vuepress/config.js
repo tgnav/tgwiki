@@ -31,6 +31,7 @@ export default defineUserConfig({
     bundler:
         process.env.DOCS_BUNDLER === 'webpack' ? webpackBundler() : viteBundler(),
     theme: defaultTheme({
+        hostname: 'https://tgnav.github.io',
         logo: 'https://tgnav.github.io/assets/images/logo.png',
         logoDark: 'https://tgnav.github.io/assets/images/logo2.png',
         repo: 'tgnav/tgwiki',
