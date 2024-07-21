@@ -126,6 +126,7 @@ export default defineUserConfig({
       }),
         pwaPlugin({
             skipWaiting: true,
+            shouldPrefetch: false,
         }),
         sitemapPlugin({ 
             hostname: "https://tgnav.github.io/tgwiki/",
