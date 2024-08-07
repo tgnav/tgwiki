@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://tgnav.github.io/tgwiki/tgwiki/sitemap.xml
+Sitemap: https://tgnav.github.io/tgwiki/sitemap.xml
