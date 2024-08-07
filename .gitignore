@@ -1,6 +1,5 @@
+
 node_modules/
-.temp/
-.cache/
-.vscode/
-.yarn/cache
-.yarn/install-state.gz
+src/.vuepress/.cache/
+src/.vuepress/.temp/
+src/.vuepress/dist/
