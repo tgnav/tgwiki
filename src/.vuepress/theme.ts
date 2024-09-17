@@ -5,10 +5,9 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   hostname: "https://tgnav.github.io",
-  // author: {
-  //   name: "TGNAV",
-  //   url: "https://tgnav.github.io",
-  // },
+  author: {
+    name: "TGwiki",
+  },
   iconAssets: "fontawesome-with-brands",
   logo: "/assets/icon/logo.svg",
   logoDark: "/assets/icon/logo2.svg",
@@ -47,11 +46,16 @@ export default hopeTheme({
     notice: [
       {
         path: "/",
-        title: "TGwiki已更新至2.0.0版本",
-        content: "全新的界面，更好的阅读体验，主题配色支持自定义。文章重新分类，更加系统、全面。",
+        title: "TGNAV已入驻Twitter",
+        content: "我们会不定期分享一些Telegram优质频道/群组、Telegram使用技巧等，欢迎您关注！",
         actions: [
           {
-            text: "立即体验",
+            text: "关注我们",
+            type: "primary",
+            link: "https://twitter.com/TGNAVteam",
+          },
+          {
+            text: "我知道了",
             type: "default",
           },
         ],
