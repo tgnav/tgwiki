@@ -15,7 +15,7 @@ head:
 
 ::: details 界面截图
 
-![comment.jpg](https://s2.loli.net/2024/01/27/dvXbrpM5gjD7OPK.jpg)
+![A-comment.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/comment.jpg)
 
 :::
 

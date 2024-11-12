@@ -13,7 +13,7 @@ head:
 
 ::: tip
 
-除特殊说明外，文档中的`操作演示`和`界面截图`选取的版本为：Telegram For Android `v10.6.2`，Telegram Desktop `v4.14.9`，随着时间推移，最新版界面可能会有细节差异。理论上，若没有特大界面变化，截图仍然适用。
+为了更好地解释和示范，文档中附有`操作演示`和`界面截图`。随着时间推移，最新版界面可能会有细节差异。理论上，若没有特大界面变化，截图仍然适用。
 
 :::
 
@@ -141,10 +141,11 @@ Telegram 中文圈2：[@tgzhcn](https://t.me/tgzhcn)
 
 ::: tip
 
-查找更多Telegram优质频道请访问 [TGNAV - Telegram频道导航](https://tgnav.github.io/) 。
+查找更多Telegram优质频道/群组请访问 [TGNAV - Telegram频道群组导航](https://tgnav.github.io/) 。
 
 :::
 
 ## 友情链接
-- [TGNAV - Telegram频道导航](https://tgnav.github.io/)
+- [Telegram频道导航](https://tgnav.github.io/)
+- [Telegram群组导航](https://tgnav.github.io/group)
 - [一个东方玄学的指南](https://xuanxue.dclef.icu/)

@@ -25,6 +25,6 @@ head:
 
 ::: details 界面截图
 
-![favourite.jpg](https://s2.loli.net/2024/01/27/O8G1boXImj7lJaV.jpg)
+![A-favourite.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/favourite.jpg)
 
 :::

@@ -15,9 +15,8 @@ Telegram支持将对话分组，帮助用户更高效的管理对话列表。
 
 Telegram客户端版本要求：
 
-iOS/Android/macOS 客户端 ≥ 6.0
-
-Windows/macOS/Linux Desktop 客户端 ≥ 2.0
+- iOS/Android/macOS 客户端 ≥ `6.0`
+- Windows/macOS/Linux Desktop 客户端 ≥ `2.0`
 
 :::
 
@@ -41,7 +40,7 @@ Windows/macOS/Linux Desktop 客户端 ≥ 2.0
 
 ::: details 操作演示
 
-![divide.jpg](https://s2.loli.net/2024/01/27/gxhZNRpCWYltq75.jpg)
+![A-divide.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/divide.jpg)
 
 :::
 

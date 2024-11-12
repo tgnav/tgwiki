@@ -9,7 +9,7 @@ head:
 
 # Telegram Business
 
-Telegram于10.9.1版本中推出了Telegram商业版（Telegram Business），这是Telegram进一步商业化的一个标志。
+Telegram于`10.9.1`版本中推出了Telegram商业版（Telegram Business），这是Telegram进一步商业化的一个标志。
 
 ## 专属功能
 
@@ -26,15 +26,15 @@ Telegram于10.9.1版本中推出了Telegram商业版（Telegram Business），�
 - 自定义开始页面
 - 创建对话链接
 
-::: details 界面截图（Telegram Desktop v4.16.1）
+::: details 界面截图
 
-![business.jpg](https://s2.loli.net/2024/04/04/gOqFjhm2RIPUGBD.jpg)
+![A-business.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/business.jpg)
 
 :::
 
 ## 开通方式
 
-截至Telegram For Android `v10.12.0`、Telegram Desktop `v5.0.1`，Telegram Premium用户可以暂时体验Telegram Business的全部功能。官方说会单独增加Telegram Business订阅，具体时间未知。
+截至Telegram For Android `v11.13.1`、Telegram Desktop `v5.7.2`，Telegram Premium用户可以暂时体验Telegram Business的全部功能。Telegram官方称会单独增加Telegram Business订阅，具体时间未知。
 
 ::: tip
 

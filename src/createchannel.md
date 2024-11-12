@@ -20,6 +20,8 @@ head:
 
 ::: details 操作演示
 
-![createchannel.jpg](https://s2.loli.net/2024/01/27/FMdlAfjPSyaGHDU.jpg)
+![A-create.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/create.jpg)
+
+![D-menu.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/D/menu.jpg)
 
 :::

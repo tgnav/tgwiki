@@ -27,7 +27,7 @@ head:
 
 ::: details 操作演示
 
-![stories.jpg](https://s2.loli.net/2024/01/27/LUCqToHh2FJ5cI8.jpg)
+![A-stories.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/stories.jpg)
 
 :::
 

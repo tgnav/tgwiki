@@ -36,7 +36,15 @@ head:
 
 3. 发送图片给机器人，未压缩图片。 然后发送emoji表情，将表情和图片进行关联。
 
-   重复进行操作，直至上传完成所有的。 发送 `/publish` 结束上传
+   重复进行操作，直至上传完成所有的。 发送 `/publish` 结束上传。
+
+   ::: details 操作演示
+
+   ![A-createsticker1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/createsticker1.jpg)
+
+   ![A-createsticker2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/createsticker2.jpg)
+
+   :::
 
 4. 为贴图集设置图标。Telegram应用程序会将其显示在贴纸面板的贴纸列表中。
 

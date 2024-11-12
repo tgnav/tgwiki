@@ -18,12 +18,18 @@ Telegram 网页版不支持使用语言包。
 
 :::
 
+::: details 界面截图
+
+![A-language.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/language.jpg)
+
+:::
+
 ## 简体中文语言包：
 
+- [简体中文-简体中文（聪聪）](https://t.me/setlanguage/zhcncc)
 - [简体中文-简体中文（beta）](https://t.me/setlanguage/zh-hans-beta)
 - [简体中文-简体中文（raw）](https://t.me/setlanguage/zh-hans-raw) 与前一个相同
 - [简体中文-简体字](https://t.me/setlanguage/jiantizi)
-- [简体中文-简体中文（聪聪）](https://t.me/setlanguage/zhcncc)
 - [简体中文-ichina](https://t.me/setlanguage/ichina)
 - [简体中文-moecn](https://t.me/setlanguage/moecn)
 - [简体中文-简体中文（@zh_CN）](https://t.me/setlanguage/classic-zh-cn)

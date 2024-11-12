@@ -95,9 +95,9 @@ export default sidebar({
           link: "/poll"
         },
         {
-          text: "图片添加说明",
-          icon: "align-justify",
-          link: "/adddescription"
+          text: "图片排版",
+          icon: "image",
+          link: "/editphoto"
         },
         {
           text: "消息翻译",
@@ -113,6 +113,11 @@ export default sidebar({
           text: "动态功能",
           icon: "camera-retro",
           link: "/stories"
+        },
+        {
+          text: "对话分组",
+          icon: "folder-open",
+          link: "/divide"
         },
         {
           text: "附近的人和群组",
@@ -152,11 +157,6 @@ export default sidebar({
           link: "/slowmode"
         },
         {
-          text: "对话分组",
-          icon: "folder-open",
-          link: "/divide"
-        },
-        {
           text: "Telegraph",
           icon: "indent",
           link: "/telegraph"
@@ -167,11 +167,6 @@ export default sidebar({
           link: "/encrypt"
         },
         {
-          text: "邮箱登录",
-          icon: "envelope-open-text",
-          link: "/emaillogin"
-        },
-        {
           text: "私聊机器人搭建",
           icon: "reply-all",
           link: "/livegram"
@@ -180,6 +175,11 @@ export default sidebar({
           text: "小程序",
           icon: "window-restore",
           link: "/miniapp"
+        },
+        {
+          text: "内置浏览器",
+          icon: "window-maximize",
+          link: "/browser"
         },
         {
           text: "Premium",
@@ -202,6 +202,11 @@ export default sidebar({
           link: "/monetization"
         },
         {
+          text: "Telegram星币",
+          icon: "star",
+          link: "/stars"
+        },
+        {
           text: "找出群管理员",
           icon: "user-tie",
           link: "/findadmin"
@@ -210,6 +215,11 @@ export default sidebar({
           text: "频道身份发言",
           icon: "message",
           link: "/speakaschannel"
+        },
+        {
+          text: "快捷键",
+          icon: "keyboard",
+          link: "/shortcut"
         },
         {
           text: "第三方客户端",
@@ -242,6 +252,11 @@ export default sidebar({
           text: "缓存与下载",
           icon: "download",
           link: "/download"
+        },
+        {
+          text: "邮箱登录",
+          icon: "envelope-open-text",
+          link: "/emaillogin"
         },
         {
           text: "未收到验证码",

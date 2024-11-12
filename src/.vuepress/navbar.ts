@@ -61,9 +61,9 @@ export default navbar([
             link: "/format"
           },
           {
-            text: "图片添加说明",
-            icon: "align-justify",
-            link: "/adddescription"
+            text: "图片排版",
+            icon: "image",
+            link: "/editphoto"
           },
           {
             text: "内置搜索",
@@ -146,8 +146,19 @@ export default navbar([
     ],
   },
   {
-    text: "频道导航",
+    text: "TGNAV",
     icon: "compass",
-    link: "https://tgnav.github.io/",
+    children: [
+      {
+        text: "频道导航",
+        icon: "bullhorn",
+        link: "https://tgnav.github.io/",
+      },
+      {
+        text: "群组导航",
+        icon: "users",
+        link: "https://tgnav.github.io/group/"
+      }
+    ]
   }
 ]);

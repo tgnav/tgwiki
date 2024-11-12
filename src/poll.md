@@ -32,10 +32,23 @@ Telegram客户端官方已添加"投票"功能，可以实时显示投票人数�
 
 ## 创建投票
 
-* Telegram iOS：`点击左下角别针按钮`->`投票(Poll)`
-* Telegram/Telegram X Android：`点击右下角别针按钮`->`投票(Poll)`
-* Telegram macOS：`鼠标停留在左下角别针按钮上`->`投票(Poll)`
-* Windows/macOS/Linux Desktop：`点击右上角更多按钮（三个点）`->`新建投票(Create poll)`
+- Telegram iOS：`点击左下角别针按钮`->`投票(Poll)`
+- Telegram/Telegram X Android：`点击右下角别针按钮`->`投票(Poll)`
+
+  ::: details 操作演示
+
+  ![A-poll.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/poll.jpg)
+
+  :::
+
+- Telegram macOS：`鼠标停留在左下角别针按钮上`->`投票(Poll)`
+- Windows/macOS/Linux Desktop：`点击右上角更多按钮（三个点）`->`新建投票(Create poll)`
+
+  ::: details 操作演示
+
+  ![D-poll.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/D/poll.jpg)
+
+  :::
 
 ::: tip
 
@@ -43,8 +56,3 @@ Telegram客户端官方已添加"投票"功能，可以实时显示投票人数�
 
 :::
 
-::: details 操作演示
-
-![poll.jpg](https://s2.loli.net/2024/01/27/6PpXyA59Ihg1Qdv.jpg)
-
-:::

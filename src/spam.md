@@ -51,9 +51,9 @@ Telegram私聊限制通常分为以下几种，请先判断限制类型，然后
 
 ::: details 操作演示
 
-![spam1.jpg](https://s2.loli.net/2024/01/27/2VpYNwmG4yuZP6J.jpg)
+![A-spam1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/spam1.jpg)
 
-![spam2.jpg](https://s2.loli.net/2024/01/27/R1fXvp2VY8T4s73.jpg)
+![A-spam2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/spam2.jpg)
 
 :::
 
@@ -77,6 +77,7 @@ Telegram私聊限制通常分为以下几种，请先判断限制类型，然后
    ::: tip
 
    注意，是UTC 时间，比北京时间晚8小时，[点击查看UTC时间](https://time.is/zh/UTC) 。
+   
    :::
 
 2. 如果Bot回复的消息里没有说明解封时间，则您可能被Telegram群组的强力反垃圾功能误杀了，需要提交申诉，说明情况，通常24小时可解。

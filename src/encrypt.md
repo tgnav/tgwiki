@@ -28,7 +28,7 @@ head:
 
 ::: details 操作演示
 
-![encrypt.jpg](https://s2.loli.net/2024/01/27/6bE3VuNpnXwC715.jpg)
+![encrypt.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/encrypt.jpg)
 
 :::
 

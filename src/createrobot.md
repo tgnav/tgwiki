@@ -25,13 +25,13 @@ head:
 
 ::: details 操作演示
 
-![createrobot.jpg](https://s2.loli.net/2024/01/28/PFo3Mq7CdxAsTby.jpg)
+![A-createrobot1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/createrobot1.jpg)
 
 :::
 
 ::: danger
 
-请勿泄露API Token，所有知道API Token的人都可以控制你的机器人！
+请勿泄露API Token（格式：`12345:6789ABCDEF`），所有知道API Token的人都可以控制你的机器人！
 
 :::
 
@@ -40,6 +40,12 @@ head:
 1. 点击`Menu`（菜单）-> 点击 `/mybots`（我的机器人）
 
 2. 点击机器人用户名
+
+   ::: details 界面截图
+
+   ![A-createrobot2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/createrobot2.jpg)
+
+   :::
 
    - API Token（API令牌，用于控制机器人）
 

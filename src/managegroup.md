@@ -29,7 +29,7 @@ head:
 
 ::: details 操作演示
 
-![managegroup1.jpg](https://s2.loli.net/2024/01/27/5b1Bt4p2hRVaeQj.jpg)
+![A-managegroup1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/managegroup1.jpg)
 
 :::
 
@@ -43,7 +43,7 @@ head:
 
 ::: details 操作演示
 
-![managegroup2.jpg](https://s2.loli.net/2024/01/27/qUsKQahViznoxSY.jpg)
+![A-managegroup2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/managegroup2.jpg)
 
 :::
 
@@ -71,7 +71,8 @@ head:
 
 ## 其他
 
- - 管理员可删除成员的单条消息或全部消息。
- - 可对群主（creator）及管理员（administrators）设置自定义头衔。
- - 管理员可以匿名发布消息（在管理员权限处设置）。
- - 成员超过500人后，自动开通群组分析功能。统计分析数据仅能在手机端查看，Telegram Desktop不支持查看。
+- 管理员可删除成员的单条消息或全部消息。
+- 可对群主（creator）及管理员（administrators）设置自定义头衔。
+- 管理员可以匿名发布消息（在管理员权限处设置）。
+- 成员超过500人后，自动开通群组分析功能。
+- 群组获得助推后将开启高级功能（修改主页外观、发布动态、自定义emoji包等），具体请参阅 [此处](/tgwiki/boost) 。

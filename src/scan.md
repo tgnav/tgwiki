@@ -14,3 +14,8 @@ head:
 
 2. 电脑端登录可以选"扫描二维码"方式登录，需要用 Telegram 移动端来扫描，Telegram 移动端功能在：`设置`->`设备`->`扫描二维码`。
 
+::: details 界面截图
+
+![A-device.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/device.jpg)
+
+:::

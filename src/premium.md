@@ -31,10 +31,15 @@ head:
 - 自定义名称颜色和消息样式
 - 查看全部相似频道
 - 仅接收来自联系人和Premium用户的消息
+- 暂时体验 [Telegram Business](/tgwiki/business) 的全部功能
 
 ::: details 界面截图
 
-![premium.jpg](https://s2.loli.net/2024/01/27/dZI34ftoBYbSzgx.jpg)
+![A-premium1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/premium1.jpg)
+
+![A-premium2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/premium2.jpg)
+
+![A-premium3.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/premium3.jpg)
 
 :::
 
