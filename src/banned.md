@@ -13,7 +13,7 @@ head:
 
 ::: details 界面截图
 
-![banned.jpg](https://s2.loli.net/2024/01/27/lM9PFwA4Z5YEi6G.jpg)
+![A-banned.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/banned.jpg)
 
 :::
 
@@ -40,7 +40,7 @@ head:
 3. 不要被举报。
 4. 谨慎使用接码平台的号码，接码平台出事可能会连坐。
 5. 谨慎使用GV等虚拟号码，有些GV是已被人用过的。
-6. 同一个IP或网络批量注册几百上千个账号也可能会被封。
+6. 同一个IP或网络批量注册几百上千个账号也会被封。
 7. 不要频繁更换登录设备。
 8. 短期内不要一次性加入过多频道、群组，否则会被强制退出登录，甚至封号。
 

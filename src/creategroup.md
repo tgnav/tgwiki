@@ -9,8 +9,8 @@ head:
 
 # Telegram新建群组
 
-1. 复制一个Bot的用户名：```@keyworddel_bot```或```@UserMeta_Bot```或```@AntiServiceMessage_Bot```
-2. 新建群组->粘贴刚复制的用户名
+1. 复制一个Bot的用户名：`@keyworddel_bot`或`@UserMeta_Bot`或`@AntiServiceMessage_Bot`
+2. `新建群组`->粘贴刚复制的用户名
 
 **"新建群组"在哪儿？**
 
@@ -21,6 +21,8 @@ head:
 
 ::: details 界面截图
 
-![menu.jpg](https://s2.loli.net/2024/01/27/esy158owaicYdIr.jpg)
+![A-menu.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/menu.jpg)
+
+![D--menu.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/D/menu.jpg)
 
 :::

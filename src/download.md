@@ -18,23 +18,41 @@ Telegram的消息是全平台全客户端自动同步的（除了加密对话)�
 
 ## 清理缓存方法
 
-* iOS/macOS/Android客户端：`设置`->`数据`->`存储使用`->`清理缓存`，可以把`媒体文件保留时间`设置短一点，Telegram就会自动清理(3天/1周/1月)之前的缓存，如果选择`永远`就不会自动清理；此处也可以设置`最大缓存大小`。
-* Windows/macOS/Linux Desktop 客户端：左上角三短线->`设置`->`高级`->`缓存管理`->`清理缓存`，可以设置缓存总大小的限制。
+- iOS/macOS/Android客户端：`设置`->`数据`->`存储使用`->`清理缓存`，可以把`媒体文件保留时间`设置短一点，Telegram就会自动清理(3天/1周/1月)之前的缓存，如果选择`永远`就不会自动清理；此处也可以设置`最大缓存大小`。
 
-::: details 操作演示
+  ::: details 操作演示
 
-![download1.jpg](https://s2.loli.net/2024/01/27/2UBaeRHik7W5bYd.jpg)
+  ![A-download1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/download1.jpg)
 
-:::
+  ![A-download2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/download2.jpg)
+
+  :::
+
+- Windows/macOS/Linux Desktop 客户端：左上角三短线->`设置`->`高级`->`缓存管理`->`清理缓存`，可以设置缓存总大小的限制。
+
+  ::: details 操作演示
+
+  ![D-download1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/D/download1.jpg)
+  
+  :::
+
+
 
 ## 自动下载设置
 
-* iOS/macOS/Android客户端：`设置`->`数据`->`自动下载媒体`
-* Windows/macOS/Linux Desktop客户端：左上角三短线->`设置`->`高级`->`自动下载媒体`
+- iOS/macOS/Android客户端：`设置`->`数据`->`自动下载媒体`
+
+  ::: details 操作演示
+
+  ![A-download3.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/download3.jpg)
+
+  :::
+
+- Windows/macOS/Linux Desktop客户端：左上角三短线->`设置`->`高级`->`自动下载媒体`
 可以关闭自动下载或把自动下载的大小限制小一点，关闭自动下载后，手动在对话中点击了媒体也会缓存在设备上
 
-::: details 操作演示
+  ::: details 操作演示
 
-![download2.jpg](https://s2.loli.net/2024/01/27/ZP4dGgTQ6e2aYyL.jpg)
+  ![D-download2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/D/download2.jpg)
 
-:::
+  :::

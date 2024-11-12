@@ -31,6 +31,20 @@ Fragment是一个免费平台，通过TON（最初由Telegram开发的区块链�
 
   :::
 
+- 投放广告
+  
+  广告商可以通过Fragment平台向Telegram频道投放广告，频道主将会获得广告收益的50%
+
+- Telegram Stars
+  
+  用户现在可以通过Fragment购买星币。
+
+  ::: tip
+
+  有关Telegram星币，请参阅 [此处](/tgwiki/stars) 。
+
+  :::
+
 ## 步骤
 
 ::: tip

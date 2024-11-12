@@ -18,17 +18,11 @@ head:
 ## 实用机器人
 
 - 群里删广告  [@keyworddel_bot](https://t.me/keyworddel_bot)
-
 - 统计群内每天活跃成员  [@UserMeta_Bot](https://t.me/UserMeta_Bot)
-
 - Vultr助手Bot  [@vultr_helper_bot](https://t.me/vultr_helper_bot)
-
 - Telegram权限管理Bot  [@autopm_bot](https://t.me/autopm_bot)
-
 - 自动回复Bot [@keyword_reply_bot](https://t.me/keyword_reply_bot)
-
 - 接收和回复Gmail  [@GmailBot](https://t.me/GmailBot)
-
 - Telegram Premium订阅  [@PremiumBot](https://t.me/GmailBot)
 
   ::: tip
@@ -38,15 +32,10 @@ head:
   :::
 
 - 入群审核只能Premium进群  [@PremiumJoinBot](https://t.me/PremiumJoinBot)
-
 - 自动封禁群中的Premium用户  [@PremiumXBot](https://t.me/PremiumXBot)
-
 - 自动删除群中的Premium贴纸  [@AntiPremiumStickerBot](https://t.me/AntiPremiumStickerBot)
-
 - 统计 Premium 用户占比  [@PremiumCounterBot](https://t.me/PremiumCounterBot)
-
 - 搜索引擎搜索  [@letmebot](https://t.me/letmebot)
-
 - Telegraph文章管理  [@telegraph](https://t.me/telegraph)
 
   ::: tip
@@ -54,48 +43,29 @@ head:
   有关Telegraph的介绍请参阅[此处](/tgwiki/telegraph)
 
   :::
-
 - InstantView生成  [@ChnInstantViewBot](https://t.me/ChnInstantViewBot)
-
 - 抽奖助手  [@cnLottery_bot](https://t.me/cnLottery_bot)
-
 - 智能合租机器人  [@daixiahu_bot](https://t.me/daixiahu_bot)
-
 - 删除加群退群消息  [@AntiServiceMessage_Bot](https://t.me/AntiServiceMessage_Bot)
-
 - 删除命令  [@AntiCommandBot](https://t.me/AntiCommandBot)
-
 - 解除频道消息在群组的置顶  [@areply_bot](https://t.me/areply_bot)
-
 - 用机器人控制机器人  [@Manybot](https://t.me/Manybot) [@ControllerBot](https://t.me/ControllerBot)
-
 - AppStore App价格监控  [@DogFatherPublicbot](https://t.me/DogFatherPublicbot)
-
 - 查看 Telegram 注册时间  [@creationdatebot](https://t.me/creationdatebot) [@getidsbot](https://t.me/getidsbot)
-
 - 群成员更名通知  [@SangMata_Bot](https://t.me/SangMata_Bot)
-
 - 可以把文章都生成支持Instant View  [@CorsaBot](https://t.me/CorsaBot)
-
 - Google Drive 谷歌网盘管家  [@GoogleDriveManagerBot](https://t.me/GoogleDriveManagerBot)
-
 - APK 下载  [@apkdl_bot](https://t.me/apkdl_bot)
-
 - YouTube视频下载  [@utubebot](https://t.me/utubebot) （非Desktop端: 进群下载 [@ytbdl](https://t.me/ytbdl)）
-
 - Twitter视频下载  [@twittervid_bot](https://t.me/twittervid_bot)
-
 - 视频和音频下载  [@getmediabot](https://t.me/getmediabot)
-
 - 贴纸制作  [@Stickers](https://t.me/stickers)
-
 - 私聊机器人创建<Badge type="tip" text="常用" vertical="top" /> [@CSFatherBot](https://t.me/CSFatherBot) [@LivegramBot](https://t.me/LivegramBot)
-
 - 生成Pixiv图片预览 [@pixiv_bot](https://t.me/pixiv_bot)
-
 - 生成Twitter图片预览 [@loli_twitter_bot](https://t.me/loli_twitter_bot)
 
 ## GIF和贴纸下载
+
 - [@Sticker2GIFBot](https://t.me/Sticker2GIFBot) (支持动态贴纸)
 - [@tgstogifbot](https://t.me/tgstogifbot) (支持动态贴纸)
 - [@GIFDownloader_bot](https://t.me/GIFDownloader_bot)
@@ -107,6 +77,7 @@ head:
 - [@WooMaiBot](https://t.me/WooMaiBot)
 
 ## 频道消息添加点赞和评论按钮
+
 - [@ReactBot](https://t.me/ReactBot)
 - [@bakalztbot](https://t.me/bakalztbot)
 - [@like](https://t.me/like)
@@ -115,6 +86,7 @@ head:
 - [@jogle_channel_bot](https://t.me/jogle_channel_bot)
 
 ## 翻译消息
+
 - [@fanyi_bot](https://t.me/fanyi_bot)
 - [@en_to_tw2_bot](https://t.me/en_to_tw2_bot)
 - [@en_to_tw_bot](https://t.me/en_to_tw_bot)
@@ -124,6 +96,7 @@ head:
 - [@TranslateBot](https://t.me/TranslateBot)
 
 ## 加群验证
+
 - [@policr_mini_bot](https://t.me/policr_mini_bot)
 - [@MissRose_bot](https://t.me/MissRose_bot)
 - [@Jqs7ZweiBot](https://t.me/Jqs7ZweiBot)
@@ -144,14 +117,16 @@ head:
 - [@math_captcha_bot](https://t.me/math_captcha_bot)
 - [@join_captcha_bot](https://t.me/join_captcha_bot)
 
-## 群内删广告 
+## 群内删广告
+
 - [@keyworddel_bot](https://t.me/keyworddel_bot)
 - [@ADGoawayBot](https://t.me/ADGoawayBot)
 - [@nmnmfunbot](https://t.me/nmnmfunbot)
 - [@KinhRoBot](https://t.me/KinhRoBot)
 - [@afoolrobot](https://t.me/afoolrobot)
 
-## 群组管理 
+## 群组管理
+
 - [@GroupHelpBot](https://t.me/GroupHelpBot)
 - [@nmnmfunbot](https://t.me/nmnmfunbot)
 - [@KinhRoBot](https://t.me/KinhRoBot)
@@ -170,7 +145,9 @@ head:
 - [@WatchDoorBot](https://t.me/WatchDoorBot)
 - [@WooMaiBot](https://t.me/WooMaiBot)
 - [@hexlightning_bot](https://t.me/hexlightning_bot)
+
 ## 删除以频道身份发言
+
 - [@NoChanMsgBot](https://t.me/NoChanMsgBot)
 - [@AntiChannelSpammersBot](https://t.me/AntiChannelSpammersBot)
 - [@bbrainybot](https://t.me/bbrainybot)
@@ -179,10 +156,9 @@ head:
 
 ::: tip
 
-查找更多Telegram优质频道请访问 [TGNAV - Telegram频道导航](https://tgnav.github.io/) 。
+查找更多Telegram优质频道/群组请访问 [TGNAV - Telegram频道群组导航](https://tgnav.github.io/) 。
 
 :::
-
 - [@zh_secretary_bot](https://t.me/zh_secretary_bot)
 - [@tgnavindexbot](https://t.me/tgnavindexbot)
 - [@SuperIndexBot](https://t.me/SuperIndexBot)

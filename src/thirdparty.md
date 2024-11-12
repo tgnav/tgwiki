@@ -21,8 +21,11 @@ head:
 | :----------: | :----------------------------------------------------------: | :-----------------: | :----------------------------------------------------------: |
 |   Nekogram   |  Nekogram是一个修改不多但都很有用的开源第三方Telegram客户端  |       Android       | [GitHub](https://github.com/Nekogram/Nekogram/releases) / [Telegram Channel](https://t.me/NekogramAPKs) / [Google Play](https://play.google.com/store/apps/details?id=tw.nekomimi.nekogram) |
 |    Neko X    | Neko X是一款免费开源的第三方Telegram客户端，基于Telegram-FOSS并添加了功能 |       Android       | [GitHub](https://github.com/NekoX-Dev/NekoX/releases) / [Telegram Channel](https://t.me/NekoXAPKs) / [F-Droid](https://f-droid.org/packages/nekox.messenger/) |
-|    Nagram    | Nagram是一个基于 NekoX 并进行了一些修改的第三方 Telegram 客户端 |       Android       | [GitHub](https://github.com/NextAlone/Nagram/releases) / [Telegram Channel](https://t.me/nagram_channel) |
+|    Nagram    | Nagram是一个基于 NekoX 并进行了一些修改的第三方Telegram客户端 |       Android       | [GitHub](https://github.com/NextAlone/Nagram/releases) / [Telegram Channel](https://t.me/nagram_channel) |
+|   Nullgram   | Nullgram是一款免费开源的第三方Telegram客户端，基于Android版Telegram App的官方源代码 |       Android       | [GitHub](https://github.com/qwq233/Nullgram/releases/) / [Telegram Channel](https://t.me/NullgramClient) |
+|   Nnngram    | 基于Nullgram的Telegram第三方客户端 |       Android       | [Telegram Channel](https://t.me/Nnngram) |
 |    MDGram    | MDGram是一款令人惊叹的Telegram客户端，具有优雅的设计和广泛的自定义功能 |       Android       | [官网下载](https://mdgram.org/mdgram-download/) / [Google Play](https://play.google.com/store/apps/details?id=org.telegram.mdgram) |
+| Plus Messenger | 一款使用Telegram API的消息传递应用程序 |       Android       | [Google Play](https://play.google.com/store/apps/details?id=org.telegram.plus)|
 |   Nicegram   | Nicegram是一款基于Telegram API的通讯工具，为商业和个人通信提供了更多机会 |     Android/iOS     | [Google Play](https://play.google.com/store/apps/details?id=app.nicegram) / [App Store](https://apps.apple.com/us/app/nicegram-ai-chat-for-telegram/id1608870673) |
 | iMe Massager | 由Telegram API提供支持的智能DeFi和AI平台 使用非托管加密钱包  |     Android/iOS     | [Google Play](https://play.google.com/store/apps/details?id=com.iMe.android) / [App Store](https://apps.apple.com/us/app/ime-messenger-crypto-wallet/id1450480822) |
 |   Unigram    |      Unigram是一款专为Windows制作的Telegram桌面应用程序      |       Windows       | [官网下载](https://unigramdev.github.io/) / [Microsoft Store](https://apps.microsoft.com/detail/9N97ZCKPD60Q) |
@@ -31,13 +34,5 @@ head:
 ::: warning
 
 不建议使用未开源、未经验证的第三方客户端，防止盗号或发生数据泄露！
-
-:::
-
-::: details 第三方客户端附加功能截图（以Nekogram为例）
-
-![nekogram1.jpg](https://s2.loli.net/2024/01/27/qlQJa98CcOX1i7E.jpg)
-
-![nekogram2.jpg](https://s2.loli.net/2024/01/27/o8dPqHjUsy9rCaK.jpg)
 
 :::

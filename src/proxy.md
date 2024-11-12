@@ -23,7 +23,7 @@ Telegram Desktop默认并没有勾选"使用系统代理"， 所以很多人觉�
 
 ::: details 操作演示
 
-![proxy.jpg](https://s2.loli.net/2024/01/27/hDALxbZoXgUQWEr.jpg)
+![D-proxy.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/D/proxy.jpg)
 
 :::
 
@@ -98,7 +98,7 @@ iOS/Android设备上开启代理软件即可，不需要单独在Telegram中设�
 
 Telegram iOS端是IP直连访问服务器的，所以需要代理软件做单独的规则处理才行；
 
-iOS上有些代理软件并没有针对性的对此做处理，所以即使开启了这类代理软件，Telegram iOS 也会提示无网络链接，比如"Wingy"， [点击查看代理软件](https://congcong0806.github.io/2018/04/20/SS) 。
+iOS上有些代理软件并没有针对性的对此做处理，所以即使开启了这类代理软件，Telegram iOS 也会提示无网络链接，比如"Wingy"。
 
 ## 其他
 

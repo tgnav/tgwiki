@@ -191,10 +191,10 @@ highlights:
         icon: square-poll-vertical
         details: 投票支持匿名投票和小测验模式
         link: /poll
-      - title: 图片添加说明
-        icon: align-justify
-        details: 发送图片时添加文字说明，以原图形式发送图片
-        link: /adddescription
+      - title: 图片排版
+        icon: image
+        details: 发送图片时添加文字说明，发送原图，对图片重新排序
+        link: /editphoto
       - title: 消息翻译
         icon: right-left
         details: 将其他语言的消息翻译成选定语言
@@ -206,7 +206,11 @@ highlights:
       - title: 动态功能
         icon: camera-retro
         details: 发布动态，动态将显示在对话列表上方标题处
-        link: /stories
+        link: /stories      
+      - title: 对话分组
+        icon: folder-open
+        details: 设置对话分组，分类整理对话列表
+        link: /divide
       - title: 附近的人和群组
         icon: location-arrow
         link: /nearby
@@ -237,10 +241,6 @@ highlights:
         icon: clock-rotate-left
         details: 设置群组成员发言时间间隔
         link: /slowmode
-      - title: 对话分组
-        icon: folder-open
-        details: 设置对话分组，分类整理对话列表
-        link: /divide
       - title: Telegraph
         icon: indent
         details: 通过Telegraph快速发表并分享你的文章
@@ -249,10 +249,6 @@ highlights:
         icon: masks-theater
         details: 开启端到端加密，可设置阅后即焚计时器
         link: /encrypt
-      - title: 邮箱登录
-        icon: envelope-open-text
-        details: 开启邮箱登录，通过邮箱接收验证码登录Telegram
-        link: /emaillogin
       - title: 私聊机器人搭建
         icon: reply-all
         details: 搭建私聊机器人，方便被双向限制的用户私聊
@@ -261,6 +257,10 @@ highlights:
         icon: window-restore
         details: 创建Web应用程序，提供无缝且灵活的用户体验
         link: /miniapp
+      - title: 内置浏览器
+        icon: window-maximize
+        details: 使用内置浏览器在Telegram内打开任何链接
+        link: /browser
       - title: Premium
         icon: gem
         details: Telegram大会员专属功能介绍及开通价格
@@ -277,6 +277,10 @@ highlights:
         icon: coins
         details: 频道广告收入分成，发布付费媒体赚取星币
         link: /monetization
+      - title: Telegram星币
+        icon: star
+        details: 使用Telegram星币赠送礼物、购买商品
+        link: /stars
       - title: 找出群管理员
         icon: user-tie
         details: 快速找到Telegram群组管理员的几种方法
@@ -285,6 +289,10 @@ highlights:
         icon: message
         details: 以频道马甲身份发言，在防止骚扰的同时引流
         link: /speakaschannel
+      - title: 快捷键
+        icon: keyboard
+        details: Telegram Desktop常用快捷键介绍
+        link: /shortcut
       - title: 第三方客户端
         icon: wand-magic-sparkles
         details: 第三方客户端通过Api编写，加入了一些额外的功能
@@ -312,6 +320,10 @@ highlights:
         icon: download
         details: 清除Telegram缓存，修改自动下载设置
         link: /download
+      - title: 邮箱登录
+        icon: envelope-open-text
+        details: 开启邮箱登录，通过邮箱接收验证码登录Telegram
+        link: /emaillogin
       - title: 未收到验证码
         icon: comment-sms
         details: 注册登录时没有收到验证码的解决方案

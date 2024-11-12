@@ -27,9 +27,9 @@ head:
 
 ::: details 操作演示
 
-![livegram1.jpg](https://s2.loli.net/2024/04/04/qyMOefBERg3ph6z.jpg)
+![A-livegram1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/livegram1.jpg)
 
-![livegram2.jpg](https://s2.loli.net/2024/04/04/BvcqQmKAHGuEexn.jpg)
+![A-livegram2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/livegram2.jpg)
 
 :::
 
@@ -42,5 +42,11 @@ head:
   - Groups：将私聊消息转发到群组
   - Broadcast：向所有使用者发送广播
   - Statistics：查看机器人统计信息
+  - Anonymous Mode：尚不清楚具体功能，慎重使用，开启后不可关闭
   - Disconnect Bot：取消连接机器人
 
+::: details 界面截图
+
+![A-livegram3.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/livegram3.jpg)
+
+:::

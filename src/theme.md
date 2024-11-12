@@ -12,12 +12,12 @@ head:
 Telegram客户端可以设置各式各样的主题。
 
 几个分享主题的频道和群组：
-* [Telegram iOS Themes](https://t.me/IOSTelegramThemes)
-* [Desktop Themes Channel](https://t.me/themes)
-* [Android Themes Channel](https://t.me/AndroidThemes)
-* [Telegram Android Themes](https://t.me/AndroidThemesGroup)
-* [Telegram Desktop Themes](https://t.me/TelegramThemes)
-* [Telegram X: Themes](https://t.me/tgx_perfection)
+- [Telegram iOS Themes](https://t.me/IOSTelegramThemes)
+- [Desktop Themes Channel](https://t.me/themes)
+- [Android Themes Channel](https://t.me/AndroidThemes)
+- [Telegram Android Themes](https://t.me/AndroidThemesGroup)
+- [Telegram Desktop Themes](https://t.me/TelegramThemes)
+- [Telegram X: Themes](https://t.me/tgx_perfection)
 
 ::: tip
 
@@ -27,6 +27,6 @@ Telegram客户端可以设置各式各样的主题。
 
 ::: details 操作演示
 
-![theme.jpg](https://s2.loli.net/2024/01/27/Ml4Qak56sPyiAdr.jpg)
+![A-theme.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/theme.jpg)
 
 :::

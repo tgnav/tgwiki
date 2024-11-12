@@ -12,7 +12,7 @@ head:
 
 Telegram小程序（迷你应用程序）不仅仅是一个简单的工具，而且是一个可以替代普通网站的强大平台。
 
-本知识库完成了Telegram小程序的初步适配，您可以打开 [@TGwikiAppBot](https://t.me/TGwikiAppBot) 进行体验。
+本知识库完成了Telegram小程序的初步适配，您可以打开 [@TGwikiAppBot](https://t.me/TGwikiAppBot/tgwiki) 进行体验。
 
 ## 功能和特性
 
@@ -25,28 +25,50 @@ Telegram小程序（迷你应用程序）不仅仅是一个简单的工具，而
 - 多种启动方式：小程序可以通过键盘按钮、内联按钮、机器人菜单按钮、内联模式、直接链接和附件菜单启动。
 - 与区块链交互：小程序可以与区块链和智能合约直接交互，提高账户安全性。
 
+::: details 界面截图
+
+![A-miniapp1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/miniapp1.jpg)
+
+![A-miniapp2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/miniapp2.jpg)
+
+:::
+
 ## 创建小程序
 
 1. 创建机器人：按照 [教程](/tgwiki/createrobot) 创建一个机器人。
 
-2. 配置服务器：将你的服务器配置为处理来自Telegram的请求。
+2. 私聊 [@BotFather](https://t.me/BotFather) ，发送`/newapp`命令。选择你想要创建小程序的机器人。
 
-3. 开发小程序：使用HTML、CSS和JavaScript开发你的前端应用。
+   ::: details 操作演示
+
+   ![miniapp3.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/miniapp3.jpg)
+
+   :::
+
+3. 为你的小程序提供一个标题、简短的描述和一张图片（尺寸必须为`640`x`360`）。上传预览GIF（发送`/empty`跳过）。
+
+   ::: details 操作演示
+
+   ![A-miniapp4.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/miniapp4.jpg)
+
+   :::
+
+4. 设置小程序打开时显示的URL。设置一个小程序短后缀（`3`~`30`字符），用户将可以使用`t.me/your_robot/short_name`链接直接打开小程序。
+
+   ::: details 操作演示
+
+   ![A-miniapp5.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/miniapp5.jpg)
+
+   :::
+
+5. 配置服务器并开发小程序
 
    Telegram小程序支持丰富的前端功能，可以与用户进行交互。
 
    你可以使用Telegram提供的Web App API来与Telegram进行交互，例如发送和接收消息。
-
-4. 集成小程序与机器人：在机器人代码中，使用API令牌来验证和控制你的机器人。
-
-   你可以使用`sendMessage`方法发送包含`web_app`类型的按钮，用户点击按钮后将启动小程序。
-
-5. 测试和部署：在发布之前，确保对小程序进行全面测试，修复错误并优化用户体验。
 
 ::: tip
 
 有关Telegram小程序开发的详细内容（代码细则，支持的API，用户交互等），请参阅 [Telegram Mini Apps官方文档](https://core.telegram.org/bots/webapps) 。
 
 :::
-
-

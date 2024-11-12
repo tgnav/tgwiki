@@ -22,9 +22,9 @@ head:
 
   ::: details
 
-  ![translate1.jpg](https://s2.loli.net/2024/01/27/WnUIkeicdrHKSoL.jpg)
+  ![A-language.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/language.jpg)
 
-  ![translate2.jpg](https://s2.loli.net/2024/01/27/EJAatjHlQkbWYsD.jpg)
+  ![A-translate.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/translate.jpg)
 
   :::
 
@@ -32,10 +32,10 @@ head:
 - 方法3：使用"Google翻译"App->`设置`->`点按翻译`->`启用`
 
 ## Telegram macOS
-方法：Telegram for macOS ≥v8.4 官方客户端更新新增`消息翻译`功能：`先使用中文语言包汉化`->`设置`->`语言`->打开`显示翻译按钮`，然后选择一条消息：`右键消息`->`翻译` (系统要求：≥macOS 12, 此功能调用 iOS 系统翻译接口)
+方法：Telegram for macOS ≥`8.4` 官方客户端更新新增`消息翻译`功能：`先使用中文语言包汉化`->`设置`->`语言`->打开`显示翻译按钮`，然后选择一条消息：`右键消息`->`翻译` (系统要求：≥macOS 12, 此功能调用 iOS 系统翻译接口)
 
 ## Telegram Desktop
-- 方法1：Telegram Desktop >=4.3.2 已支持`消息翻译`功能：`设置`->`语言`->`显示翻译按钮`，使用方法：`右键消息`->`Translate
+- 方法1：Telegram Desktop >=`4.3.2` 已支持`消息翻译`功能：`设置`->`语言`->`显示翻译按钮`，使用方法：`右键消息`->`Translate
 - 方法2：使用第三方客户端 [Unigram](https://www.microsoft.com/store/apps/9n97zckpd60q) ≥v8.4 更新新增"消息翻译"功能：`设置`->`语言`->`打开"显示翻译按钮"`, 然后`鼠标右键一条消息`->`翻译`
 - 方法3：使用工具方便翻译，[点击下载](https://github.com/zu1k/translator/releases) 。
 
@@ -46,4 +46,3 @@ head:
 - [@fanyi_bot](https://t.me/fanyi_bot)
 - [@en_to_tw2_bot](https://t.me/en_to_tw2_bot)
 - [@grouptranslator_bot](https://t.me/grouptranslator_bot)
-

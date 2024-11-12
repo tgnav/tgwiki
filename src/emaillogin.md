@@ -17,6 +17,8 @@ head:
 
 ::: tip
 
+新注册的部分账号会默认开启邮箱登录，无需手动开启。
+
 +888匿名号码或Telegram Premium用户无法开启邮箱登录！
 
 :::
@@ -43,7 +45,9 @@ head:
 
    ::: details 操作演示
 
-   ![emaillogin1.jpg](https://s2.loli.net/2024/01/28/1dbItKPDlwXB9TL.jpg)
+   ![A-emaillogin1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/emaillogin1.jpg)
+
+   ![A-emaillogin2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/emaillogin2.jpg)
 
    :::
 
@@ -51,7 +55,7 @@ head:
 
    ::: details 界面截图
 
-   ![emaillogin2.jpg](https://s2.loli.net/2024/01/28/Dx4nktmlVPgZ8ao.jpg)
+   ![privacy1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/privacy1.jpg)
 
    :::
 
