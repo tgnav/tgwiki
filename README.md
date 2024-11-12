@@ -4,6 +4,8 @@
 
 由TGNAV打造的高质量Telegram知识库，帮助用户更科学地使用Telegram。
 
+网站内的`操作演示`和`界面截图`储存在 [@tgwiki/images](https://github.com/tgwiki/images) 。
+
 **Star本仓库支持一下吧！**
 
 ### 简介
@@ -30,6 +32,7 @@
 - 提交Pull Request
 - 管理员审核后将推送更新
 
-### 其他
+### TGNAV - Telegram频道群组导航
 
-[TGNAV - Telegram频道导航](https://tgnav.github.io/)
+[频道导航](https://tgnav.github.io/) ｜ [群组导航](https://tgnav.github.io/group)
+
