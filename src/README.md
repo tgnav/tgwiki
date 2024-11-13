@@ -60,9 +60,9 @@ highlights:
         icon: paragraph
         details: Telegram消息富文本格式，以及部分引用功能
         link: /format
-      - title: 图片添加说明
-        icon: align-justify
-        details: 发送图片时添加文字说明，以原图形式发送图片
+      - title: 图片排版
+        icon: image
+        details: 发送图片时添加文字说明，发送原图，对图片重新排序
         link: /adddescription
       - title: 创建贴纸
         icon: note-sticky
