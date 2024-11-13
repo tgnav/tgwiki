@@ -28,7 +28,7 @@ head:
 
 ::: details 操作演示
 
-![encrypt.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/encrypt.jpg)
+![A-encrypt.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/encrypt.jpg)
 
 :::
 

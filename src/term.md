@@ -21,7 +21,7 @@ head:
 
     ::: details 操作演示
 
-    ![id.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/id.jpg)
+    ![A-id.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/id.jpg)
 
     :::
 

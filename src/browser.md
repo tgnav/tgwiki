@@ -21,7 +21,7 @@ head:
 
 ::: details 界面截图
 
-![A-browser1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/browser.jpg)
+![A-browser1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/browser1.jpg)
 
 :::
 

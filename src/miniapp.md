@@ -41,7 +41,7 @@ Telegram小程序（迷你应用程序）不仅仅是一个简单的工具，而
 
    ::: details 操作演示
 
-   ![miniapp3.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/miniapp3.jpg)
+   ![A-miniapp3.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/miniapp3.jpg)
 
    :::
 

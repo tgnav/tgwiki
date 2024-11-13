@@ -20,7 +20,7 @@ head:
 ## Telegram Android
 - 方法1：Telegram for Android ≥v8.4 官方客户端更新新增`消息翻译`功能：`先使用中文语言包汉化`->`设置`->`语言`->打开`显示翻译按钮`，使用方法：`轻点消息`->`翻译`（使用Google翻译接口）
 
-  ::: details
+  ::: details 操作演示
 
   ![A-language.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/language.jpg)
 
