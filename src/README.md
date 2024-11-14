@@ -63,7 +63,7 @@ highlights:
       - title: 图片排版
         icon: image
         details: 发送图片时添加文字说明，发送原图，对图片重新排序
-        link: /adddescription
+        link: /editphoto
       - title: 创建贴纸
         icon: note-sticky
         details: 创建自己的贴纸包，可通过链接分享给别人
