@@ -21,6 +21,7 @@ export default defineUserConfig({
     ['noscript', {}, `<p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101396814ns.gif" /></p>`],
     ['script', {}, `!function(){var t,o,c,e=window,n=document,r=arguments,a="script",i=["call","cancelAction","config","identify","push","track","trackClick","trackForm","update","visit"],s=function(){var t,o=this,c=function(t){o[t]=function(){return o._e.push([t].concat(Array.prototype.slice.call(arguments,0))),o}};for(o._e=[],t=0;t<i.length;t++)c(i[t])};for(e.__woo=e.__woo||{},t=0;t<r.length;t++)e.__woo[r[t]]=e[r[t]]=e[r[t]]||new s;(o=n.createElement(a)).async=1,o.src="https://static.woopra.com/js/w.js",(c=n.getElementsByTagName(a)[0]).parentNode.insertBefore(o,c)}("woopra"); woopra.config({ domain: "tgnav.github.io", outgoing_tracking: true, download_tracking: true, click_tracking: true }); woopra.track();`],
     ['script', {async: true, src: 'https://telegram.org/js/telegram-web-app.js' }],
+    ['script', {type: 'text/javascript'}, `const urlParams = new URLSearchParams(window.location.search); const pathParam = urlParams.get('tgWebAppStartParam'); if (pathParam) { info.innerHTML += 'Path: ' + pathParam;  const path = window.atob(pathParam); window.location.href = window.location.origin + path; }`],
   ],
   theme,
   alias: {
