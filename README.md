@@ -1,6 +1,6 @@
 # TGwiki - Telegram知识库
 
-### 网站地址：[传送门](https://tgnav.github.io/tgwiki)
+### 网站地址：[传送门](https://tgnav.github.io/tgwiki/)
 
 由TGNAV打造的高质量Telegram知识库，帮助用户更科学地使用Telegram。
 
@@ -34,5 +34,5 @@
 
 ### TGNAV - Telegram频道群组导航
 
-[频道导航](https://tgnav.github.io/) ｜ [群组导航](https://tgnav.github.io/group)
+[频道导航](https://tgnav.github.io/) ｜ [群组导航](https://tgnav.github.io/group/) ｜ [机器人导航](https://tgnav.github.io/robot/)
 
