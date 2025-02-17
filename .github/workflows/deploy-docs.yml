@@ -31,10 +31,12 @@ jobs:
         with:
           node-version: 20
           cache: pnpm
+          corepack: true
 
       - name: 安装依赖
         run: |
           corepack enable
+          corepack prepare pnpm@9.6.0 --activate
           pnpm install --frozen-lockfile
 
       - name: 构建文档
