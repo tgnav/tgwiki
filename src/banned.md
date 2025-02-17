@@ -21,7 +21,7 @@ head:
 
 ### 方法一
 
-点击`Help/帮助｀，使用自己任意一个邮箱，编辑邮件发送至：
+点击`Help/帮助`，使用自己任意一个邮箱，编辑邮件发送至：
 
 - login@stel.com
 - recover@telegram.org
