@@ -65,7 +65,7 @@ Telegram官方客服人员非常少，所以三个邮箱多次重复发送（轰
 Dear Sir/Ma'am.
 My number +1 xxx xxx xxxx been banned and i am not able to figure out the reason for supension,please help me to recover my account.
 Thank you.
-``
+```
 
 ::: tip
 
