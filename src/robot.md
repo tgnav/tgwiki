@@ -1,6 +1,6 @@
 ---
 title: 机器人推荐
-description: Telegram上有许多功能各异的机器人，如贴纸下载机器人、群组管理机器人、消息翻译机器人、验证机器人、搜群机器人等。本文介绍了诸多实用的Telegram机器人，希望对您有所帮助。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: Telegram上有许多功能各异的机器人，如贴纸下载机器人、群组管理机器人、消息翻译机器人、验证机器人、搜群机器人等。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
 head:
   - - meta
     - name: keywords
@@ -11,7 +11,7 @@ head:
 
 ::: tip
 
-点击对应username即可跳转到Telegram。
+TGNAV现已推出 [机器人导航](https://tgnav.github.io/robot/) ，收录了Telegram上实用的机器人，界面更加友好、内容更加全面！
 
 :::
 
