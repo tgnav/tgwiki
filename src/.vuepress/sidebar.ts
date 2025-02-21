@@ -10,27 +10,27 @@ export default sidebar({
         {
           text: "文档指南",
           icon: "lightbulb",
-          link: "/guide"
+          link: "/guide.html"
         },
         {
           text: "名词解释",
           icon: "info-circle",
-          link: "/term"
+          link: "/term.html"
         },
         {
           text: "Telegram限制",
           icon: "hand",
-          link: "/limit"
+          link: "/limit.html"
         },
         {
           text: "DC说明",
           icon: "database",
-          link: "/dc"
+          link: "/dc.html"
         },
         {
           text: "中文语言包",
           icon: "language",
-          link: "/language"
+          link: "/language.html"
         },
       ],
     },
@@ -42,107 +42,107 @@ export default sidebar({
         {
           text: "新建群组",
           icon: "users",
-          link: "/creategroup"
+          link: "/creategroup.html"
         },
         {
           text: "新建频道",
           icon: "bullhorn",
-          link: "/createchannel"
+          link: "/createchannel.html"
         },
         {
           text: "添加账号",
           icon: "user-plus",
-          link: "/multiaccount"
+          link: "/multiaccount.html"
         },
         {
           text: "删除账号",
           icon: "user-slash",
-          link: "/deleteaccount"
+          link: "/deleteaccount.html"
         },
         {
           text: "管理群组",
           icon: "users-gear",
-          link: "/managegroup"
+          link: "/managegroup.html"
         },
         {
           text: "评论功能",
           icon: "comments",
-          link: "/comment"
+          link: "/comment.html"
         },
         {
           text: "对话归档",
           icon: "archive",
-          link: "/archive"
+          link: "/archive.html"
         },
         {
           text: "收藏夹",
           icon: "bookmark",
-          link: "/favourite"
+          link: "/favourite.html"
         },
         {
           text: "扫一扫",
           icon: "qrcode",
-          link: "/scan"
+          link: "/scan.html"
         },
         {
           text: "消息格式",
           icon: "paragraph",
-          link: "/format"
+          link: "/format.html"
         },
         {
           text: "创建投票",
           icon: "square-poll-vertical",
-          link: "/poll"
+          link: "/poll.html"
         },
         {
           text: "图片排版",
           icon: "image",
-          link: "/editphoto"
+          link: "/editphoto.html"
         },
         {
           text: "消息翻译",
           icon: "right-left",
-          link: "/translate"
+          link: "/translate.html"
         },
         {
           text: "内置搜索",
           icon: "magnifying-glass",
-          link: "/search"
+          link: "/search.html"
         },
         {
           text: "动态功能",
           icon: "camera-retro",
-          link: "/stories"
+          link: "/stories.html"
         },
         {
           text: "对话分组",
           icon: "folder-open",
-          link: "/divide"
+          link: "/divide.html"
         },
         {
           text: "附近的人和群组",
           icon: "location-arrow",
-          link: "/nearby"
+          link: "/nearby.html"
         },
         {
           text: "Telegram主题",
           icon: "palette",
-          link: "/theme"
+          link: "/theme.html"
         },
         {
           text: "创建贴纸",
           icon: "note-sticky",
-          link: "/createsticker"
+          link: "/createsticker.html"
         },
         {
           text: "创建机器人",
           icon: "robot",
-          link: "/createrobot"
+          link: "/createrobot.html"
         },
         {
           text: "机器人推荐",
           icon: "thumbs-up",
-          link: "/robot"
+          link: "/robot.html"
         },
       ],
     },
@@ -154,82 +154,82 @@ export default sidebar({
         {
           text: "慢速模式",
           icon: "clock-rotate-left",
-          link: "/slowmode"
+          link: "/slowmode.html"
         },
         {
           text: "Telegraph",
           icon: "indent",
-          link: "/telegraph"
+          link: "/telegraph.html"
         },
         {
           text: "加密对话",
           icon: "masks-theater",
-          link: "/encrypt"
+          link: "/encrypt.html"
         },
         {
           text: "私聊机器人搭建",
           icon: "reply-all",
-          link: "/livegram"
+          link: "/livegram.html"
         },
         {
           text: "小程序",
           icon: "window-restore",
-          link: "/miniapp"
+          link: "/miniapp.html"
         },
         {
           text: "内置浏览器",
           icon: "window-maximize",
-          link: "/browser"
+          link: "/browser.html"
         },
         {
           text: "Premium",
           icon: "gem",
-          link: "/premium"
+          link: "/premium.html"
         },
         {
           text: "Business",
           icon: "briefcase",
-          link: "/business"
+          link: "/business.html"
         },
         {
           text: "频道/群组助推",
           icon: "bolt",
-          link: "/boost"
+          link: "/boost.html"
         },
         {
           text: "频道创收",
           icon: "coins",
-          link: "/monetization"
+          link: "/monetization.html"
         },
         {
           text: "Telegram星币",
           icon: "star",
-          link: "/stars"
+          link: "/stars.html"
         },
         {
           text: "找出群管理员",
           icon: "user-tie",
-          link: "/findadmin"
+          link: "/findadmin.html"
         },
         {
           text: "频道身份发言",
           icon: "message",
-          link: "/speakaschannel"
+          link: "/speakaschannel.html"
         },
         {
           text: "快捷键",
           icon: "keyboard",
-          link: "/shortcut"
+          link: "/shortcut.html"
         },
         {
           text: "第三方客户端",
           icon: "wand-magic-sparkles",
-          link: "/thirdparty"
+          link: "/thirdparty.html"
         },
         {
           text: "Fragment",
           icon: "hand-holding-dollar",
-          link: "/fragment"
+          link: "/fragment.html"
         },
       ],
     },
@@ -241,52 +241,52 @@ export default sidebar({
         {
           text: "隐私设置",
           icon: "shield-halved",
-          link: "/privacy"
+          link: "/privacy.html"
         },
         {
           text: "代理设置",
           icon: "server",
-          link: "/proxy"
+          link: "/proxy.html"
         },
         {
           text: "缓存与下载",
           icon: "download",
-          link: "/download"
+          link: "/download.html"
         },
         {
           text: "邮箱登录",
           icon: "envelope-open-text",
-          link: "/emaillogin"
+          link: "/emaillogin.html"
         },
         {
           text: "未收到验证码",
           icon: "comment-sms",
-          link: "/notcomesms"
+          link: "/notcomesms.html"
         },
         {
           text: "号码被封禁",
           icon: "ban",
-          link: "/banned"
+          link: "/banned.html"
         },
         {
           text: "解除私聊限制",
           icon: "user-lock",
-          link: "/spam"
+          link: "/spam.html"
         },
         {
           text: "解除敏感内容限制",
           icon: "table-cells-row-lock",
-          link: "/pornios"
+          link: "/pornios.html"
         },
         {
           text: "联系官方",
           icon: "address-book",
-          link: "/contact"
+          link: "/contact.html"
         },
         {
           text: "常见问题与解答",
           icon: "circle-question",
-          link: "/faq"
+          link: "/faq.html"
         },
       ],
     },
