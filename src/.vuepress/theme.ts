@@ -199,7 +199,7 @@ export default hopeTheme({
       locales: {
         '/': {
           placeholder: '搜索文档',
-          maxResultsPerGroup: 10,
+          maxResultsPerGroup: 20,
           translations: {
             button: {
               buttonText: '搜索文档',
