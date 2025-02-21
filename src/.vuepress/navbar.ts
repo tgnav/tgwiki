@@ -12,17 +12,17 @@ export default navbar([
           {
             text: "文档指南",
             icon: "lightbulb",
-            link: "/guide"
+            link: "/guide.html"
           },
           {
             text: "名词解释",
             icon: "info-circle",
-            link: "/term"
+            link: "/term.html"
           },
           {
             text: "语言包",
             icon: "language",
-            link: "/language"
+            link: "/language.html"
           },
         ],
       },
@@ -32,17 +32,17 @@ export default navbar([
           {
             text: "隐私设置",
             icon: "shield-halved",
-            link: "/privacy"
+            link: "/privacy.html"
           },
           {
             text: "缓存和下载",
             icon: "download",
-            link: "/download"
+            link: "/download.html"
           },
           {
             text: "常见问题与解答",
             icon: "circle-question",
-            link: "/faq"
+            link: "/faq.html"
           },
         ],
       },
@@ -58,27 +58,27 @@ export default navbar([
           {
             text: "消息格式",
             icon: "paragraph",
-            link: "/format"
+            link: "/format.html"
           },
           {
             text: "图片排版",
             icon: "image",
-            link: "/editphoto"
+            link: "/editphoto.html"
           },
           {
             text: "内置搜索",
             icon: "magnifying-glass",
-            link: "/search"
+            link: "/search.html"
           },
           {
             text: "创建贴纸",
             icon: "note-sticky",
-            link: "/createsticker"
+            link: "/createsticker.html"
           },
           {
             text: "创建机器人",
             icon: "robot",
-            link: "/createrobot"
+            link: "/createrobot.html"
           },
         ],
       },
@@ -88,27 +88,27 @@ export default navbar([
           {
             text: "Telegraph",
             icon: "indent",
-            link: "/telegraph"
+            link: "/telegraph.html"
           },
           {
             text: "私聊机器人搭建",
             icon: "reply-all",
-            link: "/livegram"
+            link: "/livegram.html"
           },
           {
             text: "Premium",
             icon: "gem",
-            link: "/premium"
+            link: "/premium.html"
           },
           {
             text: "频道/群组助推",
             icon: "bolt",
-            link: "/boost"
+            link: "/boost.html"
           },
           {
             text: "第三方客户端",
             icon: "wand-magic-sparkles",
-            link: "/thirdparty"
+            link: "/thirdparty.html"
           },
         ],
       },
@@ -121,27 +121,27 @@ export default navbar([
       {
         text: "邮箱登录",
         icon: "envelope-open-text",
-        link: "/emaillogin"
+        link: "/emaillogin.html"
       },
       {
         text: "未收到验证码",
         icon: "comment-sms",
-        link: "/notcomesms"
+        link: "/notcomesms.html"
       },
       {
         text: "号码被封禁",
         icon: "ban",
-        link: "/banned"
+        link: "/banned.html"
       },
       {
         text: "解除私聊限制",
         icon: "user-lock",
-        link: "/spam"
+        link: "/spam.html"
       },
       {
         text: "解除敏感内容限制",
         icon: "table-cells-row-lock",
-        link: "/pornios"
+        link: "/pornios.html"
       },
     ],
   },
@@ -158,6 +158,11 @@ export default navbar([
         text: "群组导航",
         icon: "users",
         link: "https://tgnav.github.io/group/"
+      },
+      {
+        text: "机器人导航",
+        icon: "robot",
+        link: "https://tgnav.github.io/robot/"
       }
     ]
   }
