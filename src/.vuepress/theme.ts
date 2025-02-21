@@ -15,7 +15,7 @@ export default hopeTheme({
   docsDir: "src",
   navbar,   // 导航栏
   sidebar,  // 侧边栏
-  footer: "Copyright © 2024 <a href='https://tgnav.github.io/tgwiki' target='_blank'>TGwiki</a> by <a href='https://tgnav.github.io/' target='_blank'>TGNAV</a><br/><span id='busuanzi_container_site_pv'>本站总访问量：<span id='busuanzi_value_site_pv'></span>次</span>",  // 页脚
+  footer: "Copyright © 2025 <a href='https://tgnav.github.io/tgwiki' target='_blank'>TGwiki</a> by <a href='https://tgnav.github.io/' target='_blank'>TGNAV</a><br/><span id='busuanzi_container_site_pv'>本站总访问量：<span id='busuanzi_value_site_pv'></span>次</span>",  // 页脚
   displayFooter: true,
   fullscreen: true,
   // 加密配置
