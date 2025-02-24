@@ -9,13 +9,13 @@ head:
 
 # Telegram解除敏感内容限制
 
-Telegram 如果你进入某个群或频道遇到如下提示：
+Telegram如果你进入某个群或频道遇到如下提示：
 ```This channel can't be displayed because it was used to spread pornographic content.```
 
 ## 具体原因
 
 - 有人在群里发了色情内容，被人举报后，被Telegram官方限制了；
-- Telegram 官方只会处理举报的，不会主动审查，如果没人举报就不会被限制；
+- Telegram官方只会处理举报的，不会主动审查，如果没人举报就不会被限制；
 - 只有iOS&Mac上App Store里下载的客户端会有此限制，这是因为Apple的限制，上架App Store的内容限制，其他客户端无此限制，可以正常进入群。
 
 ## 操作方法
@@ -24,7 +24,7 @@ Telegram 如果你进入某个群或频道遇到如下提示：
 
 1. 方式a：
 
-   打开Desktop电脑桌面客户端，左上角三短线：设置->`隐私安全`->开启`显示含有敏感内容的媒体`；
+   打开Desktop电脑桌面客户端，左上角三短线：`设置`->`外观`（旧版客户端在`隐私安全`）->开启`显示含有敏感内容的媒体`；
 
    ::: details 操作演示
 
@@ -34,13 +34,13 @@ Telegram 如果你进入某个群或频道遇到如下提示：
 
 2. 方式b：
 
-   打开MacOS电脑桌面客户端，设置->`隐私安全`->开启`显示含有敏感内容的媒体`；
+   打开MacOS电脑桌面客户端，`设置`->`外观`（旧版客户端在`隐私安全`）->开启`显示含有敏感内容的媒体`；
 
 3. 方式c（网页版新版）：
 
    - 手机或电脑浏览器访问[官方网页版地址](https://web.telegram.org/)；
    - 输入手机号码登录（验证码是优先发送到之前已登录的 Telegram 设备/客户端/App上）;
-   - 主界面->左上角三短线->`Settings`->点击`Privacy and Security`->滑动到底部，打开`Disable filtering`。 
+   - 主界面->左上角三短线->`Settings`->点击`Privacy and Security`->滑动到底部，打开`Show 18+ content`（部分版本显示为`Disable filtering`）。 
 
    ::: warning
 
