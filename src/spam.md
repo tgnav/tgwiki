@@ -1,6 +1,6 @@
 ---
 title: 解除私聊限制
-description: Telegram 给某人发送私聊消息时遇到如下提示：Sorry, you can only send messages to mutual contacts at the momet.本文介绍了Telegram如何解除私聊限制。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: Telegram 给某人发送私聊消息时遇到如下提示：Sorry, you can only send messages to mutual contacts at the moment.本文介绍了Telegram如何解除私聊限制。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
 head:
   - - meta
     - name: keywords
@@ -10,7 +10,7 @@ head:
 # Telegram解除私聊限制
 
 Telegram 给某人发送私聊消息时遇到如下提示：
-```Sorry, you can only send messages to mutual contacts at the momet.```
+```Sorry, you can only send messages to mutual contacts at the moment.```
 中文：
 ```抱歉，目前您被限制无法主动发起私聊消息。```或```抱歉，您现在只能给双向联系人发送消息。```
 
@@ -57,7 +57,7 @@ Telegram私聊限制通常分为以下几种，请先判断限制类型，然后
 
 :::
 
-## 私聊限制
+## 私聊消息限制
 
 如果你收到的通知是```你的账号被Telegram官方限制了, 不能在公开群和(或)主动私聊发送消息```。
 
