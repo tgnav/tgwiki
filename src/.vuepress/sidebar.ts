@@ -284,6 +284,11 @@ export default sidebar({
           link: "/contact.html"
         },
         {
+          text: "用户数据披露",
+          icon: "address-card",
+          link: "/transparency.html"
+        },
+        {
           text: "常见问题与解答",
           icon: "circle-question",
           link: "/faq.html"
