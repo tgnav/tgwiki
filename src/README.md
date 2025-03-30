@@ -344,6 +344,10 @@ highlights:
         icon: address-book
         details: Telegram官方的联系方式
         link: /contact.html
+      - title: 用户数据披露
+        icon: address-card
+        details: Telegram近期披露的用户数据统计
+        link: /transparency.html
       - title: 常见问题与解答
         icon: circle-question
         link: /faq.html
