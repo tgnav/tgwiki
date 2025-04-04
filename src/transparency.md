@@ -4,7 +4,7 @@ description: 自2024年10月起，Telegram开始回复地方政府的法律请�
 head:
   - - meta
     - name: keywords
-      content: Telegram用户数据披露,Telegram披露数据,Telegram透明度公告,Telegram政府请求,TG用户数据披露,TG披露数据,TG透明度公告,TG政府请求,电报用户数据披露,电报披露数据,电报透明度公告,,电报政府请求,TGwiki,Telegram知识库
+      content: Telegram用户数据披露,Telegram披露数据,Telegram透明度公告,Telegram政府请求,TG用户数据披露,TG披露数据,TG透明度公告,TG政府请求,电报用户数据披露,电报披露数据,电报透明度公告,电报政府请求,TGwiki,Telegram知识库
 ---
 
 # Telegram用户数据披露
