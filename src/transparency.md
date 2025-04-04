@@ -4,7 +4,7 @@ description: 自2024年10月起，Telegram开始回复地方政府的法律请�
 head:
   - - meta
     - name: keywords
-      content: Telegram用户数据披露,Telegram披露数据,Telegram政府请求,TG用户数据披露,TG披露数据,TG政府请求,电报用户数据披露,电报披露数据,电报政府请求,TGwiki,Telegram知识库
+      content: Telegram用户数据披露,Telegram披露数据,Telegram透明度公告,Telegram政府请求,TG用户数据披露,TG披露数据,TG透明度公告,TG政府请求,电报用户数据披露,电报披露数据,电报透明度公告,,电报政府请求,TGwiki,Telegram知识库
 ---
 
 # Telegram用户数据披露
@@ -13,11 +13,17 @@ head:
 
 ::: tip
 
-你可以通过 [@transparency](https://t.me/transparency) 查看您所在地区的用户数据访问量。
+你可以通过Telegram透明度公告机器人 [@transparency](https://t.me/transparency) 查看您所在地区的用户数据访问量。
 
 :::
 
-以下是Telegram在2024年全年度向全球各地政府提供的用户数据统计（按照请求数排序）：
+以下是透明度机器人提供的Telegram在2024年全年度向全球各地政府提供的用户数据统计（按照请求数排序）：
+
+::: tip
+
+未在表中标出的国家或地区的数据均为`0`。
+
+:::
 
 | 国家/地区 | 回应请求数 | 涉及用户数 |
 | :------: | :------: | :------: |
@@ -53,4 +59,6 @@ head:
 | 塞尔维亚 |   1	  |   1   |
 | 摩尔多瓦 |   1	  |   1   |
 |   冰岛   |   1   |   1   |
+
+
 
