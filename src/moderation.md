@@ -1,6 +1,6 @@
 ---
 title: 内容审查
-description: Telegram于2024年末加强了内容审查，并对违反用户协议的频道/群组（包括色情、暴力、版权问题等）进行限制，严重的会直接删除。本文介绍了Telegram的内容审查制度，访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: Telegram于2025年初加强了内容审查，并对违反用户协议的频道/群组（包括色情、暴力、版权问题等）进行限制，严重的会直接删除。本文介绍了Telegram的内容审查制度，访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
 head:
   - - meta
     - name: keywords
@@ -129,6 +129,6 @@ Telegram指出，决定的执行取决于 *“所发布内容在适用法律下�
 
 ::: tip
 
-本文内容整理自：[澳大利亚互联网安全监管机构eSafety于2024年3月对Telegram审核的调查（英文）](https://www.esafety.gov.au/sites/default/files/2025-03/BOSE-responses-to-mandatory-notices-tvec-March2025.pdf)。
+本文内容整理自：[澳大利亚互联网安全监管机构eSafety于2025年3月对Telegram审核的调查（英文）](https://www.esafety.gov.au/sites/default/files/2025-03/BOSE-responses-to-mandatory-notices-tvec-March2025.pdf)。
 
 :::
