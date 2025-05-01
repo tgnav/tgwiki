@@ -346,7 +346,7 @@ highlights:
         link: /contact.html
       - title: 内容审查
         icon: circle-exclamation
-        destails: Telegram内容审查制度，频道/群组封禁标准
+        details: Telegram内容审查制度，频道/群组封禁标准
         link: /moderation.html
       - title: 用户数据披露
         icon: address-card
