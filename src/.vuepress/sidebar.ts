@@ -284,6 +284,11 @@ export default sidebar({
           link: "/contact.html"
         },
         {
+          text: "内容审核",
+          icon: "circle-exclamation",
+          link: "/moderation.html"
+        },
+        {
           text: "用户数据披露",
           icon: "address-card",
           link: "/transparency.html"

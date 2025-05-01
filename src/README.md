@@ -344,6 +344,10 @@ highlights:
         icon: address-book
         details: Telegram官方的联系方式
         link: /contact.html
+      - title: 内容审查
+        icon: circle-exclamation
+        destails: Telegram内容审查制度，频道/群组封禁标准
+        link: /moderation.html
       - title: 用户数据披露
         icon: address-card
         details: Telegram近期披露的用户数据统计

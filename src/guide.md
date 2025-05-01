@@ -31,7 +31,7 @@ Telegram（非正式简称TG、电报、纸飞机）是跨平台的即时通信�
 
   自2024年12月起，Telegram开始审查被举报的频道/群组，并对违反用户协议的频道/群组（包括色情、暴力、版权问题等）进行限制，严重的会直接删除。
 
-  部分频道/群组可能会停止显示并要求管理员整改。对于24小时内未做出反应的频道/群组，Telegram会直接删除。
+  有关Telegram内容审查的详细信息请参阅 [此处](/tgwiki/moderation) 。
 
   :::
 
@@ -149,6 +149,7 @@ Telegram官方不会主动联系你！
 - [Telegram官方博客](https://telegram.org/blog)
 - [Telegram Tips](https://t.me/TelegramTips)
 - [Telegram Info](https://t.me/tginfo)
+- [Telegram Info中文](https://t.me/tginfocn)
 - [Telegram中文频道](https://t.me/tgcnz)
 - [TG极客](https://t.me/TGgeek)
 - [Telegram新手指南、使用教程及频道推荐](https://tingtalk.me/telegram)
