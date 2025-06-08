@@ -97,24 +97,17 @@ TGNAV现已推出 [机器人导航](https://tgnav.github.io/robot/) ，收录了
 
 ## 加群验证
 
+- [@CSUBOT](https://t.me/csubot)
 - [@policr_mini_bot](https://t.me/policr_mini_bot)
 - [@MissRose_bot](https://t.me/MissRose_bot)
 - [@Jqs7ZweiBot](https://t.me/Jqs7ZweiBot)
-- [@policr_bot](https://t.me/policr_bot)
 - [@KeDuckBot](https://t.me/KeDuckBot)
 - [@aowu88bot](https://t.me/aowu88bot)
 - [@fangzhang_bot](https://t.me/fangzhang_bot)
-- [@HBB_omnipotencebot](https://t.me/HBB_omnipotencebot)
 - [@afoolrobot](https://t.me/afoolrobot)
 - [@TGxTG_bot](https://t.me/TGxTG_bot)
-- [@Captchat_Bot](https://t.me/Captchat_Bot)
 - [@WatchdogVerifyBot](https://t.me/WatchdogVerifyBot)
-- [@WatchDoorBot](https://t.me/WatchDoorBot)
-- [@WooMaiBot](https://t.me/WooMaiBot)
-- [@group_captcha_bot](https://t.me/group_captcha_bot)
-- [@toorucaptchabot](https://t.me/toorucaptchabot)
 - [@Customize_Captcha_Bot](https://t.me/Customize_Captcha_Bot)
-- [@math_captcha_bot](https://t.me/math_captcha_bot)
 - [@join_captcha_bot](https://t.me/join_captcha_bot)
 
 ## 群内删广告
