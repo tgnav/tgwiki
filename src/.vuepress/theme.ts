@@ -4,7 +4,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://tgnav.github.io",
+  hostname: "https://wiki.tgnav.org",
   author: {
     name: "TGwiki",
   },
