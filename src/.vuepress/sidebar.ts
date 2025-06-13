@@ -117,7 +117,7 @@ export default sidebar({
         {
           text: "对话分组",
           icon: "folder-open",
-          link: "/divide.html"
+          link: "/folder.html"
         },
         {
           text: "附近的人和群组",
@@ -138,11 +138,6 @@ export default sidebar({
           text: "创建机器人",
           icon: "robot",
           link: "/createrobot.html"
-        },
-        {
-          text: "机器人推荐",
-          icon: "thumbs-up",
-          link: "/robot.html"
         },
       ],
     },

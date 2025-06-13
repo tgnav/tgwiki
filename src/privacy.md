@@ -13,11 +13,11 @@ head:
 
 ::: details 界面截图
 
-![A-privacy1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/privacy1.jpg)
+![tfa-privacy1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/privacy1.jpg)
 
-![A-privacy2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/privacy2.jpg)
+![tfa-privacy2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/privacy2.jpg)
 
-![A-privacy3.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/privacy3.jpg)
+![tfa-privacy3.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/privacy3.jpg)
 
 :::
 
@@ -37,7 +37,7 @@ head:
 
 ::: details 操作演示
 
-![A-2fa.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/2fa.jpg)
+![tfa-2fa.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/2fa.jpg)
 
 :::
 
@@ -59,7 +59,7 @@ head:
 
 已开启邮箱登录的账号会显示此条目，您可以在此处更改登录邮箱。
 
-想要开启邮箱登录？请参阅 [此处](/tgwiki/emaillogin) 。
+想要开启邮箱登录？请参阅 [此处](./emaillogin.html) 。
 
 ### 拉黑用户
 
@@ -79,7 +79,7 @@ head:
 
 ::: details 界面截图
 
-![A-device.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/device.jpg)
+![tfa-device.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/device.jpg)
 
 :::
 

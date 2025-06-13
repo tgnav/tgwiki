@@ -1,13 +1,11 @@
 ---
 title: 创建机器人
-description: 机器人是Telegram的特色功能之一。Telegram提供开放的api接口，允许开发者制作自己的机器人。本文介绍了如何创建自己的机器人，以及管理机器人的各项功能说明。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: 机器人是Telegram的特色功能之一。Telegram提供开放的api接口，允许开发者制作自己的机器人。本文介绍了如何创建自己的机器人，以及管理机器人的各项功能说明。
 head:
   - - meta
     - name: keywords
-      content: Telegram创建机器人,Telegram机器人,Telegram管理机器人,Telegram编辑机器人,TG创建机器人,TG机器人,TG管理机器人,TG编辑机器人,电报创建机器人,电报机器人,电报管理机器人,电报编辑机器人,Telegram功能,TGwiki,Telegram知识库
+      content: Telegram创建机器人,Telegram机器人,Telegram管理机器人,Telegram编辑机器人,TG创建机器人,TG机器人,TG管理机器人,TG编辑机器人,电报创建机器人,电报机器人,电报管理机器人,电报编辑机器人
 ---
-
-# Telegram创建机器人
 
 机器人是Telegram的特色功能之一。Telegram提供开放的api接口，允许开发者制作自己的机器人。
 
@@ -25,7 +23,7 @@ head:
 
 ::: details 操作演示
 
-![A-createrobot1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/createrobot1.jpg)
+![tfa-createrobot1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/createrobot1.jpg)
 
 :::
 
@@ -43,7 +41,7 @@ head:
 
    ::: details 界面截图
 
-   ![A-createrobot2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/createrobot2.jpg)
+   ![tfa-createrobot2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/createrobot2.jpg)
 
    :::
 
@@ -61,43 +59,61 @@ head:
    - Bot settings（bot设置）
 
      - lnline mode（内联模式，开启后在输入框@机器人可以使用内联功能）
+   
      - Allow Groups?（允许将机器人拉入群组吗？）
+   
      - Group Privacy（群组隐私，默认开启，机器人未收到命令不会读取群组消息内容）
+   
      - Group Admin Rights（群组管理员权限，开启后拉入群组时需要授予管理员权限）
+   
      - Channle Admin Rights（频道管理员权限，开启后拉入频道时需要授予管理员权限）
+
      - Payments（付款方式，您可以在此处添加付款方式）
+
      - Domain（域名，您可以在此处将域名绑定至机器人）
+   
      - Menu Button（菜单按钮，显示在机器人输入框下方）
+   
+     - Configure Mini App（设置迷你应用程序）
+   
+       ::: info
+   
+       关于迷你应用程序的详细配置，请参阅 [此处](./miniapp.html) 。
+   
+       :::
+   
+     - Paid Broadcast（付费广播，要求机器人星币余额不少于`100,000`星币且月活数超过`100,000`）
+
      - Back to bot（返回机器人）
 
    - Payments（付款方式） 
-
+   
    - Transfer Ownership（转让所有权）
      BotFather 回复：`You can transfer bot ownership to another Telegram user.`（`您可以将机器人所有权转让给其他Telegram用户。`）
-
+   
      1. 点击 Choose recipient（选择收件人）
-
+   
         BotFather 回复：`Please share the new owner's contact or their username.`（`请分享新所有者的联系方式或用户名。`）
-
+   
      2. 发送收件人ID（收件人必须先前给机器人发送过1条消息）
-
+   
         BotFather 回复：`You are about to transfer ownership of the bot @abcbot to `收件人名称.....（`您即将将机器人@abcbot 的所有权转让给 `某某人.....）
-
+   
      3. 点击 `Yes，I am sure, Proceed.`（`是的，我确定，继续。`）
         （如已设置需输入）
-
+   
    - Delete Bot（删除机器人，该操作无法撤销）
-
+   
    - « Back to Bots List（返回机器人列表）
 
-::: tip
+::: info
 
-如果您想要搭建一个私聊机器人，接下来请阅读 [Telegram搭建私聊机器人](/tgwiki/livegram)
+如果您想要搭建一个私聊机器人，接下来请阅读 [Telegram搭建私聊机器人](./livegram.html)
 
 :::
 
 ::: tip
 
-在找Telegram机器人推荐？请参阅 [此处](/tgwiki/robot) 。
+在找Telegram机器人推荐？请前往 [Telegram机器人导航](https://www.tgnav.org/robot/) 。
 
 :::

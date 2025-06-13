@@ -22,9 +22,9 @@ Telegram的消息是全平台全客户端自动同步的（除了加密对话)�
 
   ::: details 操作演示
 
-  ![A-download1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/download1.jpg)
+  ![tfa-download1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/download1.jpg)
 
-  ![A-download2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/download2.jpg)
+  ![tfa-download2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/download2.jpg)
 
   :::
 
@@ -32,7 +32,7 @@ Telegram的消息是全平台全客户端自动同步的（除了加密对话)�
 
   ::: details 操作演示
 
-  ![D-download1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/D/download1.jpg)
+  ![td-download1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/td/download1.jpg)
   
   :::
 
@@ -44,7 +44,7 @@ Telegram的消息是全平台全客户端自动同步的（除了加密对话)�
 
   ::: details 操作演示
 
-  ![A-download3.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/download3.jpg)
+  ![tfa-download3.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/download3.jpg)
 
   :::
 
@@ -53,6 +53,6 @@ Telegram的消息是全平台全客户端自动同步的（除了加密对话)�
 
   ::: details 操作演示
 
-  ![D-download2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/D/download2.jpg)
+  ![td-download2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/td/download2.jpg)
 
   :::

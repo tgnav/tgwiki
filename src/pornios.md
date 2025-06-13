@@ -28,7 +28,7 @@ Telegram如果你进入某个群或频道遇到如下提示：
 
    ::: details 操作演示
 
-   ![D-pornios.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/D/pornios.jpg)
+   ![td-pornios.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/td/pornios.jpg)
 
    :::
 

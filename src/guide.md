@@ -1,17 +1,15 @@
 ---
 title: 文档指南
-description: 欢迎使用TGwiki！TGwiki汇集了Telegram的使用说明，旨在帮助用户更全面地了解Telegram的各种功能。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: 欢迎使用TGwiki！TGwiki是Telegram Wiki的缩写，汇集了Telegram的使用说明，旨在帮助用户更全面地了解Telegram的各种功能。本页是TGwiki的文档指南，向你介绍一些文档的使用技巧。
 head:
   - - meta
     - name: keywords
       content: Telegram使用说明,TGwiki指南,Telegram介绍,Telegram入门,TG使用说明,TG介绍,TG入门,电报使用说明,电报介绍,电报入门,TGwiki,Telegram知识库
 ---
 
-# TGwiki文档指南
+欢迎使用TGwiki！TGwiki是Telegram Wiki的缩写，汇集了Telegram的使用说明，旨在帮助用户更全面地了解Telegram的各种功能。本页是TGwiki的文档指南，向你介绍一些文档的使用技巧。
 
-欢迎使用TGwiki！TGwiki汇集了Telegram的使用说明，旨在帮助用户更全面地了解Telegram的各种功能。本页是TGwiki的文档指南，向你介绍一些文档的使用技巧。
-
-知识库由人为编写，难免存在一些疏漏。如果您发现了一些问题，欢迎进行补充、修改（流程见本页下方的“文档维护”）。
+知识库由人为编写，难免存在一些疏漏。如果您发现了一些问题，欢迎进行补充、修改（流程见本页下方的“文档维护”），我们将不胜感激！
 
 ::: tip
 
@@ -29,17 +27,17 @@ Telegram（非正式简称TG、电报、纸飞机）是跨平台的即时通信�
 
   ::: warning
 
-  自2024年12月起，Telegram开始审查被举报的频道/群组，并对违反用户协议的频道/群组（包括色情、暴力、版权问题等）进行限制，严重的会直接删除。
+  自2024年10月起，Telegram开始大力审查被举报的频道/群组，并对违反用户协议的频道/群组（包括色情、暴力、版权问题等）进行限制，严重的会直接删除。
 
-  有关Telegram内容审查的详细信息请参阅 [此处](/tgwiki/moderation) 。
+  有关Telegram内容审查的详细信息请参阅 [此处](./moderation.html) 。
 
   :::
 
 - 不占内存：聊天记录保存在云端，任何设备，无缝同步，随取随用。
 
-  ::: tip
+  ::: info
 
-  有关Telegram缓存和下载，请参阅 [此处](/tgwiki/download) 。
+  有关Telegram缓存和下载，请参阅 [此处](./download.html) 。
 
   :::
 
@@ -47,25 +45,25 @@ Telegram（非正式简称TG、电报、纸飞机）是跨平台的即时通信�
 
 - 表情贴纸：采用高清的矢量图格式，并且支持自制表情包。
 
-  ::: tip
+  ::: info
 
-  有关创建自己的贴纸包，请参阅 [此处](/tgwiki/createsticker) 。
+  有关创建自己的贴纸包，请参阅 [此处](./createsticker.html) 。
 
   :::
 
 - 机器人：开放的api接口，允许开发者制作自己的机器人。
 
-  ::: tip
+  ::: info
 
-  有关创建机器人，请参阅 [此处](/tgwiki/createrobot) 。
+  有关创建机器人，请参阅 [此处](./createrobot.html) 。
 
   :::
 
-::: warning
+::: note
 
 自2024年10月起（Durov在法国被俘保释后），Telegram开始回复地方政府的法律请求，向其大量披露有关违法账号的手机号和IP地址。
 
-你可以在 [此处](/tgwiki/transparency) 查看更多信息。
+你可以在 [此处](./transparency.html) 查看更多信息。
 
 :::
 
@@ -73,7 +71,7 @@ Telegram（非正式简称TG、电报、纸飞机）是跨平台的即时通信�
 
 近期大量盗号分子出现，请大家务必小心。
 
-::: danger
+::: caution
 
 Telegram官方不会主动联系你！
 
@@ -83,13 +81,19 @@ Telegram官方不会主动联系你！
 
 :::
 
+::: info
+
+Telegram平台上的常见骗术请参阅 [此处](./scam.html) 。提前了解谨防上当受骗！
+
+:::
+
 ## 在开始之前
 
 您需要在设备上安装Telegram客户端并注册一个Telegram账号。
 
-::: tip
+::: important
 
-桌面版/网页版Telegram不能用于注册，您需要使用移动设备上的Telegram客户端注册账号。
+桌面版/网页版Telegram以及第三方客户端均不能用于注册，您需要使用移动设备上的Telegram官方客户端注册账号。
 
 :::
 
@@ -109,20 +113,20 @@ Telegram官方不会主动联系你！
 
 ## 开始阅读
 
-- 初识Telegram？从 [Telegram名词解释](/tgwiki/term) 开始吧！
-- 想知道如何保护隐私？ [Telegram隐私设置](/tgwiki/privacy) 可能帮助到你。
-- 界面全是英文，看不懂？安装 [Telegram语言包](/tgwiki/language) ，将界面切换为中文。
-- 无法查看敏感内容？请阅读 [Telegram解除敏感内容限制](/tgwiki/pornios) 。
-- 无法主动私聊？[Telegram解除私聊限制](/tgwiki/spam) 中有详细的解决方法。
-- 收不到短信验证码？请参阅 [此处](/tgwiki/notcomesms) 。
+- 初识Telegram？从 [Telegram名词解释](./term.html) 开始吧！
+- 想知道如何保护隐私？ [Telegram隐私设置](./privacy.html) 可能帮助到你。
+- 界面全是英文，看不懂？安装 [Telegram语言包](./language.html) ，将界面切换为中文。
+- 无法查看敏感内容？请阅读 [Telegram解除敏感内容限制](./pornios.html) 。
+- 无法主动私聊？[Telegram解除私聊限制](./spam.html) 中有详细的解决方法。
+- 收不到短信验证码？请参阅 [此处](./notcomesms.html) 。
 
 ::: tip
 
 侧边栏有文档目录，您可以快速定位到目标内容。
 
-[文档主页](/tgwiki/) 有完整的文章列表。
+[文档主页](/) 有完整的文章列表。
 
-您可以查看 [Telegram常见问题与解答](/tgwiki/faq) ，希望能帮助到您。
+您可以查看 [Telegram常见问题与解答](./faq.html) ，希望能帮助到您。
 
 除此之外，您还可以通过文档的关键词搜索功能查找相关内容。
 
@@ -160,11 +164,6 @@ Telegram 中文圈2：[@tgzhcn](https://t.me/tgzhcn)
 
 ::: tip
 
-查找更多Telegram优质频道/群组请访问 [TGNAV - Telegram频道群组导航](https://tgnav.github.io/) 。
+查找更多Telegram优质频道/群组请访问 [TGNAV - Telegram频道群组导航](https://www.tgnav.org/) 。
 
 :::
-
-## 友情链接
-- [Telegram频道导航](https://tgnav.github.io/)
-- [Telegram群组导航](https://tgnav.github.io/group)
-- [一个东方玄学的指南](https://xuanxue.dclef.icu/)

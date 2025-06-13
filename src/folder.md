@@ -1,17 +1,15 @@
 ---
 title: 对话分组
-description: Telegram支持将对话分组，帮助用户更高效的管理对话列表。本文介绍了Telegram如何设置对话分组，以及对话分组的一些操作技巧.访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: Telegram支持将对话分组，帮助用户更高效的管理对话列表。本文介绍了Telegram如何设置对话分组，以及对话分组的一些操作技巧。
 head:
   - - meta
     - name: keywords
-      content: Telegram对话分组,Telegram分组,Telegram创建分组,TG对话分组,TG分组,TG创建分组,电报对话分组,电报分组,电报创建分组,Telegram设置,TGwiki,Telegram知识库
+      content: Telegram对话分组,Telegram文件夹,Telegram分组,Telegram创建分组,TG对话分组,TG文件夹,TG分组,TG创建分组,电报对话分组,电报文件夹,电报分组,电报创建分组
 ---
 
-# 对话分组
+Telegram支持将对话分组（文件夹），帮助用户更高效的管理对话列表。
 
-Telegram支持将对话分组，帮助用户更高效的管理对话列表。
-
-::: tip
+::: important
 
 Telegram客户端版本要求：
 
@@ -22,13 +20,10 @@ Telegram客户端版本要求：
 
 ## 分组
 
-可以选择包含的对话和对话类型，也可以选择不包含的对话和类型，也可以组合和自定义选择对话。
-
- "已归档"对话不能分组。
-
-每个分组最多只能添加100个对话，分组列表中可以无限制置顶对话，但最多10个分组。
-
-[点击查看官方博客介绍](https://telegram.org/blog/folders)
+- 可以选择包含的对话和对话类型，也可以选择不包含的对话和类型，也可以组合和自定义选择对话。
+-  "已归档"对话不能分组。
+- 每个分组最多只能添加`100`个对话（大会员是`200`个），分组列表中可以无限制置顶对话，但最多`10`个分组（大会员上限是`30`）。
+- Telegram Premium可以在对话列表中显示文件夹标签。
 
 比如：
 
@@ -40,7 +35,7 @@ Telegram客户端版本要求：
 
 ::: details 操作演示
 
-![A-divide.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/divide.jpg)
+![tfa-divide.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/folder.jpg)
 
 :::
 

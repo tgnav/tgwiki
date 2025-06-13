@@ -1,13 +1,11 @@
 ---
 title: 对话归档
-description: 归档对话的功能允许您隐藏目前在对话页上的对话，不常用的群组和频道就可以放入归档中，并可以在以后有需要时访问这些对话。本文介绍了如何归档对话，以及如何查看已归档的对话。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: 归档对话的功能允许您隐藏目前在对话页上的对话，不常用的群组和频道就可以放入归档中，并可以在以后有需要时访问这些对话。本文介绍了如何归档对话，以及如何查看已归档的对话。
 head:
   - - meta
     - name: keywords
-      content: Telegram归档,Telegram对话归档,Telegram查看已归档的对话,TG归档,TG对话归档,TG查看已归档的对话,电报归档,电报对话归档,电报查看已归档的对话,Telegram功能,TGwiki,Telegram知识库
+      content: Telegram归档,Telegram对话归档,Telegram查看已归档的对话,TG归档,TG对话归档,TG查看已归档的对话,电报归档,电报对话归档,电报查看已归档的对话
 ---
-
-# Telegram对话归档
 
 归档对话的功能允许您隐藏目前在"对话"页上的对话，不常用的群组和频道就可以放入归档中，并可以在以后有需要时访问这些对话。您可以归档个别对话或群组对话，以更好方式整理组织您的对话。 类似于QQ上的"群助手"。
 
@@ -20,7 +18,7 @@ head:
 
 ::: details 界面截图
 
-![A-archive.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/archive.jpg)
+![tfa-archive.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/archive.jpg)
 
 :::
 
@@ -33,7 +31,7 @@ head:
 
 ::: details 界面截图
 
-![D-archive.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/D/archive.jpg)
+![td-archive.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/td/archive.jpg)
 
 :::
 
@@ -43,10 +41,11 @@ head:
 - 已归档对话，群里有人@你或回复你的消息，对话会自动取消归档。
 - 已归档对话，当新消息到达时，关闭通知的对话依然会保留存档。
 - 可以将无限数量的存档对话置顶。(普通对话置顶数量最多`5`个)。
+- Telegram Premium可以设置`陌生人私聊自动归档`。
 
 ::: tip
 
-此外，Telegram还可以设置对话分组，详情请参阅 [Telegram对话分组](/tgwiki/divide) 。
+此外，Telegram还可以设置对话分组，详情请参阅 [Telegram对话分组](./folder.html) 。
 
 :::
 

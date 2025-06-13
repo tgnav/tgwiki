@@ -1,25 +1,36 @@
-// docs/.vuepress/client.ts
-import { defineClientConfig } from 'vuepress/client';
-import { onMounted } from 'vue';
-
+import { defineClientConfig } from "vuepress/client";
+import Layout from "./layouts/Layout.vue";
 export default defineClientConfig({
-  enhance({ app, router }) {
-    // 方法一：window 检查
-    if (typeof window !== 'undefined') {
-      // 方法二：SSR 环境排除
-      if (!import.meta.env.SSR) {
-        // 方法三：客户端挂载后执行
-        onMounted(() => {
-          router.afterEach(() => {
-            try {
-              (adsbygoogle = window.adsbygoogle || []).push({});
-            } catch (e) {
-              // 避免重复 push 报错
-              console.warn('Adsense reload failed:', e);
-            }
-          });
-        });
-      }
+  layouts: {
+    Layout,
+  },
+  enhance: ({ router }) => {
+    const SCRIPT_ID = 'busuanzi-script';
+
+    function reloadScript() {
+      const old = document.getElementById(SCRIPT_ID);
+      if (old) old.remove();
+
+      const s = document.createElement('script');
+      s.id = SCRIPT_ID;
+      s.async = true;
+      s.src = 'https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js';
+      document.head.appendChild(s);
     }
+    reloadScript();
+    router.afterEach(() => {
+      // 给浏览器一点时间，让 DOM 完全渲染好
+      setTimeout(() => {
+        // 再次告诉 adsbygoogle 去扫描并渲染广告
+        try {
+          (adsbygoogle = window.adsbygoogle || []).push({});
+        } catch (e) {
+          // 避免重复 push 报错
+          console.warn('Adsense reload failed:', e);
+        }
+        reloadScript();
+      }, 200);
+    });
   },
 });
+ 

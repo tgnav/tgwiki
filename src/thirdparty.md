@@ -1,17 +1,15 @@
 ---
 title: 第三方客户端
-description: 第三方客户端是指使用Telegram API编写的客户端。本文介绍了常见的Telegram第三方客户端，如Nekogram、Neko X、Nagram、MDGram、Nicegram、iMe Massager、Unigram、64Gram等。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: 第三方客户端是指使用Telegram API编写的客户端。本文介绍了常见的Telegram第三方客户端，如Nekogram、Neko X、Nagram、MDGram、Nicegram、iMe Massager、Unigram、64Gram等。
 head:
   - - meta
     - name: keywords
-      content: Telegram第三方,Telegram第三方客户端,Telegram第三方客户端推荐,Telegram第三方客户端汇总,Telegram第三方客户端对比,TG第三方,TG第三方客户端,TG第三方客户端推荐,TG第三方客户端汇总,TG第三方客户端对比,电报第三方,电报第三方客户端,电报第三方客户端推荐,电报第三方客户端汇总,电报第三方客户端对比,TGwiki,Telegram知识库
+      content: Telegram第三方,Telegram第三方客户端,Telegram第三方客户端推荐,Telegram第三方客户端汇总,Telegram第三方客户端对比,TG第三方,TG第三方客户端,TG第三方客户端推荐,TG第三方客户端汇总,TG第三方客户端对比,电报第三方,电报第三方客户端,电报第三方客户端推荐,电报第三方客户端汇总,电报第三方客户端对比
 ---
-
-# Telegram第三方客户端
 
 第三方客户端是指使用Telegram API编写的客户端。本文介绍常见的Telegram第三方客户端，下载官方客户端请 [点击此处](https://telegram.org/apps) 。
 
-::: tip
+::: important
 
 由于官方的一些限制，第三方客户端无法发送短信验证码。也就是说，您只能通过已登录设备接收验证码来登录第三方客户端。
 
@@ -27,9 +25,10 @@ head:
 |    MDGram    | MDGram是一款令人惊叹的Telegram客户端，具有优雅的设计和广泛的自定义功能 |       Android       | [官网下载](https://mdgram.org/mdgram-download/) / [Google Play](https://play.google.com/store/apps/details?id=org.telegram.mdgram) |
 | Plus Messenger | 一款使用Telegram API的消息传递应用程序 |       Android       | [Google Play](https://play.google.com/store/apps/details?id=org.telegram.plus)|
 |   Nicegram   | Nicegram是一款基于Telegram API的通讯工具，为商业和个人通信提供了更多机会 |     Android/iOS     | [Google Play](https://play.google.com/store/apps/details?id=app.nicegram) / [App Store](https://apps.apple.com/us/app/nicegram-ai-chat-for-telegram/id1608870673) |
-| iMe Massager | 由Telegram API提供支持的智能DeFi和AI平台 使用非托管加密钱包  |     Android/iOS     | [Google Play](https://play.google.com/store/apps/details?id=com.iMe.android) / [App Store](https://apps.apple.com/us/app/ime-messenger-crypto-wallet/id1450480822) |
+| Turrit | 全球首款支持全场景翻译的Telegram客户端 | Android/iOS | [Google Play](https://play.google.com/store/apps/details?id=org.telegram.group) / [App Store](https://apps.apple.com/us/app/turrit-messenger-for-telegram/id6471781238) |
+| iMe Massager | 由Telegram API提供支持的智能DeFi和AI平台 使用非托管加密钱包 |     Android/iOS/<br/>Windows/macOS/<br/>Linux     | [Google Play](https://play.google.com/store/apps/details?id=com.iMe.android) / [App Store](https://apps.apple.com/us/app/ime-messenger-crypto-wallet/id1450480822) / [桌面版](https://imem.app/desktop) |
 |   Unigram    |      Unigram是一款专为Windows制作的Telegram桌面应用程序      |       Windows       | [官网下载](https://unigramdev.github.io/) / [Microsoft Store](https://apps.microsoft.com/detail/9N97ZCKPD60Q) |
-|    64Gram    |         提供Telegram Windows 64位版本并进行一些增强          | Windows/Linux/macOS | [GitHub](https://github.com/TDesktop-x64/tdesktop/releases) / [Flathub](https://flathub.org/apps/io.github.tdesktop_x64.TDesktop) |
+|    64Gram    |         提供Telegram Windows 64位版本并进行一些增强          | Windows/macOS/<br/>Linux | [GitHub](https://github.com/TDesktop-x64/tdesktop/releases) / [Flathub](https://flathub.org/apps/io.github.tdesktop_x64.TDesktop) |
 
 ::: warning
 

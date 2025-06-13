@@ -1,13 +1,11 @@
 ---
 title: 消息格式
-description: Telegram消息支持多种格式，例如富文本消息、引用回复、链接预览等。本文介绍了如何发送富文本消息，引用回复特定内容，以及调整链接预览。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: Telegram消息支持多种格式，例如富文本消息、引用回复、链接预览等。本文介绍了如何发送富文本消息，引用回复特定内容，以及调整链接预览。
 head:
   - - meta
     - name: keywords
-      content: Telegram消息格式,Telegram富文本消息,Telegram引用回复,Telegram链接预览,TG消息格式,TG富文本消息,TG引用回复,TG链接预览,电报消息格式,电报富文本消息,电报引用回复,电报链接预览,Telegram功能,TGwiki,Telegram知识库
+      content: Telegram消息格式,Telegram富文本消息,Telegram引用回复,Telegram链接预览,TG消息格式,TG富文本消息,TG引用回复,TG链接预览,电报消息格式,电报富文本消息,电报引用回复,电报链接预览
 ---
-
-# Telegram消息格式
 
 Telegram消息支持多种格式，例如富文本消息、引用回复、可调整的链接预览等。
 
@@ -19,7 +17,7 @@ Telegram消息支持多种格式，例如富文本消息、引用回复、可调
 
   ::: details 操作演示
 
-  ![A-format1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/format1.jpg)
+  ![tfa-format1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/format1.jpg)
 
   :::
 
@@ -27,19 +25,19 @@ Telegram消息支持多种格式，例如富文本消息、引用回复、可调
 
   ::: details 操作演示
 
-  ![D-format1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/D/format1.jpg)
+  ![td-format1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/td/format1.jpg)
 
   :::
 
 ## 引用回复
 
-新版Telegram中，可以只回复消息中的某一段内容，而不回复完整的消息。方法如下：
+新版Telegram中，Telegram推出了"回复2.0"。用户可以只回复消息中的某一段内容，而不回复完整的消息。方法如下：
 
 - 手机端：回复消息->点击输入框上方的回复详情->`选择部分引用`
 
   ::: details 操作演示
 
-  ![A-format2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/format2.jpg)
+  ![tfa-format2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/format2.jpg)
 
   :::
 
@@ -47,7 +45,7 @@ Telegram消息支持多种格式，例如富文本消息、引用回复、可调
 
   ::: details 操作演示
 
-  ![D-format2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/D/format2.jpg)
+  ![td-format2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/td/format2.jpg)
 
   :::
 
@@ -60,9 +58,27 @@ Telegram消息支持多种格式，例如富文本消息、引用回复、可调
 
 ::: details 操作演示
 
-![A-format3.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/format3.jpg)
+![tfa-format3.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/format3.jpg)
 
-![D-format3.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/D/format3.jpg)
+![td-format3.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/td/format3.jpg)
+
+:::
+
+## 定时消息和动画效果
+
+您可以定时发布消息，并为消息添加动画效果。
+
+::: tip
+
+仅私聊消息支持添加动画效果。添加后，对方查看消息时会显示特效。
+
+:::
+
+操作方法：长按发送按钮（桌面端右键发送按钮）->点击相应表情添加特效。
+
+::: details 操作演示
+
+![tfa-format4.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/format4.jpg)
 
 :::
 

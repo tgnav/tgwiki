@@ -8,14 +8,15 @@ export default hopeTheme({
   author: {
     name: "TGwiki",
   },
-  iconAssets: "fontawesome-with-brands",
   logo: "/assets/icon/logo.svg",
   logoDark: "/assets/icon/logo2.svg",
   repo: "tgnav/tgwiki",
   docsDir: "src",
+  copyright: false,
+  breadcrumb: false,
   navbar,   // 导航栏
   sidebar,  // 侧边栏
-  footer: "Copyright © 2025 <a href='https://tgnav.github.io/tgwiki' target='_blank'>TGwiki</a> by <a href='https://tgnav.github.io/' target='_blank'>TGNAV</a><br/><span id='busuanzi_container_site_pv'>本站总访问量：<span id='busuanzi_value_site_pv'></span>次</span>",  // 页脚
+  footer: "Copyright © 2025 <a href='https://wiki.tgnav.org/' target='_blank'>TGwiki</a> by <a href='https://www.tgnav.org/' target='_blank'>TGNAV</a><br/><span id='busuanzi_container_site_pv'>本站总访问量：<span id='busuanzi_value_site_pv'></span>次</span>",  // 页脚
   displayFooter: true,
   fullscreen: true,
   // 加密配置
@@ -28,44 +29,11 @@ export default hopeTheme({
   metaLocales: {
     editLink: "编辑此页",
   },
-  // 如果想要实时查看任何改变，启用它。注: 这对更新性能有很大负面影响
-  // hotReload: true,
-  // 在这里配置主题提供的插件
-  plugins: {
-    // 注意: 仅用于测试! 你必须自行生成并在生产环境中使用自己的评论服务
-    // comment: {
-    //   provider: "Giscus",
-    //   repo: "vuepress-theme-hope/giscus-discussions",
-    //   repoId: "R_kgDOG_Pt2A",
-    //   category: "Announcements",
-    //   categoryId: "DIC_kwDOG_Pt2M4COD69",
-    // },
-    components: {
-      components: ["Badge", "VPCard"],
-    },
-    notice: [
-      {
-        path: "/",
-        title: "TGNAV已入驻Twitter",
-        content: "我们会不定期分享一些Telegram优质频道/群组、Telegram使用技巧等，欢迎您关注！",
-        actions: [
-          {
-            text: "关注我们",
-            type: "primary",
-            link: "https://twitter.com/TGNAVteam",
-          },
-          {
-            text: "我知道了",
-            type: "default",
-          },
-        ],
-      },
-    ],
-    // 此处开启了很多功能用于演示，你应仅保留用到的功能。
-    mdEnhance: {
+  // 此处开启了很多功能用于演示，你应仅保留用到的功能。
+    markdown: {
       align: true,
       attrs: true,
-      codetabs: true,
+      codeTabs: true,
       component: true,
       demo: false,
       figure: true,
@@ -97,7 +65,7 @@ export default hopeTheme({
       vPre: false,
 
       // 在启用之前安装 chart.js
-      // chart: true,
+      chartjs: true,
 
       // insert component easily
 
@@ -110,11 +78,9 @@ export default hopeTheme({
       // gfm requires mathjax-full to provide tex support
       // gfm: true,
 
-      // 在启用之前安装 katex
-      // katex: true,
-
-      // 在启用之前安装 mathjax-full
-      // mathjax: true,
+      math: {
+        type: "katex", // 或 'mathjax'
+      },
 
       // 在启用之前安装 mermaid
       // mermaid: true,
@@ -135,6 +101,44 @@ export default hopeTheme({
       // sandpack: true,
     },
 
+  // 如果想要实时查看任何改变，启用它。注: 这对更新性能有很大负面影响
+  // hotReload: true,
+  // 在这里配置主题提供的插件
+  plugins: {
+    // 注意: 仅用于测试! 你必须自行生成并在生产环境中使用自己的评论服务
+    // comment: {
+    //   provider: "Giscus",
+    //   repo: "vuepress-theme-hope/giscus-discussions",
+    //   repoId: "R_kgDOG_Pt2A",
+    //   category: "Announcements",
+    //   categoryId: "DIC_kwDOG_Pt2M4COD69",
+    // },
+    components: {
+      components: ["Badge", "VPCard"],
+    },
+    icon: {
+      assets: "fontawesome-with-brands",
+    },
+    notice: [
+      {
+        path: "/",
+        title: "TGwiki已更新",
+        content: "我们更新了文档内容并启用了新域名：wiki.tgnav.org。<br/>TGwiki维护需要巨大成本，欢迎您在条件允许范围内赞助我们。",
+        actions: [
+          {
+            text: "赞助我们",
+            type: "primary",
+            link: "https://tgnav.github.io/donate/",
+          },
+          {
+            text: "关注Twitter",
+            type: "default",
+            link: "https://twitter.com/TGNAVteam",
+          },
+        ],
+      },
+    ],
+
     // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
     pwa: {
       favicon: "/favicon.ico",
@@ -144,10 +148,6 @@ export default hopeTheme({
       apple: {
         icon: "/assets/icon/apple-icon-152.png",
         statusBarColor: "black",
-      },
-      msTile: {
-        image: "/assets/icon/ms-icon-144.png",
-        color: "#ffffff",
       },
       manifest: {
         icons: [
@@ -193,7 +193,6 @@ export default hopeTheme({
     },
     docsearch: {
       appId: 'FLBJDNSJ4H',
-      // apiKey: '4f79f1c7c76126cc9cbf510cb3f6661d',
       apiKey: 'f0fde104fdda0ec7d000a2b7e2234200',
       indexName: 'tgwiki_tgwiki',
       locales: {

@@ -5,7 +5,7 @@ title: 主页
 head:
   - - meta
     - name: keywords
-      content: TGwiki,Telegram知识库,Telegram使用说明,Telegram教程,Telegram功能介绍,Telegram设置,Telegram使用技巧,TG知识库,TG使用说明,TG教程,TG功能介绍,TG设置,TG使用技巧,电报知识库,电报使用说明,电报教程,电报功能介绍,电报设置,电报使用技巧
+      content: TGwiki,Telegram Wiki,Telegram知识库,Telegram使用说明,Telegram教程,Telegram功能介绍,Telegram设置,Telegram使用技巧,TG知识库,TG使用说明,TG教程,TG功能介绍,TG设置,TG使用技巧,电报知识库,电报使用说明,电报教程,电报功能介绍,电报设置,电报使用技巧
 heroImage: ./assets/icon/logo.svg
 heroImageDark: ./assets/icon/logo2.svg
 bgImage: ./assets/image/0-light.svg
@@ -13,7 +13,7 @@ bgImageDark: ./assets/image/0-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: TGwiki - Telegram知识库
-tagline: TGwiki - Telegram知识库，由TGNAV打造的高质量Telegram知识库，帮助用户更科学地使用Telegram。
+tagline: TGwiki (Telegram Wiki) - Telegram知识库，由TGNAV打造的高质量Telegram知识库，帮助用户更科学地使用Telegram。
 heroFullScreen: true
 actions:
   - text: 立即开始
@@ -22,7 +22,7 @@ actions:
     type: primary
   - text: TGNAV
     icon: link
-    link: https://tgnav.github.io/
+    link: https://www.tgnav.org/
 
 highlights:
   - header: 特性
@@ -210,7 +210,7 @@ highlights:
       - title: 对话分组
         icon: folder-open
         details: 设置对话分组，分类整理对话列表
-        link: /divide.html
+        link: /folder.html
       - title: 附近的人和群组
         icon: location-arrow
         link: /nearby.html
@@ -226,10 +226,6 @@ highlights:
         icon: robot
         details: 依照Bot Api编写自己的机器人
         link: /createrobot.html
-      - title: 机器人推荐
-        icon: thumbs-up
-        details: Telegram实用机器人推荐
-        link: /robot.html
 
   - header: 高级功能
     description: Telegram的高级功能介绍，教你玩转Telegram
@@ -356,6 +352,6 @@ highlights:
         icon: circle-question
         link: /faq.html
 
-footer: Copyright © 2025 <a href="https://tgnav.github.io/tgwiki/" target="_blank">TGwiki</a> by <a href="https://tgnav.github.io/" target="_blank">TGNAV</a><br/><span id="busuanzi_container_site_pv">本站总访问量：<span id="busuanzi_value_site_pv"></span>次</span>
+footer: Copyright © 2025 <a href="https://wiki.tgnav.org/" target="_blank">TGwiki</a> by <a href="https://www.tgnav.org/" target="_blank">TGNAV</a><br/><span id="busuanzi_container_site_pv">本站总访问量：<span id="busuanzi_value_site_pv"></span>次</span>
 ---
 
