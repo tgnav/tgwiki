@@ -7,7 +7,7 @@ export default defineUserConfig({
   lang: "zh-CN",
   title: 'TGwiki - Telegram知识库',
   shouldPrefetch: false,
-  description: 'TGwiki(Telegram Wiki) - Telegram知识库，由TGNAV打造的高质量Telegram知识库，汇集了Telegram常用功能介绍和使用说明，帮助用户更全面地了解Telegram的各种功能。',
+  description: 'TGwiki (Telegram Wiki) - Telegram知识库，由TGNAV打造的高质量Telegram知识库，汇集了Telegram常用功能介绍和使用说明，帮助用户更全面地了解Telegram的各种功能。',
   head: [
     ['meta', { name: 'image', content: '/assets.png' }],
     ['link', { rel: 'icon', href: '/assets/logo.png' }],
