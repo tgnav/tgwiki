@@ -1,5 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tgnav.github.io/sitemap.xml
+
 
 User-agent:*
 Disallow:
-
-Sitemap: https://tgnav.github.io/tgwiki/sitemap.xml
