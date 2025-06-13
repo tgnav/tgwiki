@@ -7,8 +7,6 @@ head:
       content: Telegram删除账号,Telegram删号,Telegram注销账号,Telegram注销,TG删除账号,TG删号,TG注销账号,TG注销,电报删除账号,电报删号,电报注销账号,电报注销,Telegram设置,TGwiki,Telegram知识库
 ---
 
-# 删除账号
-
 * 手动删除账号，立即生效：
   
   用浏览器打开地址：[https://my.telegram.org/auth?to=deactivate](https://my.telegram.org/auth?to=deactivate)
@@ -16,9 +14,9 @@ head:
   
 * 自动删除账号：
 
-  Telegram账号长期不登录不使用会被系统自动删除，时长可以改为"1月/3月/6月/12月"。
+  Telegram账号长期不登录不使用会被系统自动删除，时长可以改为`1`月/`3`月/`6`月/`12`月/`18`月<Badge text="默认" type="tip" vertical="top" />/`24`月。
 
-::: danger
+::: caution
 
 删除账号后您的所有数据将被清除，无法恢复！
 

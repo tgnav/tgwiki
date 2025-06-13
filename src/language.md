@@ -1,11 +1,11 @@
 ---
 title: 中文语言包
 lang: zh-CN
-description: 本文分类整理了Telegram中文语言包，支持Telegram官方客户端（不包含网页版）和部分第三方客户端。点击相应链接即可安装语言包，将界面汉化为中文。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: 本文分类整理了Telegram中文语言包，支持Telegram官方客户端（不包含网页版）和部分第三方客户端。点击相应链接即可安装语言包，将界面汉化为中文。
 head:
   - - meta
     - name: keywords
-      content: Telegram中文语言包,Telegram语言包,Telegram中文,Telegram汉化,TG中文语言包,TG语言包,TG中文,TG汉化,电报中文语言包,电报语言包,电报中文,电报汉化,Telegram设置,TGwiki,Telegram知识库
+      content: Telegram中文语言包,Telegram语言包,Telegram中文,Telegram汉化,TG中文语言包,TG语言包,TG中文,TG汉化,电报中文语言包,电报语言包,电报中文,电报汉化
 ---
 
 # Telegram 中文语言包
@@ -14,17 +14,17 @@ head:
 
 ::: warning
 
-Telegram 网页版不支持使用语言包。
+Telegram网页版不支持使用语言包。
 
 :::
 
 ::: details 界面截图
 
-![A-language.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/language.jpg)
+![tfa-language.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/language.jpg)
 
 :::
 
-## 简体中文语言包：
+## 简体中文语言包
 
 - [简体中文-简体中文（聪聪）](https://t.me/setlanguage/zhcncc)
 - [简体中文-简体中文（beta）](https://t.me/setlanguage/zh-hans-beta)
@@ -37,7 +37,7 @@ Telegram 网页版不支持使用语言包。
 - [简体中文-vexzh](https://t.me/setlanguage/vexzh)
 - [简体中文-未知](https://t.me/setlanguage/cnsimplified)
 
-## 繁体中文语言包：
+## 繁体中文语言包
 
 - [繁体中文-繁体中文（beta）](https://t.me/setlanguage/zh-hant-beta)
 - [繁体中文-繁体中文（raw）](https://t.me/setlanguage/zh-hant-raw) 与前一个相同
@@ -47,7 +47,7 @@ Telegram 网页版不支持使用语言包。
 - [繁体中文（台灣）-正体](https://t.me/setlanguage/taiwan)
 - [繁体中文（台湾）-郭桓桓](https://t.me/setlanguage/zhong-taiwan-traditional)
 
-## 个性化中文语言包：
+## 个性化中文语言包
 
 - [简体中文-花里胡哨](https://t.me/setlanguage/qingwa)
 - [简体中文-稀奇古怪](https://t.me/setlanguage/xiaowa)
@@ -65,16 +65,16 @@ Telegram 网页版不支持使用语言包。
 
 ## 说明
 
-Telegram 官方只开放了语言包翻译接口，并没有提供中文语言包，目前所有的中文语言包都是非官方用户翻译的。有些语言包都很久没更新了（甚至停更了）。
+Telegram官方只开放了语言包翻译接口，并没有提供中文语言包，目前所有的中文语言包都是非官方用户翻译的。有些语言包都很久没更新了（甚至停更了）。大家择优使用即可。
 
 ::: tip
 
-如果遇到不能汉化的，请先把 Telegram 客户端升级新版。
+如果遇到不能汉化的，请先把Telegram客户端升级新版。
 
 :::
 
-::: tip
+::: info
 
-想要将其他语言的消息内容翻译为中文？请参阅 [Telegram消息翻译](/tgwiki/translate) 。
+想要将其他语言的消息内容翻译为中文？请参阅 [Telegram消息翻译](./translate.html) 。
 
 :::

@@ -1,17 +1,15 @@
 ---
 title: Fragment
-description: 由于运营成本需要，Telegram推出了大会员（Telegram Premium）。本文介绍了Telegram大会员的专属功能，以及Telegram大会员开通方法和价格。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: 由于运营成本需要，Telegram推出了大会员（Telegram Premium）。本文介绍了Telegram大会员的专属功能，以及Telegram大会员开通方法和价格。
 head:
   - - meta
     - name: keywords
-      content: Fragment,TON,Telegram用户名,Telegram匿名号码,Telegram大会员,TG用户名,TG匿名号码,TG大会员,电报用户名,电报匿名号码,电报大会员,TGwiki,Telegram知识库
+      content: Fragment,TON,Telegram用户名,Telegram匿名号码,Telegram大会员,TG用户名,TG匿名号码,TG大会员,电报用户名,电报匿名号码,电报大会员
 ---
-
-# Fragment
 
 Fragment是一个免费平台，通过TON（最初由Telegram开发的区块链技术）促进用户之间的收藏品交易以及从Telegram购买服务。它支持直接、安全和匿名的销售以及公开拍卖，每个人都可以在一段时间内参与其中。
 
-::: tip
+::: important
 
 根据官方最新服务协议，用户使用Fragment前需要完成KYC（实名认证），KYC由第三方服务Sumsub提供。
 
@@ -31,23 +29,23 @@ Fragment是一个免费平台，通过TON（最初由Telegram开发的区块链�
 
   用户可以通过TON在Fragment上购买Telegram Premium（Telegram大会员）或发起赠品活动（Giveaways）。
 
-  ::: tip
+  ::: info
 
-  有关Telegram Premium，请参阅 [此处](/tgwiki/premium)
+  有关Telegram Premium，请参阅 [此处](./premium.html)
 
   :::
 
 - 投放广告
   
-  广告商可以通过Fragment平台向Telegram频道投放广告，频道主将会获得广告收益的50%
+  广告商可以通过Fragment平台向Telegram频道投放广告，频道主将会获得广告收益的`50%`
 
 - Telegram Stars
   
   用户现在可以通过Fragment购买星币。
 
-  ::: tip
+  ::: info
 
-  有关Telegram星币，请参阅 [此处](/tgwiki/stars) 。
+  有关Telegram星币，请参阅 [此处](./stars.html) 。
 
   :::
 
@@ -59,7 +57,7 @@ Fragment是一个免费平台，通过TON（最初由Telegram开发的区块链�
 
 :::
 
-::: danger
+::: caution
 
 虚拟货币投资存在极大风险！！！
 

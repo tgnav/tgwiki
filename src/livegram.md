@@ -1,19 +1,17 @@
 ---
 title: 私聊机器人搭建
-description: 部分账号可能会有双向限制，无法直接发起私聊，这时候可能就需要一个私聊机器人。本文介绍了Telegram搭建私聊机器人的方法，无需服务器即可直接搭建。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: 部分账号可能会有双向限制，无法直接发起私聊，这时候可能就需要一个私聊机器人。本文介绍了Telegram搭建私聊机器人的方法，无需服务器即可直接搭建。
 head:
   - - meta
     - name: keywords
-      content: Telegram私聊机器人,Telegram双向机器人,Telegram机器人,TG私聊机器人,TG双向机器人,TG机器人,电报私聊机器人,电报双向机器人,电报机器人,TGwiki,Telegram知识库
+      content: Telegram私聊机器人,Telegram双向机器人,Telegram消息转发机器人,Telegram机器人,TG私聊机器人,TG双向机器人,TG消息转发机器人,TG机器人,电报私聊机器人,电报双向机器人,电报消息转发机器人,电报机器人
 ---
-
-# Telegram搭建私聊机器人
 
 部分账号可能会有双向限制，无法直接发起私聊，这时候可能就需要一个私聊机器人。同时，私聊机器人还可以用作投稿，防止垃圾信息骚扰。
 
 ## 步骤
 
-1. 首先，请先 [按照教程](/tgwiki/createrobot.html) 创建一个机器人。
+1. 首先，请先 [按照教程](./createrobot.html.html) 创建一个机器人。
 
 2. 私聊 [@LivegramBot](https://t.me/LivegramBot) ，并选择一个语言。
 
@@ -27,26 +25,43 @@ head:
 
 ::: details 操作演示
 
-![A-livegram1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/livegram1.jpg)
+![tfa-livegram1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/livegram1.jpg)
 
-![A-livegram2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/livegram2.jpg)
+![tfa-livegram2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/livegram2.jpg)
 
 :::
 
 ## 使用技巧
 
 - 回复私聊机器人的消息，机器人会自动将您的消息转发给对方
+
 - 您可以使用`/ban`或`/unban`命令回复消息，来封禁或解封账号
+
 - 你可以在  [@LivegramBot](https://t.me/LivegramBot) ->`My Bots` 中管理机器人：
   - Localizations：设置多语言欢迎信息
+  
   - Groups：将私聊消息转发到群组
+  
   - Broadcast：向所有使用者发送广播
+  
   - Statistics：查看机器人统计信息
-  - Anonymous Mode：尚不清楚具体功能，慎重使用，开启后不可关闭
+  
+  - Anonymous Mode
+  
+    **设置步骤**：准备一个开启话题模式的群组，将机器人拉入群组中并授予管理话题权限。
+  
+    **功能**：机器人会为不同用户的私信创建不同的话题，便于管理消息。
+  
+    ::: warning
+  
+    此项设置开启后不可撤销，请谨慎操作。
+  
+    :::
+  
   - Disconnect Bot：取消连接机器人
 
 ::: details 界面截图
 
-![A-livegram3.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/livegram3.jpg)
+![tfa-livegram3.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/livegram3.jpg)
 
 :::

@@ -13,7 +13,7 @@ head:
 
 ::: details 界面截图
 
-![A-banned.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/banned.jpg)
+![tfa-banned.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/banned.jpg)
 
 :::
 

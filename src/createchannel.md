@@ -1,13 +1,11 @@
 ---
 title: 新建频道
-description: 频道类似于微信的公众号，只有管理员才能发布消息，成员只能关注频道，只能查看频道的消息。本文介绍了如何创建Telegram频道。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: 频道类似于微信的公众号，只有管理员才能发布消息，成员只能关注频道，只能查看频道的消息。本文介绍了如何创建Telegram频道。
 head:
   - - meta
     - name: keywords
-      content: Telegram新建频道,Telegram创建频道,TG新建频道,TG创建频道,电报新建频道,电报创建频道,Telegram功能,TGwiki,Telegram知识库
+      content: Telegram新建频道,Telegram创建频道,TG新建频道,TG创建频道,电报新建频道,电报创建频道
 ---
-
-# Telegram新建频道
 
 频道类似于微信的公众号，只有管理员才能发布消息，成员只能关注频道，只能查看频道的消息。
 
@@ -20,8 +18,8 @@ head:
 
 ::: details 操作演示
 
-![A-create.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/create.jpg)
+![tfa-create.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/create.jpg)
 
-![D-menu.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/D/menu.jpg)
+![td-menu.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/td/menu.jpg)
 
 :::

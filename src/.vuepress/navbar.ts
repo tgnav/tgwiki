@@ -148,22 +148,6 @@ export default navbar([
   {
     text: "TGNAV",
     icon: "compass",
-    children: [
-      {
-        text: "频道导航",
-        icon: "bullhorn",
-        link: "https://tgnav.github.io/",
-      },
-      {
-        text: "群组导航",
-        icon: "users",
-        link: "https://tgnav.github.io/group/"
-      },
-      {
-        text: "机器人导航",
-        icon: "robot",
-        link: "https://tgnav.github.io/robot/"
-      }
-    ]
+    link: "https://www.tgnav.org/"
   }
 ]);

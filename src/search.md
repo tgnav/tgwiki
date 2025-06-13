@@ -1,13 +1,11 @@
 ---
 title: 内置搜索
-description: Telegram的内置搜索是以词组为单位的，以标点符号或空格作为词的间隔。本文介绍了Telegram内置搜索（消息搜索、全局搜索）的使用方法。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: Telegram的内置搜索是以词组为单位的，以标点符号或空格作为词的间隔。本文介绍了Telegram内置搜索（消息搜索、全局搜索）的使用方法。
 head:
   - - meta
     - name: keywords
-      content: Telegram搜索,Telegram内置搜索,Telegram消息搜索,Telegram全局搜索,Telegram关键词搜索,Telegram搜索技巧,TG搜索,TG内置搜索,TG消息搜索,TG全局搜索,TG关键词搜索,TG搜索技巧,电报搜索,电报内置搜索,电报消息搜索,电报全局搜索,电报关键词搜索,电报搜索技巧,Telegram功能,TGwiki,Telegram知识库
+      content: Telegram搜索,Telegram内置搜索,Telegram消息搜索,Telegram全局搜索,Telegram关键词搜索,Telegram搜索技巧,TG搜索,TG内置搜索,TG消息搜索,TG全局搜索,TG关键词搜索,TG搜索技巧,电报搜索,电报内置搜索,电报消息搜索,电报全局搜索,电报关键词搜索,电报搜索技巧
 ---
-
-# Telegram内置搜索
 
 ## 消息搜索
 
@@ -37,6 +35,12 @@ Telegram中文搜索体验比较差，以下方法可以助你更快地找到聊
 
 - 新版Telegram在点击标签后，可以选择查找范围，包括：`当前对话`、`已加对话`和`全部对话`。
 
+  ::: warning
+
+  很多不法分子利用此特性在Telegram上批量发送垃圾信息占用`全部对话`中的搜索位置。请勿轻信其中的广告，防止上当受骗！
+
+  :::
+
 - 你也可以在电脑上导出HTML或JSON格式的聊天记录，然后通过其他工具更加便捷地搜索
 
 
@@ -55,6 +59,6 @@ Telegram中文搜索体验比较差，以下方法可以助你更快地找到聊
 
 ::: details 操作演示
 
-![A-search.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/search.jpg)
+![tfa-search.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/search.jpg)
 
 :::

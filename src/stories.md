@@ -1,17 +1,15 @@
 ---
 title: 动态功能
-description: 新版Telegram中添加了动态功能，用户可以拍摄或选择一张图或一段视频发布到动态，其他用户可以点赞、评论、转发。本文介绍了Telegram如何发布动态，以及Telegram频道动态如何开启。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: 新版Telegram中添加了动态功能，用户可以拍摄或选择一张图或一段视频发布到动态，其他用户可以点赞、评论、转发。本文介绍了Telegram如何发布动态，以及Telegram频道、群组如何开启动态。
 head:
   - - meta
     - name: keywords
-      content: Telegram动态功能,Telegram动态,Telegram发布动态,Telegram频道动态,TG动态功能,TG动态,TG发布动态,TG频道动态,电报动态功能,电报动态,电报发布动态,电报频道动态,Telegram功能,TGwiki,Telegram知识库
+      content: Telegram动态功能,Telegram动态,Telegram发布动态,Telegram频道动态,TG动态功能,TG动态,TG发布动态,TG频道动态,电报动态功能,电报动态,电报发布动态,电报频道动态
 ---
-
-# Telegram动态功能
 
 ## 发布动态
 
-- 可拍摄或选择一张图或一段视频
+- 可拍摄或选择一张图或一段视频（视频最长`1`分钟）
 - 可选加上一段文字说明
 - 可使用用户名@其他人
 - 可归档和取消归档，或保留在个人主页上
@@ -27,7 +25,7 @@ head:
 
 ::: details 操作演示
 
-![A-stories.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/stories.jpg)
+![tfa-stories.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/stories.jpg)
 
 :::
 
@@ -42,14 +40,14 @@ head:
 
 ::: tip
 
-官方客户端不支持隐藏由`Telegram`发布的动态，如需隐藏请使用 [第三方客户端](/tgwiki/thirdparty) 。
+官方客户端不支持隐藏由`Telegram`发布的动态，如需隐藏请使用 [第三方客户端](./thirdparty.html) 。
 
 :::
 
 ## Premium专享功能
 
 - 优先显示
-- 隐身模式
+- 隐身模式（每3个小时可以使用一次，每次可以隐藏`30`分钟浏览记录）
 - 永久查看记录
 - 自定义动态到期时间
 - 保存其他人未保护的动态
@@ -65,9 +63,9 @@ head:
 - 仅订阅Telegram Premium的用户可以助推
 - 频道（或群组）管理员可以在`频道`（或`群组`）->`更多`->`统计数据`->`助推`中查看频道的助推详情
 
-::: tip
+::: info
 
-有关频道/群组助推，请参阅 [此处](/tgwiki/boost) 。
+有关频道/群组助推，请参阅 [此处](./boost.html) 。
 
 :::
 

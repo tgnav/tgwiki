@@ -1,13 +1,11 @@
 ---
 title: 添加账号
-description: Telegram官方客户端最多可以添加3个账号（大会员是4个）。本文介绍了Telegram如何添加多个账号。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: Telegram官方客户端最多可以添加3个账号（大会员是4个）。本文介绍了移动端（iOS、Android）及桌面端（macOS、Windows）Telegram如何添加多个账号。
 head:
   - - meta
     - name: keywords
-      content: Telegram添加账号,Telegram账号多开,Telegram多开,Telegram多账号,TG添加账号,TG账号多开,TG多开,TG多账号,电报添加账号,电报账号多开,电报多开,电报多账号,Telegram设置,TGwiki,Telegram知识库
+      content: Telegram添加账号,Telegram账号多开,Telegram多开,Telegram多账号,TG添加账号,TG账号多开,TG多开,TG多账号,电报添加账号,电报账号多开,电报多开,电报多账号
 ---
-
-# Telegram添加多个账号
 
 ## iOS
 
@@ -18,7 +16,7 @@ head:
 
 1. 点击左上角三短线->点击账号右侧下拉箭头->`添加账号 ` 
 2. App双开的方法：Android/安卓 系统自带有App双开功能
-3. 部分第三方客户端可以添加更多数量的账号，详情请参阅 [Telegram第三方客户端](/tgwiki/thirdparty) 。
+3. 部分第三方客户端可以添加更多数量的账号，详情请参阅 [Telegram第三方客户端](./thirdparty.html) 。
 
 ## macOS
 

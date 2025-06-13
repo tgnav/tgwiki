@@ -1,13 +1,13 @@
 ---
 title: 快捷键
-description: Telegram桌面端支持丰富的快捷键，您可以通过快捷键迅速完成操作。本文介绍了Telegram Desktop的常用快捷键。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: Telegram桌面端支持丰富的快捷键，您可以通过快捷键迅速完成操作。本文介绍了Telegram Desktop的常用快捷键。
 head:
   - - meta
     - name: keywords
-      content: Telegram快捷键,Telegram桌面快捷键,TG快捷键,TG桌面快捷键,电报快捷键,电报桌面快捷键,TGwiki,Telegram知识库
+      content: Telegram快捷键,Telegram桌面快捷键,TG快捷键,TG桌面快捷键,电报快捷键,电报桌面快捷键
 ---
 
-# Telegram Desktop快捷键
+Telegram桌面端（Telegram Desktop）支持丰富的快捷键，您可以通过快捷键迅速完成操作。
 
 ## 功能相关
 

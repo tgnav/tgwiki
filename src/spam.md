@@ -51,9 +51,9 @@ Telegram私聊限制通常分为以下几种，请先判断限制类型，然后
 
 ::: details 操作演示
 
-![A-spam1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/spam1.jpg)
+![tfa-spam1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/spam1.jpg)
 
-![A-spam2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/spam2.jpg)
+![tfa-spam2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/spam2.jpg)
 
 :::
 
@@ -88,6 +88,6 @@ Telegram私聊限制通常分为以下几种，请先判断限制类型，然后
 
 ::: tip
 
-关于Telegram Premium，请参阅 [此处](/tgwiki/premium) 。
+关于Telegram Premium，请参阅 [此处](./premium.html) 。
 
 :::

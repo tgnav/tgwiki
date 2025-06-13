@@ -1,17 +1,17 @@
 ---
 title: 管理群组
-description: 群组是一种常用的聊天方式，Telegram支持至多20万人的群组。本文介绍了Telegram管理群组的方法，查看近期操作，以及设置成员权限。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: 群组是一种常用的聊天方式，Telegram支持至多20万人的群组。本文介绍了Telegram管理群组的方法，开启话题功能，查看近期操作，设置成员权限以及创建邀请链接。
 head:
   - - meta
     - name: keywords
-      content: Telegram管理群组,Telegram群管理员,Telegram设置成员权限,Telegram群组近期操作,TG管理群组,TG群管理员,TG设置成员权限,TG群组近期操作,电报管理群组,电报群管理员,电报设置成员权限,电报群组近期操作,Telegram功能, TGwiki, Telegram知识库
+      content: Telegram管理群组,Telegram群管理员,Telegram设置成员权限,Telegram群组邀请链接，Telegram群组近期操作,Telegram话题,TG管理群组,TG群管理员,TG设置成员权限,TG群组邀请链接,TG群组近期操作,TG话题,电报管理群组,电报群管理员,电报设置成员权限,电报群组邀请链接,电报群组近期操作,电报话题
 ---
-
-# Telegram管理群组
 
 ## 说明
 
- - 群组人数最高 20 万。转换为广播群组（Broadcast Group）之后，人数将不受限制，但只有管理员可以说话，但是成员仍然可以加入语音聊天。[点击查看官方说明](https://telegram.org/blog/autodelete-inv2#groups-with-unlimited-members)。
+ - 群组人数最高20万。
+
+ - 超过`199000`人可以转换为广播群组（Broadcast Group）。转换后，人数将不受限制，但只有管理员可以说话，但是成员仍然可以加入语音聊天。[点击查看官方说明](https://telegram.org/blog/autodelete-inv2#groups-with-unlimited-members)。
 
    ::: warning
 
@@ -21,15 +21,59 @@ head:
 
  - 静音群组只有在提到你（@）、回复你（Reply）和管理员置顶消息（Pin）时才会收到通知。
 
- - 新加入的成员可以看到全部的群聊历史记录（**私密群组可以设置为`隐藏`**）。 
-
  - 加入群组之前，可看到（单向）好友是否在列。如果不想让好友知道你加入了某个群组，注册一个小号吧。
 
  - 支持在任何设备上发起语音聊天。
 
-::: details 操作演示
+::: details 界面截图
 
-![A-managegroup1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/managegroup1.jpg)
+![tfa-managegroup1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/managegroup1.jpg)
+
+![tfa-managegroup2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/managegroup2.jpg)
+
+:::
+
+## 群组类型
+
+::: important
+
+仅群组创建者可以修改`群组类型`。
+
+:::
+
+可以设置为`公开`或`私有`，公开群组将允许用户通过搜索用户名加入，私有群组只能通过邀请链接入群。公开群组的聊天记录将对所有用户可见，私有群组只有加入后才能看的聊天记录。特别的，私有群组可以对新加入的用户隐藏历史聊天记录。
+
+::: tip
+
+你可以在此项设置底部开启`禁止成员复制、保存和转发群组内容`。
+
+:::
+
+## 话题
+
+群组创建者可以开启/关闭话题（Topics）功能。开启后，群组将分为多个对话，群成员可以讨论不同内容，类似Discord。
+
+- 群成员（若权限允许）可以创建不同的话题并对每个话题设置一个图标。同时，每个话题会自动生成一个内部链接。
+
+- 群管理员可以随时开启/关闭某一个话题。
+
+  ::: details 操作演示
+
+  ![tfa-managegroup3.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/managegroup3.jpg)
+
+  :::
+
+- `General`话题（包含群组的所有系统消息）可以从话题列表中隐藏。隐藏后群成员可以在话题列表中下拉查看此话题。
+
+  ::: details 操作演示
+
+  ![tfa-managegroup4.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/managegroup4.jpg)
+
+  :::
+
+::: tip
+
+有关联频道（作为评论）的群组无法开启“话题”功能。
 
 :::
 
@@ -39,25 +83,33 @@ head:
 
 如此一来，你便可建立一个没有表情贴纸或者GIF的高质量交流社区。或者甚至完全限制成员发送信息，让管理员彼此交谈，而群成员则默默地旁观。
 
-- 慢速模式（Slow Mode）：在10 秒/30 秒/1分钟/5分钟/15 分钟/1个小时内，成员只能发送一条消息，这样可以使小组中的对话更加有序，也可以提高每条信息的价值。详情请参阅[慢速模式](/tgwiki/slowmode)。
+- `置顶消息`和`修改群组信息`权限在公开群组对普通成员不开放。
+- `慢速模式`（`Slow Mode`）：在`10`秒/`30`秒/`1`分钟/`5`分钟/`15`分钟/`1`个小时内，成员只能发送一条消息，这样可以使小组中的对话更加有序，也可以提高每条信息的价值。详情请参阅 [慢速模式](./slowmode.html) 。
 
 ::: details 操作演示
 
-![A-managegroup2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/managegroup2.jpg)
+![tfa-managegroup5.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/managegroup5.jpg)
 
 :::
 
 ## 邀请链接
 
-创建和管理群组的邀请链接。
+::: tip
 
-## 强力反垃圾
+公开群组的此项设置在`群组类型`->`管理邀请链接`中。
 
-这是Telegram官方提供的一个反垃圾服务。
+:::
 
-::: danger
+除公开链接外，群管理员可以设置多个邀请链接（格式：`https://t.me/+xxx`）。对于每个邀请链接，可以设置有效时间、次数限制。邀请链接可以随时撤销、关闭。
 
-该功能尚不完善，误杀概率很大，且被限制的用户将无法在公开群组中发送消息。不建议开启此功能！
+**入群审核**：
+
+- `私有群组`可以为每个邀请链接单独设置是否需要开启`入群审核`。
+- `公开群组`：开启`入群审核`（在`群组类型`里）后，用户通过公开链接（用户名）入群需要审核，但使用创建的邀请链接可以直接入群而无需审核。
+
+::: details 操作演示
+
+![tfa-managegroup6.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/managegroup6.jpg)
 
 :::
 
@@ -65,7 +117,19 @@ head:
 
 当多个管理员在一起工作时，很容易搞不清楚哪个管理员或管理机器人，在什么时候做了什么。所以 Telegram 的`管理员`页面增加了`近期操作`功能。用于存储过去48小时内在组中执行的所有服务操作的日志，仅对管理员可见。
 
-## 隐藏成员列表
+## 成员
+
+### 强力反垃圾
+
+这是Telegram官方提供的一个反垃圾服务。
+
+::: caution
+
+该功能尚不完善，误杀概率很大，且被限制的用户将无法在公开群组中发送消息。不建议开启此功能！
+
+:::
+
+### 隐藏成员列表
 
 开启后，非群组管理员将无法查看完整的成员列表，仅能看到管理员列表。
 
@@ -74,5 +138,6 @@ head:
 - 管理员可删除成员的单条消息或全部消息。
 - 可对群主（creator）及管理员（administrators）设置自定义头衔。
 - 管理员可以匿名发布消息（在管理员权限处设置）。
-- 成员超过500人后，自动开通群组分析功能。
-- 群组获得助推后将开启高级功能（修改主页外观、发布动态、自定义emoji包等），具体请参阅 [此处](/tgwiki/boost) 。
+- 成员超过500人后，自动开通群组分析（`统计数据`）功能。
+- 群组获得助推后将开启高级功能（修改主页外观、发布动态、自定义emoji包等），具体请参阅 [此处](./boost.html) 。
+

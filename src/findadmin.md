@@ -26,7 +26,7 @@ head:
 |Windows/macOS  | 第三方客户端 64Gram  | `群组右上角按钮`->`管理员` |
 |macOS  |Telegram | 使用上面所说的通用方法 |
 
-关于第三方客户端的说明请参阅 [此处](/tgwiki/thirdparty) 。
+关于第三方客户端的说明请参阅 [此处](./thirdparty.html) 。
 
 ::: tip
 

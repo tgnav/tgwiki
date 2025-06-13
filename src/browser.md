@@ -1,13 +1,11 @@
 ---
 title: 内置浏览器
-description: 新版Telegram中，添加了内置浏览器功能，用户可以直接使用内置浏览器在Telegram内打开任何链接，而无需跳转到外部浏览器。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: 新版Telegram中，添加了内置浏览器功能，用户可以直接使用内置浏览器在Telegram内打开任何链接，而无需跳转到外部浏览器。
 head:
   - - meta
     - name: keywords
-      content: Telegram内置浏览器,Telegram浏览器,Telegram链接预览,TG内置浏览器,TG浏览器,TG链接预览,电报内置浏览器,电报浏览器,电报链接预览,Telegram功能,TGwiki,Telegram知识库
+      content: Telegram内置浏览器,Telegram浏览器,Telegram链接预览,TG内置浏览器,TG浏览器,TG链接预览,电报内置浏览器,电报浏览器,电报链接预览
 ---
-
-# Telegram内置浏览器
 
 新版Telegram中，添加了内置浏览器功能，用户可以直接使用内置浏览器在Telegram内打开任何链接，而无需跳转到外部浏览器。
 
@@ -21,7 +19,7 @@ head:
 
 ::: details 界面截图
 
-![A-browser1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/browser1.jpg)
+![tfa-browser1.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/browser1.jpg)
 
 :::
 
@@ -31,7 +29,7 @@ head:
 
 ::: details 操作演示
 
-![A-browser2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/browser2.jpg)
+![tfa-browser2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/browser2.jpg)
 
 :::
 

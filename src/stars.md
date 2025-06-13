@@ -1,13 +1,11 @@
 ---
 title: Telegram星币
-description: Telegram星币（Telegram Stars）是Telegram应用内使用的虚拟货币。用户可以使用星币支持创作者、赠送礼品、购买数字商品和服务等。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: Telegram星币（Telegram Stars）是Telegram应用内使用的虚拟货币。用户可以使用星币支持创作者、赠送礼品、购买数字商品和服务等。
 head:
   - - meta
     - name: keywords
-      content: Telegram星币,Telegram Stars,Telegram礼物,Telegram打赏,Telegram赠送礼物,TG星币,TG Stars,TG礼物,TG打赏,TG赠送礼物,电报星币,电报Stars,电报礼物,电报打赏,电报赠送礼物,TGwiki,Telegram知识库
+      content: Telegram星币,Telegram Stars,Telegram礼物,Telegram打赏,Telegram赠送礼物,TG星币,TG Stars,TG礼物,TG打赏,TG赠送礼物,电报星币,电报Stars,电报礼物,电报打赏,电报赠送礼物
 ---
-
-# Telegram星币
 
 Telegram星币（Telegram Stars）是Telegram应用内使用的虚拟货币。星币是Telegram增强用户参与度和有效实现服务货币化的广泛战略的一部分。
 
@@ -19,7 +17,7 @@ Telegram星币（Telegram Stars）是Telegram应用内使用的虚拟货币。�
 
 每条含有“星币回应”的帖子都会显示排名靠前的赞赏排行榜。用户可以选择是否将自己的账号显示在“赞赏名单”上（若选择隐藏，将会显示为“匿名用户”）。
 
-频道所有者将获得100%的星星，并可以将其转换为Toncoin加密货币奖励或补贴广告。
+频道所有者将获得`100%`的星币，并可以将其转换为Toncoin加密货币奖励或补贴广告。
 
 ### 购买数字商品和服务
 
@@ -43,6 +41,6 @@ Telegram用户现在可以互相发送Telegram Stars礼物——用动画艺术�
 
 ::: details 界面截图
 
-![A-stars.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/A/stars.jpg)
+![tfa-stars.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/stars.jpg)
 
 :::
