@@ -9,7 +9,7 @@ export default defineUserConfig({
   shouldPrefetch: false,
   description: 'TGwiki (Telegram Wiki) - Telegram知识库，由TGNAV打造的高质量Telegram知识库，汇集了Telegram常用功能介绍和使用说明，帮助用户更全面地了解Telegram的各种功能。',
   head: [
-    ['meta', { name: 'image', content: '/assets.png' }],
+    ['meta', { name: 'image', content: '/assets/tgwiki.png' }],
     ['link', { rel: 'icon', href: '/assets/logo.png' }],
     ['script', {async: true, src: 'https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'}],
     ['script', {async: true, src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7353728415772033', crossorigin: 'anonymous'}],
