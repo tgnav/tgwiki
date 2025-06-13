@@ -133,7 +133,7 @@ export default hopeTheme({
           {
             text: "关注Twitter",
             type: "default",
-            link: "https://twitter.com/TGNAVteam",
+            link: "https://www.twitter.com/TGNAVteam",
           },
         ],
       },
