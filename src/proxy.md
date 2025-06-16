@@ -1,13 +1,11 @@
 ---
 title: 代理设置
-description: Telegram连接失败？本文提供了Telegram代理设置的有关说明，向您介绍如何修改Telegram代理设置，添加内置代理。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: Telegram连接失败？本文提供了Telegram代理设置的有关说明，向您介绍如何修改Telegram代理设置，添加内置代理。
 head:
   - - meta
     - name: keywords
-      content: Telegram代理设置,Telegram代理,Telegram内置代理,Telegram自定义代理,TG代理设置,TG代理,TG内置代理,TG自定义代理,电报代理设置,电报代理,电报内置代理,电报自定义代理,Telegram设置,TGwiki,Telegram知识库
+      content: Telegram代理设置,Telegram代理,Telegram内置代理,Telegram自定义代理,TG代理设置,TG代理,TG内置代理,TG自定义代理,电报代理设置,电报代理,电报内置代理,电报自定义代理
 ---
-
-# 代理设置
 
 ## Telegram Desktop
 
@@ -39,7 +37,7 @@ Telegram Desktop默认并没有勾选"使用系统代理"， 所以很多人觉�
 
 有可能你或你用的规则修改了代理软件的本地SOCKS5/HTTP端口， 具体以你的代理客户端为准。
 
-::: danger
+::: caution
 
 不能乱设置乱猜测，乱设置可能导致Telegram Desktop连不上网络。
 
@@ -86,7 +84,7 @@ Telegram macOS客户端不遵从系统代理，所以需要设置自定义代理
 
 :::
 
-::: danger
+::: caution
 
 不能乱设置乱猜测，乱设置可能导致Telegram macOS连不上网络。
 

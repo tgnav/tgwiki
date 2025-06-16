@@ -1,13 +1,11 @@
 ---
 title: 常见问题与解答
-description: 本文介绍了Telegram常见问题与解答，您可以在此处找到提问频率较高的问题，希望对您有所帮助。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: 本文介绍了Telegram常见问题与解答，您可以在此处找到提问频率较高的问题，希望对您有所帮助。
 head:
   - - meta
     - name: keywords
-      content: Telegram常见问题,Telegram常见问题与解答,Telegram FAQ,TG常见问题,TG常见问题与解答,TG FAQ,电报常见问题,电报常见问题与解答,电报FAQ,TGwiki,Telegram知识库
+      content: Telegram常见问题,Telegram常见问题与解答,Telegram FAQ,TG常见问题,TG常见问题与解答,TG FAQ,电报常见问题,电报常见问题与解答,电报FAQ
 ---
-
-# Telegram常见问题与解答
 
 ## 注册登录相关
 
@@ -35,11 +33,12 @@ Telegram官方不会主动联系你！Telegram不存在中文客服！只有手�
 
 ### 无法发送私聊消息？
 
-Telegram 给某人发送私聊消息时遇到如下提示： `Sorry, you can only send messages to mutual contacts at the momet.` 中文： `抱歉，目前您被限制无法主动发起私聊消息。`或`抱歉，您现在只能给双向联系人发送消息。` 详情参阅 [此处](./spam.html) 。
+Telegram给某人发送私聊消息时遇到如下提示： `Sorry, you can only send messages to mutual contacts at the momet.` 中文： `抱歉，目前您被限制无法主动发起私聊消息。`或`抱歉，您现在只能给双向联系人发送消息。` 详情参阅 [此处](./spam.html) 。
 
 ### 无法加群/频道？
 
-如果你进入某个群或频道遇到如下提示： `This channel can't be displayed because it was used to spread pornographic content.` 解决方法请参阅 [此处](./pornios.html) 。
+- 如果你进入某个群或频道遇到如下提示： `This channel can't be displayed because it was used to spread pornographic content.` 解决方法请参阅 [此处](./pornios.html) 。
+- 如果提示是`This channel can't be displayed because it violates Telegram's terms of service.` 说明是频道违反了Telegram的服务协议被封禁了。
 
 ### 消息发出后一直在转圈？
 
@@ -53,13 +52,15 @@ Telegram 给某人发送私聊消息时遇到如下提示： `Sorry, you can onl
 
 私人频道/群组需要通过邀请链接加入，如果您没有加入私人频道/群组，您将无法查看该频道/群组的消息。
 
+一些公开频道被封禁后打开会也提示这个。
+
 ### "无法访问该对话"？
 
 可能您被该频道/群组的管理员封禁了，请联系有关管理人员解封。
 
 ### 对话数量太多？需要整理？
 
-您可以将一些不常用的对话归档，也可以设置对话分组，将对话分成不同的组别。详情请参考 [Telegram对话归档](./archive.html)、[Telegram对话分组](./divide.html) 。
+您可以将一些不常用的对话归档，也可以设置对话分组，将对话分成不同的组别。详情请参考 [Telegram对话归档](./archive.html)、[Telegram对话分组](./folder.html) 。
 
 ### 点击群组/频道链接后一直转圈？
 
@@ -77,7 +78,7 @@ Telegram的中文搜索是以「词组」为单位的，以标点符号或空格
 
 ### 什么是Telegram Business？
 
-Telegram于10.9.1版本中推出了Telegram商业版（Telegram Business），这是Telegram进一步商业化的一个标志。详情请参阅 [此处](./business.html) 。
+Telegram于`10.9.1`版本中推出了Telegram商业版（Telegram Business），这是Telegram进一步商业化的一个标志。详情请参阅 [此处](./business.html) 。
 
 ## 机器人相关
 
@@ -89,9 +90,9 @@ Telegram于10.9.1版本中推出了Telegram商业版（Telegram Business），�
 
 您可以使用 `@LivegramBot` 搭建一个自己的私聊机器人。详情请参阅 [此处](./livegram.html) 。
 
-### 有什么好用的机器人？
+### 如何为机器人开启小程序功能？
 
-请阅读 [Telegram机器人推荐](./robot.html) 。
+请参考 [此处](./miniapp.html) 。
 
 ------
 

@@ -1,10 +1,10 @@
 ---
 title: 内容审查
-description: Telegram于2025年初加强了内容审查，并对违反用户协议的频道/群组（包括色情、暴力、版权问题等）进行限制，严重的会直接删除。本文介绍了Telegram的内容审查制度，访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: Telegram于2025年初加强了内容审查，并对违反用户协议的频道/群组（包括色情、暴力、版权问题等）进行限制，严重的会直接删除。本文介绍了Telegram的内容审查制度，
 head:
   - - meta
     - name: keywords
-      content: Telegram审查,Telegram内容审查,Telegram检测非法内容,Telegram用户举报,Telegram封禁,TG审查,TG内容审查,TG检测非法内容,TG用户举报,TG封禁,电报审查,电报内容审查,电报检测非法内容,电报用户举报,电报封禁,TGwiki,Telegram知识库
+      content: Telegram审查,Telegram内容审查,Telegram检测非法内容,Telegram用户举报,Telegram封禁,TG审查,TG内容审查,TG检测非法内容,TG用户举报,TG封禁,电报审查,电报内容审查,电报检测非法内容,电报用户举报,电报封禁
 ---
 
 ## 内容审查制度
@@ -127,8 +127,8 @@ Telegram指出，决定的执行取决于 *“所发布内容在适用法律下�
 - 频道的订阅者或群组的成员，如果没有参与管理、直接传播或推广违规内容，即使他们是可能存在此类内容的社区的成员，也不会被自动封禁。Telegram表示，采取这种做法是为了避免对执法人员、记者、活动家和其他用户造成意外伤害，因为他们可能会因为客观原因成为此类群组的成员。
 - 鉴于虐待儿童行为的严重性，任何与之相关的违规行为通常都会导致相关账户和社区被永久删除。此类群组和频道的所有者也可能被删除。
 
-::: tip
+::: info
 
-本文内容整理自：[澳大利亚互联网安全监管机构eSafety于2025年3月对Telegram审核的调查（英文）](https://www.esafety.gov.au/sites/default/files/2025-03/BOSE-responses-to-mandatory-notices-tvec-March2025.pdf)。
+本文内容整理自：[澳大利亚互联网安全监管机构eSafety对Telegram审核的调查（发布于2025年3月，原文为英文）](https://www.esafety.gov.au/sites/default/files/2025-03/BOSE-responses-to-mandatory-notices-tvec-March2025.pdf)。
 
 :::
