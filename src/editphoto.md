@@ -44,7 +44,7 @@ Telegram发图片格式，默认是会压缩的，只不过压缩的比较少，
 
   ::: details 操作演示
 
-  ![tfa-editphoto2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/imags/tfa/editphoto2.jpg)
+  ![tfa-editphoto2.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/editphoto2.jpg)
 
   ![tfa-editphoto3.jpg](https://cdn.jsdelivr.net/gh/tgwiki/images/tfa/editphoto3.jpg)
 
