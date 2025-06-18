@@ -75,7 +75,7 @@ highlights:
       - title: 对话分组
         icon: folder-open
         details: 设置对话分组，分类整理对话列表
-        link: /divide.html
+        link: /folder.html
       - title: 邮箱登录
         icon: envelope-open-text
         details: 开启邮箱登录，通过邮箱接收验证码登录Telegram
