@@ -15,7 +15,16 @@ head:
 
 1. Telegram官方客户端上是不会显示UID的。
 
-2. 可以使用机器人查看，比如：[@getidsbot](https://t.me/getidsbot) [@Sean_Bot](https://t.me/Sean_Bot) [@userinfobot](https://t.me/userinfobot)[ @username_to_id_bot](https://t.me/username_to_id_bot)
+   ::: info
+
+   最新版本的 Telegram Desktop 和 macOS 版 Telegram 已支持显示 UID。
+
+   - Telegram Desktop: 左上角菜单 > `设置` (`Settings`) > `高级` (`Advanced`) > `实验性设置` (`Experiment Settings`) > `Show Peer IDs in Profile`
+   - macOS 版 Telegram: `设置` (`Settings`) > `通用` (`General`) > `Show Peer IDs in Profile`
+
+   :::
+
+3. 可以使用机器人查看，比如：[@getidsbot](https://t.me/getidsbot) [@Sean_Bot](https://t.me/Sean_Bot) [@userinfobot](https://t.me/userinfobot)[ @username_to_id_bot](https://t.me/username_to_id_bot)
 
     ::: details 操作演示
 
@@ -23,7 +32,7 @@ head:
 
     :::
 
-3. 使用第三方客户端查看。
+4. 使用第三方客户端查看。
 
    ::: info
 
@@ -44,7 +53,9 @@ head:
 
 ## 注册时间
 
-TG默认不会显示账号的注册时间，可以通过以下方式查看大致的时间，不一定准确：
+在你的非联系人主动向你私信时，Telegram 会在聊天的开头显示用户的注册时间，精确到月份。
+
+除以上情况之外，TG默认不会显示账号的注册时间，可以通过以下方式查看大致的时间，不一定准确：
 
 - 机器人查看，比如：[@creationdatebot](https://t.me/creationdatebot) [@getidsbot](https://t.me/getidsbot)
 - 第三方客户端查看。
