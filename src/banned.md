@@ -1,15 +1,13 @@
 ---
 title: 号码被封禁
-description: 登录时候提示“此手机号码已被封禁”，说明账号被Telegram官方封了。本文介绍了向官方申诉进行解封的多种方法，以及如何防止被封号。访问TGwiki - Telegram知识库，了解更多Telegram使用技巧。
+description: 登录时候提示“此手机号码已被封禁”，说明账号被Telegram官方封了。本文介绍了向官方申诉进行解封的多种方法，以及如何防止被封号。
 head:
   - - meta
     - name: keywords
-      content: Telegram封禁,Telegram号码被封禁,Telegram申请解封,Telegram登录时提示号码被封禁,Telegram防止被封号,TG号码被封禁,TG申请解封,TG防止被封号,电报号码被封禁,电报申请解封,电报防止被号,TGwiki,Telegram知识库
+      content: Telegram封禁,Telegram号码被封禁,Telegram申请解封,Telegram登录时提示号码被封禁,Telegram防止被封号,TG号码被封禁,TG申请解封,TG防止被封号,电报号码被封禁,电报申请解封,电报防止被号
 ---
 
-# Telegram登录时提示号码被封禁
-
-登录时候提示`This phone number is banned`（`此手机号码已被封禁`），说明此手机号已经被Telegram官方封了，不能登录也不能注销。
+登录时候提示`This phone number is banned`（`此手机号码已被封禁`），说明此手机号已经被Telegram官方封禁了，不能登录也不能注销。
 
 ::: details 界面截图
 
@@ -38,10 +36,10 @@ Banned phone number: +1 xxx xxx xxxx
 ```
 I'm trying to use my mobile phone number: +1 xxx xxx xxxx
 But Telegram says it's banned. Please help.
-I need this account it's on my most used number.
+I need this account. It's on my most used number.
 
-App version: 8.7.4 (26367)
-OS version: SDK 30
+App version: 10.14.5 (49455)
+OS version: SDK 34
 Device Name: Android
 
 Thank you.
@@ -62,8 +60,8 @@ Telegram官方客服人员非常少，所以三个邮箱多次重复发送（轰
 `Please describe your problem`内容如下（也可以自行编辑）：
 
 ```
-Dear Sir/Ma'am.
-My number +1 xxx xxx xxxx been banned and i am not able to figure out the reason for supension,please help me to recover my account.
+Dear Sir/Madam,
+My number +1 xxx xxx xxxx been banned and i am not able to figure out the reason for supension. Please help me to recover my account.
 Thank you.
 ```
 

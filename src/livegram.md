@@ -9,6 +9,12 @@ head:
 
 部分账号可能会有双向限制，无法直接发起私聊，这时候可能就需要一个私聊机器人。同时，私聊机器人还可以用作投稿，防止垃圾信息骚扰。
 
+::: tip
+
+提供双向机器人服务的机器人有很多（均不是Telegram官方），如 [@ModularBot](https://t.me/ModularBot) 、[@EasyPM_bot](https://t.me/EasyPM_bot) 等。本文以  [@LivegramBot](https://t.me/LivegramBot) 为例，其他机器人流程与此相似。
+
+:::
+
 ## 步骤
 
 1. 首先，请先 [按照教程](./createrobot.html.html) 创建一个机器人。

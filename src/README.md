@@ -106,7 +106,7 @@ highlights:
         link: /notcomesms.html
       - title: 解除私聊限制
         icon: user-lock
-        details: 无法发起私聊的申诉步骤
+        details: 无法主动发送私聊消息的申诉步骤
         link: /spam.html
       - title: 解除敏感内容限制
         icon: table-cells-row-lock
@@ -139,6 +139,10 @@ highlights:
         icon: language
         details: 安装中文语言包，将界面转换为中文
         link: /language.html
+      - title: 谨防诈骗
+        icon: bug
+        details: Telegram上常见的诈骗套路，提前闭坑
+        link: /scam.html
 
   - header: 基础操作
     description: Telegram基础操作介绍，Telegram必备技能
@@ -324,13 +328,17 @@ highlights:
         icon: comment-sms
         details: 注册登录时没有收到验证码的解决方案
         link: /notcomesms.html
+      - title: 账号被冻结
+        icon: snowflake
+        details: 账号因违反服务协议而被官方停用的申诉步骤
+        link: /frozen.html
       - title: 号码被封禁
         icon: ban
         details: 注册登录时提示号码被封禁的解决方案
         link: /banned.html
       - title: 解除私聊限制
         icon: user-lock
-        details: 无法发起私聊的申诉步骤
+        details: 无法主动发送私聊消息的申诉步骤
         link: /spam.html
       - title: 解除敏感内容限制
         icon: table-cells-row-lock

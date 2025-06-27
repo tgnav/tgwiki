@@ -19,7 +19,7 @@ head:
 
 ### 账号异常，即将自动注销？
 
-Telegram官方不会主动联系你！Telegram不存在中文客服！只有手机号码是`+42777`的是官方通知！该消息很可能是盗号消息！请及时拉黑+举报！
+Telegram官方不会主动联系你！Telegram不存在中文客服！只有手机号码是`+42777`的是官方通知！该消息很可能是盗号消息！请及时拉黑+举报！更多常见诈骗套路请看 [这里](./scam.html) 。
 
 ### 如何为账号设置登录邮箱？
 
@@ -74,11 +74,11 @@ Telegram的中文搜索是以「词组」为单位的，以标点符号或空格
 
 ### 开通大会员有什么用？
 
-开通后可以享受Premium专属功能，以及上限翻倍等（实话实说有些鸡肋），同时可以在一定程度上降低被限制的风险（这并不意味着你不会被限制）。详情请参阅 [此处](./premium.html) 。
+开通后可以享受Premium专属功能，以及上限翻倍等，同时可以在一定程度上降低被限制的风险（这并不意味着你不会被限制）。详情请参阅 [此处](./premium.html) 。
 
 ### 什么是Telegram Business？
 
-Telegram于`10.9.1`版本中推出了Telegram商业版（Telegram Business），这是Telegram进一步商业化的一个标志。详情请参阅 [此处](./business.html) 。
+Telegram于`10.9.1`版本中推出了Telegram商业版（Telegram Business），这是Telegram进一步商业化的一个标志。目前Premium用户可以体验Business功能。详情请参阅 [此处](./business.html) 。
 
 ## 机器人相关
 

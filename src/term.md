@@ -15,9 +15,9 @@ head:
 
 1. Telegram官方客户端上是不会显示UID的。
 
-   ::: info
+   ::: tip
 
-   最新版本的 Telegram Desktop 和 macOS 版 Telegram 已支持显示 UID。
+   最新版本的Telegram Desktop和macOS版Telegram已支持显示UID。
 
    - Telegram Desktop: 左上角菜单 > `设置` (`Settings`) > `高级` (`Advanced`) > `实验性设置` (`Experiment Settings`) > `Show Peer IDs in Profile`
    - macOS 版 Telegram: `设置` (`Settings`) > `通用` (`General`) > `Show Peer IDs in Profile`
@@ -130,7 +130,9 @@ Telegram有几种聊天方式：私聊、群组、频道、机器人
 
    :::
 
-## 限制、冻结
+## 限制、冻结、封禁
+
+本条目的术语针对Telegram账号。
 
 1. 限制
 
@@ -142,11 +144,23 @@ Telegram有几种聊天方式：私聊、群组、频道、机器人
 
    ::: note
 
-   账号冻结于2025年5月推出，在此之前账号会被直接封禁，并在登录时提示`This phone number is banned`。
+   账号冻结于2025年4月推出，在此之前账号会被直接封禁，并在登录时提示`This phone number is banned`。
 
    :::
 
+   ::: info
+
+   有关“冻结”的更多信息请参考 [此处](./frozen.html) 。
+
+   :::
+
+3. 封禁
+
+   由于频繁操作而被系统风控导致直接销号。号码被封禁后将无法登录账号，也无法注销。
+
 ## 封禁、拉黑、禁言
+
+本条目的术语针对Telegram群组内操作。
 
 1. 封禁（ban）
 

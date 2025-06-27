@@ -32,6 +32,11 @@ export default sidebar({
           icon: "language",
           link: "/language.html"
         },
+        {
+          text: "谨防诈骗",
+          icon: "bug",
+          link: "/scam.html"
+        },
       ],
     },
     {
@@ -217,14 +222,31 @@ export default sidebar({
           link: "/shortcut.html"
         },
         {
-          text: "第三方客户端",
-          icon: "wand-magic-sparkles",
-          link: "/thirdparty.html"
-        },
-        {
           text: "Fragment",
           icon: "hand-holding-dollar",
           link: "/fragment.html"
+        },
+      ],
+    },
+    {
+      text: "第三方客户端",
+      icon: "wand-magic-sparkles",
+      collapsible: true,
+      children: [
+        {
+          text: "概览",
+          icon: "table-list",
+          link: "/thirdparty.html"
+        },
+        {
+          text: "Nagram",
+          icon: "n",
+          link: "/nagram.html"
+        },
+        {
+          text: "Turrit",
+          icon: "meteor",
+          link: "/turrit.html"
         },
       ],
     },
@@ -257,6 +279,11 @@ export default sidebar({
           text: "未收到验证码",
           icon: "comment-sms",
           link: "/notcomesms.html"
+        },
+        {
+          text: "账号被冻结",
+          icon: "snowflake",
+          link: "/frozen.html"
         },
         {
           text: "号码被封禁",

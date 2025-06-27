@@ -43,9 +43,8 @@ export default defineClientConfig({
       // 这是因为 afterEach 钩子也可能在 SSR 过程中被调用
       if (typeof window !== 'undefined') {
         // 调用 reloadScript 函数来加载您的脚本
-        // 请将 "https://tg.wiki/js/ads.js" 替换为您的实际脚本 URL
         reloadScript("https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js");
-        reloadScript("https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7353728415772033");
+        reloadScript("https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8134487633157988");
       }
     });
   },
