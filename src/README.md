@@ -141,7 +141,7 @@ highlights:
         link: /language.html
       - title: 谨防诈骗
         icon: bug
-        details: Telegram上常见的诈骗套路，提前闭坑
+        details: Telegram上常见的诈骗套路，提前避坑
         link: /scam.html
 
   - header: 基础操作
