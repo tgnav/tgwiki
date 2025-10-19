@@ -107,16 +107,28 @@ Telegram在2025年4月推出了账号冻结。当Telegram官方认为你违反�
 11. 完成人机验证，然后点击输入框下方按钮`Done`
 
     Bot回复：`Thank you! Your appeal has been successfully submitted. Our team’s supervisors will check it as soon as possible.`（`谢谢！您的申诉已成功提交。我们团队的主管将尽快审核`）
+    
+    ::: tip
+    
+    如果机器人要求您在网站上完成验证码，而您未能成功，请尝试以下方法：
+    
+    1. 尝试在完整的浏览器中完成验证码，而不是在Telegram的内置浏览器中。
+       - 使用iOS设备时，要在Safari中完成验证码，请在打开链接后点击底部工具栏的指南针图标。
+       - 使用Android设备时，要完成验证码，打开链接后点击右上角的三个点并选择“在...中打开”。
+       - 您也可以在`设置`（`Settings`）->`对话设置`（`Chat Settings`）中禁用“应用内浏览器 (In-App Browser)”选项
+    2. 您必须在收到链接后五分钟内完成验证码。如果已经超过5分钟，请再次向机器人发送`/start`指令并重新开始申诉流程。
+    
+    :::
 
 ::: important
 
-被冻结的账号一周只能申诉一次。
+被冻结的账号申诉有次数限制，一般情况下一周左右只能申诉一次。
 
 :::
 
 ## 其他
 
-- Telegram账号冻结后恢复的概率很小，建议想办法导出账号数据
+- Telegram账号冻结后恢复的概率很小，建议想办法导出账号数据。
 
 - 您可以尝试应用内申诉的同时，前往 [支持页面](https://telegram.org/support) 提交申诉、给官方发送邮件轰炸、联系官方Twitter，增大账号恢复概率。
 
