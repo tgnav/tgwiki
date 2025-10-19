@@ -69,3 +69,5 @@ head:
   请求重置邮箱登录是无法取消的！Telegram官方也不会给你发送通知！
 
   :::
+
+> 参考来源：[Email Login测评](https://telegra.ph/Telegram-Email-Login-测评-08-23)
