@@ -1,5 +1,6 @@
 import { defineClientConfig } from 'vuepress/client';
 import Layout from "./layouts/Layout.vue";
+import aiLayout from "./layouts/aiLayout.vue";
 
 function reloadScript(url: string): void {
   // 确保这段代码只在浏览器环境中执行，因为 'document' 和 'window' 在 Node.js (SSR) 中不存在
@@ -29,6 +30,9 @@ function reloadScript(url: string): void {
 
 // 定义客户端配置
 export default defineClientConfig({
+  layouts: {
+    aiLayout: aiLayout,
+  },
   // enhance 钩子用于增强 Vue 应用实例、路由器等
   enhance({ app, router, siteData }) {
     // router.beforeEach 钩子在路由切换前触发
