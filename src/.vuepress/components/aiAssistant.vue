@@ -6,7 +6,7 @@ const AI_API_URL = 'https://wikiapi.tgnav.org/ask'
 
 const question = ref('')
 const conversation = ref([
-  { role: 'assistant', text: '您好！我是TGwikiAI，由TGwiki根据文档内容训练的AI助手。请问有什么可以帮助到您？' }
+  { role: 'assistant', text: '您好！我是TGwikiAI，由TGwiki根据文档内容训练的AI助手。请问有什么可以帮助到您？', isAI: false }
 ])
 const isLoading = ref(false)
 
@@ -42,30 +42,38 @@ const submitQuestion = async () => {
 
     // 5. 检查响应状态
     if (!response.ok) {
-      throw new Error(`API 错误: ${response.status} ${response.statusText}`)
+      throw new Error(`API错误：${response.status} ${response.statusText}`)
     }
 
     // 6. 解析 JSON 响应
     const data = await response.json()
     
     // 假设 AI 接口返回的回答内容在 data.answer 字段中
-    const aiAnswer = data.answer || '出现问题：TGwikiAI返回的数据格式不正确。'
+    const aiAnswer = data.answer || '出现问题：服务接口返回的数据格式不正确。'
 
     // 7. 添加 AI 回答到对话记录
-    conversation.value.push({ role: 'assistant', text: aiAnswer })
-
+    conversation.value.push({ role: 'assistant', text: aiAnswer, isAI: true })
+    
   } catch (error) {
-    console.error('AI助手请求出错:', error)
+    console.error('AI助手请求出错：', error)
     // 8. 处理错误，并提示用户
     conversation.value.push({ 
       role: 'assistant', 
-      text: `抱歉，尝试连接TGwikiAI时出错。错误信息: ${error.message}。请检查您的网络环境或稍后重试。` 
+      text: `抱歉，尝试连接TGwikiAI时出错。错误信息：${error.message}。请检查您的网络环境或稍后重试。`,
+      isAI: false
     })
   } finally {
     // 9. 移除加载状态
     isLoading.value = false
     scrollToBottom()
   }
+}
+
+const formatMessage = (text) => {
+  if (!text) return ''
+  
+  // 替换所有换行符 \n 为 <br> 标签
+  return text.replace(/\n/g, '<br>')
 }
 
 /**
@@ -84,17 +92,17 @@ const scrollToBottom = () => {
 
 <template>
   <div class="ai-assistant-container">
-    <h2 class="assistant-title">🤖TGwikiAI</h2>
+    <h1 class="assistant-title">🤖TGwikiAI[测试版]</h1>
     
     <div class="conversation-area">
       <div v-for="(msg, index) in conversation" :key="index" :class="['message', msg.role]">
-        <strong>{{ msg.role === 'user' ? '用户' : 'TGwikiAI' }}:</strong>
-        <p>{{ msg.text }}</p>
-        <em v-if="msg.role === 'assistant' && msg.isAI" class="ai-disclaimer"><i class="fa fa-info-circle"></i> 内容由AI生成，可能存在错误，请以文档为准</em>
+        <strong>{{ msg.role === 'user' ? '用户' : 'TGwikiAI' }}：</strong>
+        <p v-html="formatMessage(msg.text)"></p>
+        <em v-if="msg.role === 'assistant' && msg.isAI" class="ai-disclaimer"><i class="fa fa-info-circle"></i> 内容由AI生成，可能存在错误，请仔细甄别</em>
       </div>
       <div v-if="isLoading" class="message assistant loading-indicator">
-        <strong>TGwikiAI:</strong>
-        <p>思考中...</p>
+        <strong>TGwikiAI：</strong>
+        <p>正在查找文档内容...</p>
       </div>
     </div>
 
@@ -103,7 +111,7 @@ const scrollToBottom = () => {
         v-model="question" 
         @keyup.enter="submitQuestion" 
         :disabled="isLoading"
-        placeholder="向TGwikiAI提问..." 
+        placeholder="向TGwikiAI提问..."
       />
       <button @click="submitQuestion" :disabled="isLoading">
         {{ isLoading ? '发送中...' : '发送' }}
