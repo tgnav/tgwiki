@@ -306,7 +306,7 @@ export default sidebar({
           link: "/contact.html"
         },
         {
-          text: "内容审核",
+          text: "内容审查",
           icon: "circle-exclamation",
           link: "/moderation.html"
         },
