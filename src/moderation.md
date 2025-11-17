@@ -132,3 +132,9 @@ Telegram指出，决定的执行取决于 *“所发布内容在适用法律下�
 本文内容整理自：[澳大利亚互联网安全监管机构eSafety对Telegram审核的调查（发布于2025年3月，原文为英文）](https://www.esafety.gov.au/sites/default/files/2025-03/BOSE-responses-to-mandatory-notices-tvec-March2025.pdf)。
 
 :::
+
+::: tip
+
+[Telegram内容审查数据实时预览（数据由官方统计）](https://telegram.org/moderation)
+
+:::
