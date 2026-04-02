@@ -23,7 +23,6 @@ head:
 |   Nullgram   | Nullgram是一款免费开源的第三方Telegram客户端，基于Android版Telegram App的官方源代码 |       Android       | [GitHub](https://github.com/qwq233/Nullgram/releases/) / [Telegram Channel](https://t.me/NullgramClient) |
 |   Nnngram    | 基于Nullgram的Telegram第三方客户端 |       Android       | [Telegram Channel](https://t.me/Nnngram) |
 | Cherrygram | Cherrygram是一个第三方Telegram客户端，虽然修改不多，但很有用。 | Android | [GitHub](https://github.com/arsLan4k1390/Cherrygram/releases) / [Telegram Channel](https://t.me/Cherry_gram) / [Google Play](https://play.google.com/store/apps/details?id=uz.unnarsx.cherrygram) |
-|    MDGram    | MDGram是一款令人惊叹的Telegram客户端，具有优雅的设计和广泛的自定义功能 |       Android       | [官网下载](https://mdgram.org/mdgram-download/) / [Google Play](https://play.google.com/store/apps/details?id=org.telegram.mdgram) |
 | Plus Messenger | 一款使用Telegram API的消息传递应用程序 |       Android       | [Google Play](https://play.google.com/store/apps/details?id=org.telegram.plus)|
 |   Nicegram   | Nicegram是一款基于Telegram API的通讯工具，为商业和个人通信提供了更多机会 |     Android/iOS     | [Google Play](https://play.google.com/store/apps/details?id=app.nicegram) / [App Store](https://apps.apple.com/us/app/nicegram-ai-chat-for-telegram/id1608870673) |
 | Turrit | 全球首款支持全场景翻译的Telegram客户端 [<Badge text="详情" vertical="middle" />](./turrit.html) | Android/iOS | [Google Play](https://play.google.com/store/apps/details?id=org.telegram.group) / [App Store](https://apps.apple.com/us/app/turrit-messenger-for-telegram/id6471781238) |
