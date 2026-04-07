@@ -81,5 +81,4 @@ head:
 您也可以使用下面的第三方Telegram机器人，更方便地创建贴纸包：
 
 - [@fStikBot](https://t.me/fStikBot)
-- [@WuMingv2Bot](https://t.me/WuMingv2Bot)
 - [@KyStkrBot](https://t.me/KyStkrBot)
