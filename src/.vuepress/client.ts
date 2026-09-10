@@ -31,6 +31,7 @@ function reloadScript(url: string): void {
 // 定义客户端配置
 export default defineClientConfig({
   layouts: {
+    Layout: Layout,
     aiLayout: aiLayout,
   },
   // enhance 钩子用于增强 Vue 应用实例、路由器等

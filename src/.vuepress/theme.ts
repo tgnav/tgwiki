@@ -128,7 +128,7 @@ export default hopeTheme({
           {
             text: "赞助我们",
             type: "primary",
-            link: "https://tgnav.github.io/donate/",
+            link: "https://www.tgnav.org/donate/",
           },
           {
             text: "关注Twitter",
