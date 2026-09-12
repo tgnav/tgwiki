@@ -23,7 +23,6 @@ head:
 
 - login@stel.com
 - recover@telegram.org
-- login@telegram.org
 - abuse@telegram.org
 
 邮件标题：
